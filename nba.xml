@@ -1,95 +1,258 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="https://github.com/your-repo" source-info-name="NBA EPG">
-  <channel id="NBA01">
-    <display-name>NBA 01</display-name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="NBA XMLTV Generator" generator-info-url="" source-info-name="NBA Television" source-info-url="https://www.nba.com">
+  <channel id="NBA 01">
+    <display-name lang="en">NBA 01</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA01/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA02">
-    <display-name>NBA 02</display-name>
+  <programme start="20251201160000 -0500" stop="20251201190000 -0500" channel="NBA 01">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Atlanta Hawks at Detroit Pistons. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201190000 -0500" stop="20251201223000 -0500" channel="NBA 01">
+    <title lang="en">ᴸᶦᵛᵉ Atlanta Hawks at Detroit Pistons</title>
+    <desc lang="en">Live NBA action from Pistons between the Atlanta Hawks and Detroit Pistons. Tip-off at 7:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201223000 -0500" stop="20251201233000 -0500" channel="NBA 01">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Atlanta Hawks at Detroit Pistons.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 02">
+    <display-name lang="en">NBA 02</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA02/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA03">
-    <display-name>NBA 03</display-name>
+  <programme start="20251201160000 -0500" stop="20251201190000 -0500" channel="NBA 02">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Cleveland Cavaliers at Indiana Pacers. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201190000 -0500" stop="20251201223000 -0500" channel="NBA 02">
+    <title lang="en">ᴸᶦᵛᵉ Cleveland Cavaliers at Indiana Pacers</title>
+    <desc lang="en">Live NBA action from Pacers between the Cleveland Cavaliers and Indiana Pacers. Tip-off at 7:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201223000 -0500" stop="20251201233000 -0500" channel="NBA 02">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Cleveland Cavaliers at Indiana Pacers.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 03">
+    <display-name lang="en">NBA 03</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA03/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA04">
-    <display-name>NBA 04</display-name>
+  <programme start="20251201160000 -0500" stop="20251201190000 -0500" channel="NBA 03">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Milwaukee Bucks at Washington Wizards. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201190000 -0500" stop="20251201223000 -0500" channel="NBA 03">
+    <title lang="en">ᴸᶦᵛᵉ Milwaukee Bucks at Washington Wizards</title>
+    <desc lang="en">Live NBA action from Wizards between the Milwaukee Bucks and Washington Wizards. Tip-off at 7:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201223000 -0500" stop="20251201233000 -0500" channel="NBA 03">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Milwaukee Bucks at Washington Wizards.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 04">
+    <display-name lang="en">NBA 04</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA04/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA05">
-    <display-name>NBA 05</display-name>
+  <programme start="20251201163000 -0500" stop="20251201193000 -0500" channel="NBA 04">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Chicago Bulls at Orlando Magic. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201193000 -0500" stop="20251201230000 -0500" channel="NBA 04">
+    <title lang="en">ᴸᶦᵛᵉ Chicago Bulls at Orlando Magic</title>
+    <desc lang="en">Live NBA action from Magic between the Chicago Bulls and Orlando Magic. Tip-off at 7:30pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201230000 -0500" stop="20251202000000 -0500" channel="NBA 04">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Chicago Bulls at Orlando Magic.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 05">
+    <display-name lang="en">NBA 05</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA05/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA06">
-    <display-name>NBA 06</display-name>
+  <programme start="20251201163000 -0500" stop="20251201193000 -0500" channel="NBA 05">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for LA Clippers at Miami Heat. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201193000 -0500" stop="20251201230000 -0500" channel="NBA 05">
+    <title lang="en">ᴸᶦᵛᵉ LA Clippers at Miami Heat</title>
+    <desc lang="en">Live NBA action from Heat between the LA Clippers and Miami Heat. Tip-off at 7:30pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201230000 -0500" stop="20251202000000 -0500" channel="NBA 05">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from LA Clippers at Miami Heat.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 06">
+    <display-name lang="en">NBA 06</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA06/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA07">
-    <display-name>NBA 07</display-name>
+  <programme start="20251201163000 -0500" stop="20251201193000 -0500" channel="NBA 06">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Charlotte Hornets at Brooklyn Nets. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201193000 -0500" stop="20251201230000 -0500" channel="NBA 06">
+    <title lang="en">ᴸᶦᵛᵉ Charlotte Hornets at Brooklyn Nets</title>
+    <desc lang="en">Live NBA action from Nets between the Charlotte Hornets and Brooklyn Nets. Tip-off at 7:30pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251201230000 -0500" stop="20251202000000 -0500" channel="NBA 06">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Charlotte Hornets at Brooklyn Nets.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 07">
+    <display-name lang="en">NBA 07</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA07/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA08">
-    <display-name>NBA 08</display-name>
+  <programme start="20251201180000 -0500" stop="20251201210000 -0500" channel="NBA 07">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Dallas Mavericks at Denver Nuggets. Game starts at 9:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201210000 -0500" stop="20251202003000 -0500" channel="NBA 07">
+    <title lang="en">ᴸᶦᵛᵉ Dallas Mavericks at Denver Nuggets</title>
+    <desc lang="en">Live NBA action from Nuggets between the Dallas Mavericks and Denver Nuggets. Tip-off at 9:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251202003000 -0500" stop="20251202013000 -0500" channel="NBA 07">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Dallas Mavericks at Denver Nuggets.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 08">
+    <display-name lang="en">NBA 08</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA08/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA09">
-    <display-name>NBA 09</display-name>
+  <programme start="20251201180000 -0500" stop="20251201210000 -0500" channel="NBA 08">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Houston Rockets at Utah Jazz. Game starts at 9:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201210000 -0500" stop="20251202003000 -0500" channel="NBA 08">
+    <title lang="en">ᴸᶦᵛᵉ Houston Rockets at Utah Jazz</title>
+    <desc lang="en">Live NBA action from Jazz between the Houston Rockets and Utah Jazz. Tip-off at 9:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251202003000 -0500" stop="20251202013000 -0500" channel="NBA 08">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Houston Rockets at Utah Jazz.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 09">
+    <display-name lang="en">NBA 09</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA09/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA10">
-    <display-name>NBA 10</display-name>
+  <programme start="20251201190000 -0500" stop="20251201220000 -0500" channel="NBA 09">
+    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <desc lang="en">Pregame coverage for Phoenix Suns at Los Angeles Lakers. Game starts at 10:00pm EST on Mon Dec 1.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <programme start="20251201220000 -0500" stop="20251202013000 -0500" channel="NBA 09">
+    <title lang="en">ᴸᶦᵛᵉ Phoenix Suns at Los Angeles Lakers</title>
+    <desc lang="en">Live NBA action from Lakers between the Phoenix Suns and Los Angeles Lakers. Tip-off at 10:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+  </programme>
+  <programme start="20251202013000 -0500" stop="20251202023000 -0500" channel="NBA 09">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Phoenix Suns at Los Angeles Lakers.</desc>
+    <category lang="en">Sports Talk</category>
+  </programme>
+  <channel id="NBA 10">
+    <display-name lang="en">NBA 10</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA10/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA11">
-    <display-name>NBA 11</display-name>
+  <channel id="NBA 11">
+    <display-name lang="en">NBA 11</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA11/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA12">
-    <display-name>NBA 12</display-name>
+  <channel id="NBA 12">
+    <display-name lang="en">NBA 12</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA12/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA13">
-    <display-name>NBA 13</display-name>
+  <channel id="NBA 13">
+    <display-name lang="en">NBA 13</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA13/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA14">
-    <display-name>NBA 14</display-name>
+  <channel id="NBA 14">
+    <display-name lang="en">NBA 14</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA14/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA15">
-    <display-name>NBA 15</display-name>
+  <channel id="NBA 15">
+    <display-name lang="en">NBA 15</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA15/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA16">
-    <display-name>NBA 16</display-name>
+  <channel id="NBA 16">
+    <display-name lang="en">NBA 16</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA16/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA17">
-    <display-name>NBA 17</display-name>
+  <channel id="NBA 17">
+    <display-name lang="en">NBA 17</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA17/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA18">
-    <display-name>NBA 18</display-name>
+  <channel id="NBA 18">
+    <display-name lang="en">NBA 18</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA18/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA19">
-    <display-name>NBA 19</display-name>
+  <channel id="NBA 19">
+    <display-name lang="en">NBA 19</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA19/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA20">
-    <display-name>NBA 20</display-name>
+  <channel id="NBA 20">
+    <display-name lang="en">NBA 20</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA20/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA21">
-    <display-name>NBA 21</display-name>
+  <channel id="NBA 21">
+    <display-name lang="en">NBA 21</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA21/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA22">
-    <display-name>NBA 22</display-name>
+  <channel id="NBA 22">
+    <display-name lang="en">NBA 22</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA22/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA23">
-    <display-name>NBA 23</display-name>
+  <channel id="NBA 23">
+    <display-name lang="en">NBA 23</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA23/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA24">
-    <display-name>NBA 24</display-name>
+  <channel id="NBA 24">
+    <display-name lang="en">NBA 24</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA24/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA25">
-    <display-name>NBA 25</display-name>
+  <channel id="NBA 25">
+    <display-name lang="en">NBA 25</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA25/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA26">
-    <display-name>NBA 26</display-name>
+  <channel id="NBA 26">
+    <display-name lang="en">NBA 26</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA26/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA27">
-    <display-name>NBA 27</display-name>
+  <channel id="NBA 27">
+    <display-name lang="en">NBA 27</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA27/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA28">
-    <display-name>NBA 28</display-name>
+  <channel id="NBA 28">
+    <display-name lang="en">NBA 28</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA28/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA29">
-    <display-name>NBA 29</display-name>
+  <channel id="NBA 29">
+    <display-name lang="en">NBA 29</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA29/primary/L/logo.svg"/>
   </channel>
-  <channel id="NBA30">
-    <display-name>NBA 30</display-name>
+  <channel id="NBA 30">
+    <display-name lang="en">NBA 30</display-name>
+    <icon src="https://cdn.nba.com/logos/nba/NBA30/primary/L/logo.svg"/>
   </channel>
-
 </tv>
