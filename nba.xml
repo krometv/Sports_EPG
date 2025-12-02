@@ -6,21 +6,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 01</display-name>
   </channel>
-  <programme channel="NBA.01.us2" start="20251201160000 -0500" stop="20251201190000 -0500">
+  <programme channel="NBA.01.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Atlanta Hawks at Detroit Pistons. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for Washington Wizards at Philadelphia 76ers. Game starts at 7:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251201190000 -0500" stop="20251201223000 -0500">
-    <title lang="en">LIVE: Atlanta Hawks at Detroit Pistons</title>
-    <desc lang="en">Live NBA action from Pistons between the Atlanta Hawks and Detroit Pistons. Tip-off at 7:00pm EST.</desc>
+  <programme channel="NBA.01.us2" start="20251202190000 -0500" stop="20251202223000 -0500">
+    <title lang="en">LIVE: Washington Wizards at Philadelphia 76ers</title>
+    <desc lang="en">Live NBA action from 76ers between the Washington Wizards and Philadelphia 76ers. Tip-off at 7:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251201223000 -0500" stop="20251201233000 -0500">
+  <programme channel="NBA.01.us2" start="20251202223000 -0500" stop="20251202233000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Atlanta Hawks at Detroit Pistons.</desc>
+    <desc lang="en">Postgame analysis and highlights from Washington Wizards at Philadelphia 76ers.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -30,21 +30,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 02</display-name>
   </channel>
-  <programme channel="NBA.02.us2" start="20251201160000 -0500" stop="20251201190000 -0500">
+  <programme channel="NBA.02.us2" start="20251202163000 -0500" stop="20251202193000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Cleveland Cavaliers at Indiana Pacers. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for Portland Trail Blazers at Toronto Raptors. Game starts at 7:30pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251201190000 -0500" stop="20251201223000 -0500">
-    <title lang="en">LIVE: Cleveland Cavaliers at Indiana Pacers</title>
-    <desc lang="en">Live NBA action from Pacers between the Cleveland Cavaliers and Indiana Pacers. Tip-off at 7:00pm EST.</desc>
+  <programme channel="NBA.02.us2" start="20251202193000 -0500" stop="20251202230000 -0500">
+    <title lang="en">LIVE: Portland Trail Blazers at Toronto Raptors</title>
+    <desc lang="en">Live NBA action from Raptors between the Portland Trail Blazers and Toronto Raptors. Tip-off at 7:30pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251201223000 -0500" stop="20251201233000 -0500">
+  <programme channel="NBA.02.us2" start="20251202230000 -0500" stop="20251203000000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Cleveland Cavaliers at Indiana Pacers.</desc>
+    <desc lang="en">Postgame analysis and highlights from Portland Trail Blazers at Toronto Raptors.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -54,21 +54,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 03</display-name>
   </channel>
-  <programme channel="NBA.03.us2" start="20251201160000 -0500" stop="20251201190000 -0500">
+  <programme channel="NBA.03.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Milwaukee Bucks at Washington Wizards. Game starts at 7:00pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for New York Knicks at Boston Celtics. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.03.us2" start="20251201190000 -0500" stop="20251201223000 -0500">
-    <title lang="en">LIVE: Milwaukee Bucks at Washington Wizards</title>
-    <desc lang="en">Live NBA action from Wizards between the Milwaukee Bucks and Washington Wizards. Tip-off at 7:00pm EST.</desc>
+  <programme channel="NBA.03.us2" start="20251202200000 -0500" stop="20251202233000 -0500">
+    <title lang="en">LIVE: New York Knicks at Boston Celtics</title>
+    <desc lang="en">Live NBA action from Celtics between the New York Knicks and Boston Celtics. Tip-off at 8:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.03.us2" start="20251201223000 -0500" stop="20251201233000 -0500">
+  <programme channel="NBA.03.us2" start="20251202233000 -0500" stop="20251203003000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Milwaukee Bucks at Washington Wizards.</desc>
+    <desc lang="en">Postgame analysis and highlights from New York Knicks at Boston Celtics.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -78,21 +78,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 04</display-name>
   </channel>
-  <programme channel="NBA.04.us2" start="20251201163000 -0500" stop="20251201193000 -0500">
+  <programme channel="NBA.04.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Chicago Bulls at Orlando Magic. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for Minnesota Timberwolves at New Orleans Pelicans. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.04.us2" start="20251201193000 -0500" stop="20251201230000 -0500">
-    <title lang="en">LIVE: Chicago Bulls at Orlando Magic</title>
-    <desc lang="en">Live NBA action from Magic between the Chicago Bulls and Orlando Magic. Tip-off at 7:30pm EST.</desc>
+  <programme channel="NBA.04.us2" start="20251202200000 -0500" stop="20251202233000 -0500">
+    <title lang="en">LIVE: Minnesota Timberwolves at New Orleans Pelicans</title>
+    <desc lang="en">Live NBA action from Pelicans between the Minnesota Timberwolves and New Orleans Pelicans. Tip-off at 8:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.04.us2" start="20251201230000 -0500" stop="20251202000000 -0500">
+  <programme channel="NBA.04.us2" start="20251202233000 -0500" stop="20251203003000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Chicago Bulls at Orlando Magic.</desc>
+    <desc lang="en">Postgame analysis and highlights from Minnesota Timberwolves at New Orleans Pelicans.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -102,21 +102,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 05</display-name>
   </channel>
-  <programme channel="NBA.05.us2" start="20251201163000 -0500" stop="20251201193000 -0500">
+  <programme channel="NBA.05.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for LA Clippers at Miami Heat. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for Memphis Grizzlies at San Antonio Spurs. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.05.us2" start="20251201193000 -0500" stop="20251201230000 -0500">
-    <title lang="en">LIVE: LA Clippers at Miami Heat</title>
-    <desc lang="en">Live NBA action from Heat between the LA Clippers and Miami Heat. Tip-off at 7:30pm EST.</desc>
+  <programme channel="NBA.05.us2" start="20251202200000 -0500" stop="20251202233000 -0500">
+    <title lang="en">LIVE: Memphis Grizzlies at San Antonio Spurs</title>
+    <desc lang="en">Live NBA action from Spurs between the Memphis Grizzlies and San Antonio Spurs. Tip-off at 8:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.05.us2" start="20251201230000 -0500" stop="20251202000000 -0500">
+  <programme channel="NBA.05.us2" start="20251202233000 -0500" stop="20251203003000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from LA Clippers at Miami Heat.</desc>
+    <desc lang="en">Postgame analysis and highlights from Memphis Grizzlies at San Antonio Spurs.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -126,21 +126,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 06</display-name>
   </channel>
-  <programme channel="NBA.06.us2" start="20251201163000 -0500" stop="20251201193000 -0500">
+  <programme channel="NBA.06.us2" start="20251202200000 -0500" stop="20251202230000 -0500">
     <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Charlotte Hornets at Brooklyn Nets. Game starts at 7:30pm EST on Mon Dec 1.</desc>
+    <desc lang="en">Pregame coverage for Oklahoma City Thunder at Golden State Warriors. Game starts at 11:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.06.us2" start="20251201193000 -0500" stop="20251201230000 -0500">
-    <title lang="en">LIVE: Charlotte Hornets at Brooklyn Nets</title>
-    <desc lang="en">Live NBA action from Nets between the Charlotte Hornets and Brooklyn Nets. Tip-off at 7:30pm EST.</desc>
+  <programme channel="NBA.06.us2" start="20251202230000 -0500" stop="20251203023000 -0500">
+    <title lang="en">LIVE: Oklahoma City Thunder at Golden State Warriors</title>
+    <desc lang="en">Live NBA action from Warriors between the Oklahoma City Thunder and Golden State Warriors. Tip-off at 11:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.06.us2" start="20251201230000 -0500" stop="20251202000000 -0500">
+  <programme channel="NBA.06.us2" start="20251203023000 -0500" stop="20251203033000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Charlotte Hornets at Brooklyn Nets.</desc>
+    <desc lang="en">Postgame analysis and highlights from Oklahoma City Thunder at Golden State Warriors.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -150,72 +150,18 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 07</display-name>
   </channel>
-  <programme channel="NBA.07.us2" start="20251201180000 -0500" stop="20251201210000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Dallas Mavericks at Denver Nuggets. Game starts at 9:00pm EST on Mon Dec 1.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.07.us2" start="20251201210000 -0500" stop="20251202003000 -0500">
-    <title lang="en">LIVE: Dallas Mavericks at Denver Nuggets</title>
-    <desc lang="en">Live NBA action from Nuggets between the Dallas Mavericks and Denver Nuggets. Tip-off at 9:00pm EST.</desc>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.07.us2" start="20251202003000 -0500" stop="20251202013000 -0500">
-    <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Dallas Mavericks at Denver Nuggets.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NBA.08.us2">
     <icon src="https://cdn.nba.com/logos/nba/NBA08/primary/L/logo.svg"/>
     <icon src="https://cdn.nba.com/logos/nba/NBA08/primary/L/logo.svg"/>
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 08</display-name>
   </channel>
-  <programme channel="NBA.08.us2" start="20251201180000 -0500" stop="20251201210000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Houston Rockets at Utah Jazz. Game starts at 9:00pm EST on Mon Dec 1.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.08.us2" start="20251201210000 -0500" stop="20251202003000 -0500">
-    <title lang="en">LIVE: Houston Rockets at Utah Jazz</title>
-    <desc lang="en">Live NBA action from Jazz between the Houston Rockets and Utah Jazz. Tip-off at 9:00pm EST.</desc>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.08.us2" start="20251202003000 -0500" stop="20251202013000 -0500">
-    <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Houston Rockets at Utah Jazz.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NBA.09.us2">
     <icon src="https://cdn.nba.com/logos/nba/NBA09/primary/L/logo.svg"/>
     <icon src="https://cdn.nba.com/logos/nba/NBA09/primary/L/logo.svg"/>
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 09</display-name>
   </channel>
-  <programme channel="NBA.09.us2" start="20251201190000 -0500" stop="20251201220000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
-    <desc lang="en">Pregame coverage for Phoenix Suns at Los Angeles Lakers. Game starts at 10:00pm EST on Mon Dec 1.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.09.us2" start="20251201220000 -0500" stop="20251202013000 -0500">
-    <title lang="en">LIVE: Phoenix Suns at Los Angeles Lakers</title>
-    <desc lang="en">Live NBA action from Lakers between the Phoenix Suns and Los Angeles Lakers. Tip-off at 10:00pm EST.</desc>
-    <category lang="en">Basketball</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.09.us2" start="20251202013000 -0500" stop="20251202023000 -0500">
-    <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Phoenix Suns at Los Angeles Lakers.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NBA.10.us2">
     <icon src="https://cdn.nba.com/logos/nba/NBA10/primary/L/logo.svg"/>
     <icon src="https://cdn.nba.com/logos/nba/NBA10/primary/L/logo.svg"/>
