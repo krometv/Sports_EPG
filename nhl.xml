@@ -1,124 +1,363 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="https://github.com/your-repo" source-info-name="NHL EPG">
-  <channel id="NHL01">
-    <display-name>NHL 01</display-name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="NHL.01.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL01/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL01/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 01</display-name>
   </channel>
-  <channel id="NHL02">
-    <display-name>NHL 02</display-name>
-  </channel>
-  <channel id="NHL03">
-    <display-name>NHL 03</display-name>
-  </channel>
-  <channel id="NHL04">
-    <display-name>NHL 04</display-name>
-  </channel>
-  <channel id="NHL05">
-    <display-name>NHL 05</display-name>
-  </channel>
-  <channel id="NHL06">
-    <display-name>NHL 06</display-name>
-  </channel>
-  <channel id="NHL07">
-    <display-name>NHL 07</display-name>
-  </channel>
-  <channel id="NHL08">
-    <display-name>NHL 08</display-name>
-  </channel>
-  <channel id="NHL09">
-    <display-name>NHL 09</display-name>
-  </channel>
-  <channel id="NHL10">
-    <display-name>NHL 10</display-name>
-  </channel>
-  <channel id="NHL11">
-    <display-name>NHL 11</display-name>
-  </channel>
-  <channel id="NHL12">
-    <display-name>NHL 12</display-name>
-  </channel>
-  <channel id="NHL13">
-    <display-name>NHL 13</display-name>
-  </channel>
-  <channel id="NHL14">
-    <display-name>NHL 14</display-name>
-  </channel>
-  <channel id="NHL15">
-    <display-name>NHL 15</display-name>
-  </channel>
-  <channel id="NHL16">
-    <display-name>NHL 16</display-name>
-  </channel>
-  <channel id="NHL17">
-    <display-name>NHL 17</display-name>
-  </channel>
-  <channel id="NHL18">
-    <display-name>NHL 18</display-name>
-  </channel>
-  <channel id="NHL19">
-    <display-name>NHL 19</display-name>
-  </channel>
-  <channel id="NHL20">
-    <display-name>NHL 20</display-name>
-  </channel>
-  <channel id="NHL21">
-    <display-name>NHL 21</display-name>
-  </channel>
-  <channel id="NHL22">
-    <display-name>NHL 22</display-name>
-  </channel>
-  <channel id="NHL23">
-    <display-name>NHL 23</display-name>
-  </channel>
-  <channel id="NHL24">
-    <display-name>NHL 24</display-name>
-  </channel>
-  <channel id="NHL25">
-    <display-name>NHL 25</display-name>
-  </channel>
-  <channel id="NHL26">
-    <display-name>NHL 26</display-name>
-  </channel>
-  <channel id="NHL27">
-    <display-name>NHL 27</display-name>
-  </channel>
-  <channel id="NHL28">
-    <display-name>NHL 28</display-name>
-  </channel>
-  <channel id="NHL29">
-    <display-name>NHL 29</display-name>
-  </channel>
-  <channel id="NHL30">
-    <display-name>NHL 30</display-name>
-  </channel>
-  <programme start="20251019152500 +0000" stop="20251019162500 +0000" channel="NHL01">
-    <title>Pre-Game: Canucks vs Capitals</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <programme channel="NHL.01.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
+    <title lang="en">Game Starting Soon - Dallas Stars vs New York Rangers @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Dallas Stars vs New York Rangers. Game starts at 07:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251019162500 +0000" stop="20251019192500 +0000" channel="NHL01">
-    <title>[Live] Canucks at Capitals - 12:25 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <programme channel="NHL.01.us2" start="20251202190000 -0500" stop="20251202220000 -0500">
+    <title lang="en">LIVE: Dallas Stars vs New York Rangers</title>
+    <desc lang="en">Live NHL action between the Dallas Stars and New York Rangers. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251019192500 +0000" stop="20251019202500 +0000" channel="NHL01">
-    <title>Post-Game: Canucks vs Capitals</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <programme channel="NHL.01.us2" start="20251202220000 -0500" stop="20251202230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Dallas Stars vs New York Rangers.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251019152500 +0000" stop="20251019162500 +0000" channel="NHL02">
-    <title>Pre-Game: Canucks vs Capitals (Canada National Broadcast)</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <channel id="NHL.02.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL02/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL02/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 02</display-name>
+  </channel>
+  <programme channel="NHL.02.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
+    <title lang="en">Game Starting Soon - Tampa Bay Lightning vs New York Islanders @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Tampa Bay Lightning vs New York Islanders. Game starts at 07:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251019162500 +0000" stop="20251019192500 +0000" channel="NHL02">
-    <title>[Live] Canucks at Capitals (Canada National Broadcast) - 12:25 PM ET</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <programme channel="NHL.02.us2" start="20251202190000 -0500" stop="20251202220000 -0500">
+    <title lang="en">LIVE: Tampa Bay Lightning vs New York Islanders</title>
+    <desc lang="en">Live NHL action between the Tampa Bay Lightning and New York Islanders. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
   </programme>
-  <programme start="20251019192500 +0000" stop="20251019202500 +0000" channel="NHL02">
-    <title>Post-Game: Canucks vs Capitals (Canada National Broadcast)</title>
-    <desc>Game coverage unavailable.</desc>
-    <category>Sports</category>
+  <programme channel="NHL.02.us2" start="20251202220000 -0500" stop="20251202230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Tampa Bay Lightning vs New York Islanders.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
   </programme>
+  <channel id="NHL.03.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL03/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL03/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 03</display-name>
+  </channel>
+  <programme channel="NHL.03.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
+    <title lang="en">Game Starting Soon - Ottawa Senators vs Montreal Canadiens @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Ottawa Senators vs Montreal Canadiens. Game starts at 07:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.03.us2" start="20251202190000 -0500" stop="20251202220000 -0500">
+    <title lang="en">LIVE: Ottawa Senators vs Montreal Canadiens</title>
+    <desc lang="en">Live NHL action between the Ottawa Senators and Montreal Canadiens. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.03.us2" start="20251202220000 -0500" stop="20251202230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Ottawa Senators vs Montreal Canadiens.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.04.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL04/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL04/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 04</display-name>
+  </channel>
+  <programme channel="NHL.04.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
+    <title lang="en">Game Starting Soon - Boston Bruins vs Detroit Red Wings @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Boston Bruins vs Detroit Red Wings. Game starts at 07:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20251202190000 -0500" stop="20251202220000 -0500">
+    <title lang="en">LIVE: Boston Bruins vs Detroit Red Wings</title>
+    <desc lang="en">Live NHL action between the Boston Bruins and Detroit Red Wings. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20251202220000 -0500" stop="20251202230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Boston Bruins vs Detroit Red Wings.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.05.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL05/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL05/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 05</display-name>
+  </channel>
+  <programme channel="NHL.05.us2" start="20251202163000 -0500" stop="20251202193000 -0500">
+    <title lang="en">Game Starting Soon - Toronto Maple Leafs vs Florida Panthers @ 07:30pm</title>
+    <desc lang="en">Pregame coverage for Toronto Maple Leafs vs Florida Panthers. Game starts at 07:30pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20251202193000 -0500" stop="20251202223000 -0500">
+    <title lang="en">LIVE: Toronto Maple Leafs vs Florida Panthers</title>
+    <desc lang="en">Live NHL action between the Toronto Maple Leafs and Florida Panthers. Puck drop at 07:30pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20251202223000 -0500" stop="20251202233000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Toronto Maple Leafs vs Florida Panthers.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.06.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL06/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL06/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 06</display-name>
+  </channel>
+  <programme channel="NHL.06.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
+    <title lang="en">Game Starting Soon - Calgary Flames vs Nashville Predators @ 08:00pm</title>
+    <desc lang="en">Pregame coverage for Calgary Flames vs Nashville Predators. Game starts at 08:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20251202200000 -0500" stop="20251202230000 -0500">
+    <title lang="en">LIVE: Calgary Flames vs Nashville Predators</title>
+    <desc lang="en">Live NHL action between the Calgary Flames and Nashville Predators. Puck drop at 08:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20251202230000 -0500" stop="20251203000000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Calgary Flames vs Nashville Predators.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.07.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL07/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL07/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 07</display-name>
+  </channel>
+  <programme channel="NHL.07.us2" start="20251202180000 -0500" stop="20251202210000 -0500">
+    <title lang="en">Game Starting Soon - Vancouver Canucks vs Colorado Avalanche @ 09:00pm</title>
+    <desc lang="en">Pregame coverage for Vancouver Canucks vs Colorado Avalanche. Game starts at 09:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20251202210000 -0500" stop="20251203000000 -0500">
+    <title lang="en">LIVE: Vancouver Canucks vs Colorado Avalanche</title>
+    <desc lang="en">Live NHL action between the Vancouver Canucks and Colorado Avalanche. Puck drop at 09:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20251203000000 -0500" stop="20251203010000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Vancouver Canucks vs Colorado Avalanche.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.08.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL08/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL08/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 08</display-name>
+  </channel>
+  <programme channel="NHL.08.us2" start="20251202180000 -0500" stop="20251202210000 -0500">
+    <title lang="en">Game Starting Soon - Minnesota Wild vs Edmonton Oilers @ 09:00pm</title>
+    <desc lang="en">Pregame coverage for Minnesota Wild vs Edmonton Oilers. Game starts at 09:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251202210000 -0500" stop="20251203000000 -0500">
+    <title lang="en">LIVE: Minnesota Wild vs Edmonton Oilers</title>
+    <desc lang="en">Live NHL action between the Minnesota Wild and Edmonton Oilers. Puck drop at 09:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251203000000 -0500" stop="20251203010000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Minnesota Wild vs Edmonton Oilers.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.09.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL09/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL09/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 09</display-name>
+  </channel>
+  <programme channel="NHL.09.us2" start="20251202190000 -0500" stop="20251202220000 -0500">
+    <title lang="en">Game Starting Soon - Chicago Blackhawks vs Vegas Golden Knights @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Chicago Blackhawks vs Vegas Golden Knights. Game starts at 10:00pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251202220000 -0500" stop="20251203010000 -0500">
+    <title lang="en">LIVE: Chicago Blackhawks vs Vegas Golden Knights</title>
+    <desc lang="en">Live NHL action between the Chicago Blackhawks and Vegas Golden Knights. Puck drop at 10:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251203010000 -0500" stop="20251203020000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Chicago Blackhawks vs Vegas Golden Knights.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.10.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL10/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL10/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 10</display-name>
+  </channel>
+  <programme channel="NHL.10.us2" start="20251202193000 -0500" stop="20251202223000 -0500">
+    <title lang="en">Game Starting Soon - Washington Capitals vs Los Angeles Kings @ 10:30pm</title>
+    <desc lang="en">Pregame coverage for Washington Capitals vs Los Angeles Kings. Game starts at 10:30pm EST on Dec 2.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251202223000 -0500" stop="20251203013000 -0500">
+    <title lang="en">LIVE: Washington Capitals vs Los Angeles Kings</title>
+    <desc lang="en">Live NHL action between the Washington Capitals and Los Angeles Kings. Puck drop at 10:30pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251203013000 -0500" stop="20251203023000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Washington Capitals vs Los Angeles Kings.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NHL.11.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL11/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL11/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 11</display-name>
+  </channel>
+  <channel id="NHL.12.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL12/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL12/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 12</display-name>
+  </channel>
+  <channel id="NHL.13.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL13/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL13/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 13</display-name>
+  </channel>
+  <channel id="NHL.14.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL14/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL14/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 14</display-name>
+  </channel>
+  <channel id="NHL.15.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL15/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL15/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 15</display-name>
+  </channel>
+  <channel id="NHL.16.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL16/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL16/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 16</display-name>
+  </channel>
+  <channel id="NHL.17.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL17/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL17/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 17</display-name>
+  </channel>
+  <channel id="NHL.18.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL18/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL18/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 18</display-name>
+  </channel>
+  <channel id="NHL.19.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL19/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL19/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 19</display-name>
+  </channel>
+  <channel id="NHL.20.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL20/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL20/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 20</display-name>
+  </channel>
+  <channel id="NHL.21.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL21/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL21/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 21</display-name>
+  </channel>
+  <channel id="NHL.22.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL22/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL22/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 22</display-name>
+  </channel>
+  <channel id="NHL.23.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL23/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL23/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 23</display-name>
+  </channel>
+  <channel id="NHL.24.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL24/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL24/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 24</display-name>
+  </channel>
+  <channel id="NHL.25.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL25/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL25/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 25</display-name>
+  </channel>
+  <channel id="NHL.26.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL26/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL26/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 26</display-name>
+  </channel>
+  <channel id="NHL.27.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL27/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL27/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 27</display-name>
+  </channel>
+  <channel id="NHL.28.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL28/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL28/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 28</display-name>
+  </channel>
+  <channel id="NHL.29.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL29/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL29/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 29</display-name>
+  </channel>
+  <channel id="NHL.30.us2">
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL30/primary/L/logo.svg"/>
+    <icon src="https://cdn.nhl.com/logos/nhl/NHL30/primary/L/logo.svg"/>
+    <url>http://www.nhl.com</url>
+    <display-name lang="en">NHL 30</display-name>
+  </channel>
 </tv>
