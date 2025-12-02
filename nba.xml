@@ -7,7 +7,7 @@
     <display-name lang="en">NBA 01</display-name>
   </channel>
   <programme channel="NBA.01.us2" start="20251202160000 -0500" stop="20251202190000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - Washington Wizards vs Philadelphia 76ers @ 7:00pm</title>
     <desc lang="en">Pregame coverage for Washington Wizards at Philadelphia 76ers. Game starts at 7:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
@@ -31,7 +31,7 @@
     <display-name lang="en">NBA 02</display-name>
   </channel>
   <programme channel="NBA.02.us2" start="20251202163000 -0500" stop="20251202193000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - Portland Trail Blazers vs Toronto Raptors @ 7:30pm</title>
     <desc lang="en">Pregame coverage for Portland Trail Blazers at Toronto Raptors. Game starts at 7:30pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
@@ -55,7 +55,7 @@
     <display-name lang="en">NBA 03</display-name>
   </channel>
   <programme channel="NBA.03.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - New York Knicks vs Boston Celtics @ 8:00pm</title>
     <desc lang="en">Pregame coverage for New York Knicks at Boston Celtics. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
@@ -79,7 +79,7 @@
     <display-name lang="en">NBA 04</display-name>
   </channel>
   <programme channel="NBA.04.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - Minnesota Timberwolves vs New Orleans Pelicans @ 8:00pm</title>
     <desc lang="en">Pregame coverage for Minnesota Timberwolves at New Orleans Pelicans. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
@@ -103,7 +103,7 @@
     <display-name lang="en">NBA 05</display-name>
   </channel>
   <programme channel="NBA.05.us2" start="20251202170000 -0500" stop="20251202200000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - Memphis Grizzlies vs San Antonio Spurs @ 8:00pm</title>
     <desc lang="en">Pregame coverage for Memphis Grizzlies at San Antonio Spurs. Game starts at 8:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
@@ -127,7 +127,7 @@
     <display-name lang="en">NBA 06</display-name>
   </channel>
   <programme channel="NBA.06.us2" start="20251202200000 -0500" stop="20251202230000 -0500">
-    <title lang="en">NBA Game Coverage Starting Soon</title>
+    <title lang="en">Game Starting Soon - Oklahoma City Thunder vs Golden State Warriors @ 11:00pm</title>
     <desc lang="en">Pregame coverage for Oklahoma City Thunder at Golden State Warriors. Game starts at 11:00pm EST on Tue Dec 2.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
