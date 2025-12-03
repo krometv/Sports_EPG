@@ -6,24 +6,6 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 01</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20251201165500 -0500" stop="20251201195500 -0500">
-    <title lang="en">Game Starting Soon - Giants @ Patriots @ 07:55pm</title>
-    <desc lang="en">Pregame coverage for Giants at Patriots. Manningcast - MNF with Peyton &amp; Eli. Game starts at 07:55pm EST on Mon Dec 01.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.01.us2" start="20251201195500 -0500" stop="20251201232500 -0500">
-    <title lang="en">LIVE: Manningcast - Giants @ Patriots</title>
-    <desc lang="en">Live NFL action - MNF with Peyton &amp; Eli. Giants at Patriots. Kickoff at 07:55pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.01.us2" start="20251201232500 -0500" stop="20251202002500 -0500">
-    <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Giants at Patriots.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NFL.02.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
