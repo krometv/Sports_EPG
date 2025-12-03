@@ -1,391 +1,201 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv source-info-url="https://github.com/your-repo" source-info-name="NFL EPG">
-  <channel id="NFL01">
-    <display-name>NFL 01</display-name>
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
+  <channel id="NFL.01.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL01/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL01/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 01</display-name>
   </channel>
-  <channel id="NFL02">
-    <display-name>NFL 02</display-name>
+  <programme channel="NFL.01.us2" start="20251201165500 -0500" stop="20251201195500 -0500">
+    <title lang="en">Game Starting Soon - Giants @ Patriots @ 07:55pm</title>
+    <desc lang="en">Pregame coverage for Giants at Patriots. Manningcast - MNF with Peyton &amp; Eli. Game starts at 07:55pm EST on Mon Dec 01.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251201195500 -0500" stop="20251201232500 -0500">
+    <title lang="en">LIVE: Manningcast - Giants @ Patriots</title>
+    <desc lang="en">Live NFL action - MNF with Peyton &amp; Eli. Giants at Patriots. Kickoff at 07:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251201232500 -0500" stop="20251202002500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Giants at Patriots.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <channel id="NFL.02.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 02</display-name>
   </channel>
-  <channel id="NFL03">
-    <display-name>NFL 03</display-name>
+  <channel id="NFL.03.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 03</display-name>
   </channel>
-  <channel id="NFL04">
-    <display-name>NFL 04</display-name>
+  <channel id="NFL.04.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 04</display-name>
   </channel>
-  <channel id="NFL05">
-    <display-name>NFL 05</display-name>
+  <channel id="NFL.05.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL05/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL05/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 05</display-name>
   </channel>
-  <channel id="NFL06">
-    <display-name>NFL 06</display-name>
+  <channel id="NFL.06.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL06/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL06/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 06</display-name>
   </channel>
-  <channel id="NFL07">
-    <display-name>NFL 07</display-name>
+  <channel id="NFL.07.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL07/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL07/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 07</display-name>
   </channel>
-  <channel id="NFL08">
-    <display-name>NFL 08</display-name>
+  <channel id="NFL.08.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL08/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL08/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 08</display-name>
   </channel>
-  <channel id="NFL09">
-    <display-name>NFL 09</display-name>
+  <channel id="NFL.09.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL09/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL09/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 09</display-name>
   </channel>
-  <channel id="NFL10">
-    <display-name>NFL 10</display-name>
+  <channel id="NFL.10.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL10/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL10/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 10</display-name>
   </channel>
-  <channel id="NFL11">
-    <display-name>NFL 11</display-name>
+  <channel id="NFL.11.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL11/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL11/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 11</display-name>
   </channel>
-  <channel id="NFL12">
-    <display-name>NFL 12</display-name>
+  <channel id="NFL.12.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL12/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL12/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 12</display-name>
   </channel>
-  <channel id="NFL13">
-    <display-name>NFL 13</display-name>
+  <channel id="NFL.13.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL13/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL13/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 13</display-name>
   </channel>
-  <channel id="NFL14">
-    <display-name>NFL 14</display-name>
+  <channel id="NFL.14.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL14/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL14/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 14</display-name>
   </channel>
-  <channel id="NFL15">
-    <display-name>NFL 15</display-name>
+  <channel id="NFL.15.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL15/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL15/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 15</display-name>
   </channel>
-  <channel id="NFL16">
-    <display-name>NFL 16</display-name>
+  <channel id="NFL.16.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL16/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL16/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 16</display-name>
   </channel>
-  <channel id="NFL17">
-    <display-name>NFL 17</display-name>
+  <channel id="NFL.17.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL17/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL17/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 17</display-name>
   </channel>
-  <channel id="NFL18">
-    <display-name>NFL 18</display-name>
+  <channel id="NFL.18.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL18/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL18/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 18</display-name>
   </channel>
-  <channel id="NFL19">
-    <display-name>NFL 19</display-name>
+  <channel id="NFL.19.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL19/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL19/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 19</display-name>
   </channel>
-  <channel id="NFL20">
-    <display-name>NFL 20</display-name>
+  <channel id="NFL.20.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL20/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL20/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 20</display-name>
   </channel>
-  <channel id="NFL21">
-    <display-name>NFL 21</display-name>
+  <channel id="NFL.21.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL21/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL21/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 21</display-name>
   </channel>
-  <channel id="NFL22">
-    <display-name>NFL 22</display-name>
+  <channel id="NFL.22.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL22/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL22/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 22</display-name>
   </channel>
-  <channel id="NFL23">
-    <display-name>NFL 23</display-name>
+  <channel id="NFL.23.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL23/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL23/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 23</display-name>
   </channel>
-  <channel id="NFL24">
-    <display-name>NFL 24</display-name>
+  <channel id="NFL.24.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL24/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL24/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 24</display-name>
   </channel>
-  <channel id="NFL25">
-    <display-name>NFL 25</display-name>
+  <channel id="NFL.25.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL25/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL25/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 25</display-name>
   </channel>
-  <channel id="NFL26">
-    <display-name>NFL 26</display-name>
+  <channel id="NFL.26.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL26/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL26/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 26</display-name>
   </channel>
-  <channel id="NFL27">
-    <display-name>NFL 27</display-name>
+  <channel id="NFL.27.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL27/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL27/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 27</display-name>
   </channel>
-  <channel id="NFL28">
-    <display-name>NFL 28</display-name>
+  <channel id="NFL.28.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL28/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL28/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 28</display-name>
   </channel>
-  <channel id="NFL29">
-    <display-name>NFL 29</display-name>
+  <channel id="NFL.29.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL29/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL29/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 29</display-name>
   </channel>
-  <channel id="NFL30">
-    <display-name>NFL 30</display-name>
+  <channel id="NFL.30.us2">
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL30/primary/L/logo.svg"/>
+    <icon src="https://cdn.nfl.com/logos/nfl/NFL30/primary/L/logo.svg"/>
+    <url>http://www.nfl.com</url>
+    <display-name lang="en">NFL 30</display-name>
   </channel>
-  <channel id="NFLRZ">
-    <display-name>NFL RedZone</display-name>
-  </channel>
-  <programme start="20251019170000 +0000" stop="20251020000000 +0000" channel="NFLRZ">
-    <title lang="en">NFL RedZone</title>
-    <desc lang="en">Showcasing scoring opportunities, touchdowns and key moments from Sunday afternoons during the regular season.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL01">
-    <title lang="en">Pre-Game: Panthers vs Jets</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Panthers and Jets. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL01">
-    <title lang="en">ᴸᶦᵛᵉ Panthers at Jets - 12:55 PM ET</title>
-    <desc lang="en">Tonight's NFL clash on October 19, 2025, features the Carolina Panthers facing off against the New York Jets, with both teams seeking crucial wins to boost their playoff hopes mid-season. Key players to watch include the Panthers' dynamic quarterback, who has been instrumental in their offensive surge, and</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL01">
-    <title lang="en">Post-Game: Panthers vs Jets</title>
-    <desc lang="en">Post-game analysis of the Panthers vs Jets NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL02">
-    <title lang="en">Pre-Game: Saints vs Bears</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Saints and Bears. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL02">
-    <title lang="en">ᴸᶦᵛᵉ Saints at Bears - 12:55 PM ET</title>
-    <desc lang="en">In a thrilling mid-season clash set for October 19, 2025, the New Orleans Saints take on the Chicago Bears, with both teams eager to boost their playoff credentials after a mixed start to the season. Key players to watch include Saints quarterback Marcus Williams, who has been electric with his arm</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL02">
-    <title lang="en">Post-Game: Saints vs Bears</title>
-    <desc lang="en">Post-game analysis of the Saints vs Bears NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL04">
-    <title lang="en">Pre-Game: Dolphins vs Browns</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Dolphins and Browns. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL04">
-    <title lang="en">ᴸᶦᵛᵉ Dolphins at Browns - 12:55 PM ET</title>
-    <desc lang="en">In today's NFL showdown, the Miami Dolphins face off against the Cleveland Browns in a pivotal mid-season game that could significantly impact playoff positioning. The Dolphins, led by their dynamic quarterback, are looking to capitalize on their high-powered offense, while the Browns hope their star running back can exploit weaknesses in Miami</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL04">
-    <title lang="en">Post-Game: Dolphins vs Browns</title>
-    <desc lang="en">Post-game analysis of the Dolphins vs Browns NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL05">
-    <title lang="en">Pre-Game: Raiders vs Chiefs</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Raiders and Chiefs. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL05">
-    <title lang="en">ᴸᶦᵛᵉ Raiders at Chiefs - 12:55 PM ET</title>
-    <desc lang="en">As of October 19, 2025, the Kansas City Chiefs host the Las Vegas Raiders in a pivotal AFC West showdown, with both teams vying for supremacy in a tightly contested division. Key players to watch include the Chiefs' quarterback, Patrick Mahomes, who is having another MVP-caliber</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL05">
-    <title lang="en">Post-Game: Raiders vs Chiefs</title>
-    <desc lang="en">Post-game analysis of the Raiders vs Chiefs NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL06">
-    <title lang="en">Pre-Game: Patriots vs Titans</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Patriots and Titans. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL06">
-    <title lang="en">ᴸᶦᵛᵉ Patriots at Titans - 12:55 PM ET</title>
-    <desc lang="en">In today's NFL showdown, the New England Patriots take on the Tennessee Titans in a crucial mid-season game, with both teams vying for playoff positioning. Patriots' quarterback, Jake Smith, looks to exploit the Titans' defense, which has shown vulnerabilities against the pass, while Titans' star running back</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL06">
-    <title lang="en">Post-Game: Patriots vs Titans</title>
-    <desc lang="en">Post-game analysis of the Patriots vs Titans NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019155500 +0000" stop="20251019165500 +0000" channel="NFL07">
-    <title lang="en">Pre-Game: Eagles vs Vikings</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Eagles and Vikings. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019165500 +0000" stop="20251019195500 +0000" channel="NFL07">
-    <title lang="en">ᴸᶦᵛᵉ Eagles at Vikings - 12:55 PM ET</title>
-    <desc lang="en">In a compelling Week 7 showdown, the undefeated Philadelphia Eagles, led by their dynamic quarterback, clash against the Minnesota Vikings at U.S. Bank Stadium, with both teams vying for supremacy in the NFC. The Vikings, powered by their formidable defense and versatile running back, aim to halt the Eagles</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019195500 +0000" stop="20251019205500 +0000" channel="NFL07">
-    <title lang="en">Post-Game: Eagles vs Vikings</title>
-    <desc lang="en">Post-game analysis of the Eagles vs Vikings NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="NFL08">
-    <title lang="en">Pre-Game: Colts vs Chargers</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Colts and Chargers. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019200000 +0000" stop="20251019230000 +0000" channel="NFL08">
-    <title lang="en">ᴸᶦᵛᵉ Colts at Chargers - 4:00 PM ET</title>
-    <desc lang="en">As of October 19, 2025, the Indianapolis Colts take on the Los Angeles Chargers in a crucial mid-season clash that could steer playoff prospects for both teams. The game features a high-stakes quarterback duel between Colts' rising star, Marcus Whitfield, and Chargers' seasoned MVP, Jake</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="NFL08">
-    <title lang="en">Post-Game: Colts vs Chargers</title>
-    <desc lang="en">Post-game analysis of the Colts vs Chargers NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019190000 +0000" stop="20251019200000 +0000" channel="NFL09">
-    <title lang="en">Pre-Game: Giants vs Broncos</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Giants and Broncos. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019200000 +0000" stop="20251019230000 +0000" channel="NFL09">
-    <title lang="en">ᴸᶦᵛᵉ Giants at Broncos - 4:00 PM ET</title>
-    <desc lang="en">In today's NFL showdown, the New York Giants face off against the Denver Broncos in a keenly anticipated mid-season clash that could heavily influence playoff prospects for both teams. Key players to watch include the Giants' quarterback, who has been leading the league with impressive passing yards, and the Broncos' defensive</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019230000 +0000" stop="20251020000000 +0000" channel="NFL09">
-    <title lang="en">Post-Game: Giants vs Broncos</title>
-    <desc lang="en">Post-game analysis of the Giants vs Broncos NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019192000 +0000" stop="20251019202000 +0000" channel="NFL10">
-    <title lang="en">Pre-Game: Commanders vs Cowboys</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Commanders and Cowboys. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019202000 +0000" stop="20251019232000 +0000" channel="NFL10">
-    <title lang="en">ᴸᶦᵛᵉ Commanders at Cowboys - 4:20 PM ET</title>
-    <desc lang="en">In today's NFL showdown, the Dallas Cowboys host the Washington Commanders in a critical NFC East matchup that could shape the playoff landscape. With Cowboys' star quarterback Dak Prescott leading a high-powered offense against a formidable Commanders defense anchored by standout Chase Young, this game promises fierce competition and pivotal season implications</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019232000 +0000" stop="20251020002000 +0000" channel="NFL10">
-    <title lang="en">Post-Game: Commanders vs Cowboys</title>
-    <desc lang="en">Post-game analysis of the Commanders vs Cowboys NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019192000 +0000" stop="20251019202000 +0000" channel="NFL11">
-    <title lang="en">Pre-Game: Packers vs Cardinals</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Packers and Cardinals. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019202000 +0000" stop="20251019232000 +0000" channel="NFL11">
-    <title lang="en">ᴸᶦᵛᵉ Packers at Cardinals - 4:20 PM ET</title>
-    <desc lang="en">In today's NFL clash on October 19, 2025, the Green Bay Packers face off against the Arizona Cardinals in a pivotal mid-season game, with both teams eager to secure a win to bolster their playoff chances. Key players to watch include the Packers' dynamic quarterback, who's been leading</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019232000 +0000" stop="20251020002000 +0000" channel="NFL11">
-    <title lang="en">Post-Game: Packers vs Cardinals</title>
-    <desc lang="en">Post-game analysis of the Packers vs Cardinals NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019231500 +0000" stop="20251020001500 +0000" channel="NFL12">
-    <title lang="en">Pre-Game: Falcons vs 49ers (In French)</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Falcons and 49ers (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020001500 +0000" stop="20251020031500 +0000" channel="NFL12">
-    <title lang="en">ᴸᶦᵛᵉ Falcons at 49ers (In French) - 8:15 PM ET</title>
-    <desc lang="en">Les Falcons d'Atlanta affrontent aujourd'hui les 49ers de San Francisco dans un match crucial pour la mi-saison, les deux équipes cherchant à solidifier leur position en vue des playoffs. Les regards seront particulièrement tournés vers le quarterback vedette des 49</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020031500 +0000" stop="20251020041500 +0000" channel="NFL12">
-    <title lang="en">Post-Game: Falcons vs 49ers (In French)</title>
-    <desc lang="en">Post-game analysis of the Falcons vs 49ers (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251019231500 +0000" stop="20251020001500 +0000" channel="NFL13">
-    <title lang="en">Pre-Game: Falcons vs 49ers</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Falcons and 49ers. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020001500 +0000" stop="20251020031500 +0000" channel="NFL13">
-    <title lang="en">ᴸᶦᵛᵉ Falcons at 49ers - 8:15 PM ET</title>
-    <desc lang="en">In today’s NFL clash, the Atlanta Falcons take on the San Francisco 49ers in a high-stakes game that could pivot their season standings, with both teams neck-and-neck in their conference race. Key players to watch include the Falcons’ breakout star quarterback, who has been delivering exceptional performances,</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020031500 +0000" stop="20251020041500 +0000" channel="NFL13">
-    <title lang="en">Post-Game: Falcons vs 49ers</title>
-    <desc lang="en">Post-game analysis of the Falcons vs 49ers NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020215500 +0000" stop="20251020225500 +0000" channel="NFL14">
-    <title lang="en">Pre-Game: Buccaneers vs Lions</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Buccaneers and Lions. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020225500 +0000" stop="20251021015500 +0000" channel="NFL14">
-    <title lang="en">ᴸᶦᵛᵉ Buccaneers at Lions - 6:55 PM ET</title>
-    <desc lang="en">As of October 19, 2025, the Tampa Bay Buccaneers face off against the Detroit Lions in a pivotal mid-season game, with both teams eager to climb higher in the NFC standings. Key players to watch include the Buccaneers' dynamic quarterback, who has been leading the league in passing yards,</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021015500 +0000" stop="20251021025500 +0000" channel="NFL14">
-    <title lang="en">Post-Game: Buccaneers vs Lions</title>
-    <desc lang="en">Post-game analysis of the Buccaneers vs Lions NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020215500 +0000" stop="20251020225500 +0000" channel="NFL15">
-    <title lang="en">Pre-Game: Buccaneers vs Lions (In French)</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Buccaneers and Lions (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251020225500 +0000" stop="20251021015500 +0000" channel="NFL15">
-    <title lang="en">ᴸᶦᵛᵉ Buccaneers at Lions (In French) - 6:55 PM ET</title>
-    <desc lang="en">Les Buccaneers de Tampa Bay affrontent aujourd'hui les Lions de Detroit dans un match crucial pour la saison, les deux équipes ayant besoin d'une victoire pour rester en course pour les playoffs. Les regards seront tournés vers le quarterback vedette des Buccaneers, toujours impressionnant cette</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021015500 +0000" stop="20251021025500 +0000" channel="NFL15">
-    <title lang="en">Post-Game: Buccaneers vs Lions (In French)</title>
-    <desc lang="en">Post-game analysis of the Buccaneers vs Lions (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021005500 +0000" stop="20251021015500 +0000" channel="NFL16">
-    <title lang="en">Pre-Game: Texans vs Seahawks</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Texans and Seahawks. Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021015500 +0000" stop="20251021045500 +0000" channel="NFL16">
-    <title lang="en">ᴸᶦᵛᵉ Texans at Seahawks - 9:55 PM ET</title>
-    <desc lang="en">In a thrilling Week 7 matchup, the Houston Texans take on the Seattle Seahawks at Lumen Field, with both teams aiming to bolster their playoff credentials after a mixed start to the season. Key players to watch include Texans' quarterback Spencer Rattler, who has been showing promising growth, and Seahawks</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021045500 +0000" stop="20251021055500 +0000" channel="NFL16">
-    <title lang="en">Post-Game: Texans vs Seahawks</title>
-    <desc lang="en">Post-game analysis of the Texans vs Seahawks NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021005500 +0000" stop="20251021015500 +0000" channel="NFL17">
-    <title lang="en">Pre-Game: Texans vs Seahawks (In French)</title>
-    <desc lang="en">Pre-game coverage of the NFL matchup between the Texans and Seahawks (In French). Analysis, player interviews, and expert predictions leading up to kickoff.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021015500 +0000" stop="20251021045500 +0000" channel="NFL17">
-    <title lang="en">ᴸᶦᵛᵉ Texans at Seahawks (In French) - 9:55 PM ET</title>
-    <desc lang="en">Les Texans de Houston affrontent les Seahawks de Seattle dans un match crucial de mi-saison, les deux équipes cherchant à améliorer leur position en vue des playoffs. Les regards seront notamment tournés vers le quarterback vedette des Seahawks et le puissant défenseur des</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
-  <programme start="20251021045500 +0000" stop="20251021055500 +0000" channel="NFL17">
-    <title lang="en">Post-Game: Texans vs Seahawks (In French)</title>
-    <desc lang="en">Post-game analysis of the Texans vs Seahawks (In French) NFL game. Highlights, player interviews, and expert breakdown of the key moments and results.</desc>
-    <category>Sports</category>
-    <language>en</language>
-  </programme>
 </tv>
