@@ -6,21 +6,21 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 01</display-name>
   </channel>
-  <programme channel="NHL.01.us2" start="20251205160000 -0500" stop="20251205190000 -0500">
-    <title lang="en">Game Starting Soon - Buffalo Sabres vs Winnipeg Jets @ 07:00pm</title>
-    <desc lang="en">Pregame coverage for Buffalo Sabres vs Winnipeg Jets. Game starts at 07:00pm EST on Dec 5.</desc>
+  <programme channel="NHL.01.us2" start="20251206093000 -0500" stop="20251206123000 -0500">
+    <title lang="en">Game Starting Soon - Colorado Avalanche vs New York Rangers @ 12:30pm</title>
+    <desc lang="en">Pregame coverage for Colorado Avalanche vs New York Rangers. Game starts at 12:30pm EST on Dec 6.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.01.us2" start="20251205190000 -0500" stop="20251205220000 -0500">
-    <title lang="en">LIVE: Buffalo Sabres vs Winnipeg Jets</title>
-    <desc lang="en">Live NHL action between the Buffalo Sabres and Winnipeg Jets. Puck drop at 07:00pm EST.</desc>
+  <programme channel="NHL.01.us2" start="20251206123000 -0500" stop="20251206153000 -0500">
+    <title lang="en">LIVE: Colorado Avalanche vs New York Rangers</title>
+    <desc lang="en">Live NHL action between the Colorado Avalanche and New York Rangers. Puck drop at 12:30pm EST.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.01.us2" start="20251205220000 -0500" stop="20251205230000 -0500">
+  <programme channel="NHL.01.us2" start="20251206153000 -0500" stop="20251206163000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Buffalo Sabres vs Winnipeg Jets.</desc>
+    <desc lang="en">Postgame analysis and highlights from Colorado Avalanche vs New York Rangers.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -30,21 +30,21 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 02</display-name>
   </channel>
-  <programme channel="NHL.02.us2" start="20251205160000 -0500" stop="20251205190000 -0500">
-    <title lang="en">Game Starting Soon - Vegas Golden Knights vs New Jersey Devils @ 07:00pm</title>
-    <desc lang="en">Pregame coverage for Vegas Golden Knights vs New Jersey Devils. Game starts at 07:00pm EST on Dec 5.</desc>
+  <programme channel="NHL.02.us2" start="20251206123000 -0500" stop="20251206153000 -0500">
+    <title lang="en">Game Starting Soon - Columbus Blue Jackets vs Florida Panthers @ 03:30pm</title>
+    <desc lang="en">Pregame coverage for Columbus Blue Jackets vs Florida Panthers. Game starts at 03:30pm EST on Dec 6.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20251205190000 -0500" stop="20251205220000 -0500">
-    <title lang="en">LIVE: Vegas Golden Knights vs New Jersey Devils</title>
-    <desc lang="en">Live NHL action between the Vegas Golden Knights and New Jersey Devils. Puck drop at 07:00pm EST.</desc>
+  <programme channel="NHL.02.us2" start="20251206153000 -0500" stop="20251206183000 -0500">
+    <title lang="en">LIVE: Columbus Blue Jackets vs Florida Panthers</title>
+    <desc lang="en">Live NHL action between the Columbus Blue Jackets and Florida Panthers. Puck drop at 03:30pm EST.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20251205220000 -0500" stop="20251205230000 -0500">
+  <programme channel="NHL.02.us2" start="20251206183000 -0500" stop="20251206193000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Vegas Golden Knights vs New Jersey Devils.</desc>
+    <desc lang="en">Postgame analysis and highlights from Columbus Blue Jackets vs Florida Panthers.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -54,21 +54,21 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 03</display-name>
   </channel>
-  <programme channel="NHL.03.us2" start="20251205170000 -0500" stop="20251205200000 -0500">
-    <title lang="en">Game Starting Soon - San Jose Sharks vs Dallas Stars @ 08:00pm</title>
-    <desc lang="en">Pregame coverage for San Jose Sharks vs Dallas Stars. Game starts at 08:00pm EST on Dec 5.</desc>
+  <programme channel="NHL.03.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - Montreal Canadiens vs Toronto Maple Leafs @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Montreal Canadiens vs Toronto Maple Leafs. Game starts at 07:00pm EST on Dec 6.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20251205200000 -0500" stop="20251205230000 -0500">
-    <title lang="en">LIVE: San Jose Sharks vs Dallas Stars</title>
-    <desc lang="en">Live NHL action between the San Jose Sharks and Dallas Stars. Puck drop at 08:00pm EST.</desc>
+  <programme channel="NHL.03.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: Montreal Canadiens vs Toronto Maple Leafs</title>
+    <desc lang="en">Live NHL action between the Montreal Canadiens and Toronto Maple Leafs. Puck drop at 07:00pm EST.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20251205230000 -0500" stop="20251206000000 -0500">
+  <programme channel="NHL.03.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from San Jose Sharks vs Dallas Stars.</desc>
+    <desc lang="en">Postgame analysis and highlights from Montreal Canadiens vs Toronto Maple Leafs.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -78,21 +78,21 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 04</display-name>
   </channel>
-  <programme channel="NHL.04.us2" start="20251205180000 -0500" stop="20251205210000 -0500">
-    <title lang="en">Game Starting Soon - Utah Hockey Club vs Vancouver Canucks @ 09:00pm</title>
-    <desc lang="en">Pregame coverage for Utah Hockey Club vs Vancouver Canucks. Game starts at 09:00pm EST on Dec 5.</desc>
+  <programme channel="NHL.04.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - New York Islanders vs Tampa Bay Lightning @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for New York Islanders vs Tampa Bay Lightning. Game starts at 07:00pm EST on Dec 6.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20251205210000 -0500" stop="20251206000000 -0500">
-    <title lang="en">LIVE: Utah Hockey Club vs Vancouver Canucks</title>
-    <desc lang="en">Live NHL action between the Utah Hockey Club and Vancouver Canucks. Puck drop at 09:00pm EST.</desc>
+  <programme channel="NHL.04.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: New York Islanders vs Tampa Bay Lightning</title>
+    <desc lang="en">Live NHL action between the New York Islanders and Tampa Bay Lightning. Puck drop at 07:00pm EST.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20251206000000 -0500" stop="20251206010000 -0500">
+  <programme channel="NHL.04.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Utah Hockey Club vs Vancouver Canucks.</desc>
+    <desc lang="en">Postgame analysis and highlights from New York Islanders vs Tampa Bay Lightning.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -102,21 +102,21 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 05</display-name>
   </channel>
-  <programme channel="NHL.05.us2" start="20251205190000 -0500" stop="20251205220000 -0500">
-    <title lang="en">Game Starting Soon - Washington Capitals vs Anaheim Ducks @ 10:00pm</title>
-    <desc lang="en">Pregame coverage for Washington Capitals vs Anaheim Ducks. Game starts at 10:00pm EST on Dec 5.</desc>
+  <programme channel="NHL.05.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - St. Louis Blues vs Ottawa Senators @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for St. Louis Blues vs Ottawa Senators. Game starts at 07:00pm EST on Dec 6.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20251205220000 -0500" stop="20251206010000 -0500">
-    <title lang="en">LIVE: Washington Capitals vs Anaheim Ducks</title>
-    <desc lang="en">Live NHL action between the Washington Capitals and Anaheim Ducks. Puck drop at 10:00pm EST.</desc>
+  <programme channel="NHL.05.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: St. Louis Blues vs Ottawa Senators</title>
+    <desc lang="en">Live NHL action between the St. Louis Blues and Ottawa Senators. Puck drop at 07:00pm EST.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20251206010000 -0500" stop="20251206020000 -0500">
+  <programme channel="NHL.05.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Washington Capitals vs Anaheim Ducks.</desc>
+    <desc lang="en">Postgame analysis and highlights from St. Louis Blues vs Ottawa Senators.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -126,42 +126,168 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 06</display-name>
   </channel>
+  <programme channel="NHL.06.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - Nashville Predators vs Carolina Hurricanes @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Nashville Predators vs Carolina Hurricanes. Game starts at 07:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: Nashville Predators vs Carolina Hurricanes</title>
+    <desc lang="en">Live NHL action between the Nashville Predators and Carolina Hurricanes. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Nashville Predators vs Carolina Hurricanes.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.07.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL07/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL07/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 07</display-name>
   </channel>
+  <programme channel="NHL.07.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - Utah Hockey Club vs Calgary Flames @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Utah Hockey Club vs Calgary Flames. Game starts at 07:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: Utah Hockey Club vs Calgary Flames</title>
+    <desc lang="en">Live NHL action between the Utah Hockey Club and Calgary Flames. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Utah Hockey Club vs Calgary Flames.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.08.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL08/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL08/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 08</display-name>
   </channel>
+  <programme channel="NHL.08.us2" start="20251206160000 -0500" stop="20251206190000 -0500">
+    <title lang="en">Game Starting Soon - New Jersey Devils vs Boston Bruins @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for New Jersey Devils vs Boston Bruins. Game starts at 07:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">LIVE: New Jersey Devils vs Boston Bruins</title>
+    <desc lang="en">Live NHL action between the New Jersey Devils and Boston Bruins. Puck drop at 07:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251206220000 -0500" stop="20251206230000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from New Jersey Devils vs Boston Bruins.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.09.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL09/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL09/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 09</display-name>
   </channel>
+  <programme channel="NHL.09.us2" start="20251206180000 -0500" stop="20251206210000 -0500">
+    <title lang="en">Game Starting Soon - Chicago Blackhawks vs Los Angeles Kings @ 09:00pm</title>
+    <desc lang="en">Pregame coverage for Chicago Blackhawks vs Los Angeles Kings. Game starts at 09:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251206210000 -0500" stop="20251207000000 -0500">
+    <title lang="en">LIVE: Chicago Blackhawks vs Los Angeles Kings</title>
+    <desc lang="en">Live NHL action between the Chicago Blackhawks and Los Angeles Kings. Puck drop at 09:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251207000000 -0500" stop="20251207010000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Chicago Blackhawks vs Los Angeles Kings.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.10.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL10/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL10/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 10</display-name>
   </channel>
+  <programme channel="NHL.10.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">Game Starting Soon - Detroit Red Wings vs Seattle Kraken @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Detroit Red Wings vs Seattle Kraken. Game starts at 10:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
+    <title lang="en">LIVE: Detroit Red Wings vs Seattle Kraken</title>
+    <desc lang="en">Live NHL action between the Detroit Red Wings and Seattle Kraken. Puck drop at 10:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251207010000 -0500" stop="20251207020000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Detroit Red Wings vs Seattle Kraken.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.11.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL11/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL11/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 11</display-name>
   </channel>
+  <programme channel="NHL.11.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">Game Starting Soon - Minnesota Wild vs Vancouver Canucks @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Minnesota Wild vs Vancouver Canucks. Game starts at 10:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.11.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
+    <title lang="en">LIVE: Minnesota Wild vs Vancouver Canucks</title>
+    <desc lang="en">Live NHL action between the Minnesota Wild and Vancouver Canucks. Puck drop at 10:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.11.us2" start="20251207010000 -0500" stop="20251207020000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Minnesota Wild vs Vancouver Canucks.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.12.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL12/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL12/primary/L/logo.svg"/>
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 12</display-name>
   </channel>
+  <programme channel="NHL.12.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
+    <title lang="en">Game Starting Soon - Winnipeg Jets vs Edmonton Oilers @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Winnipeg Jets vs Edmonton Oilers. Game starts at 10:00pm EST on Dec 6.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.12.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
+    <title lang="en">LIVE: Winnipeg Jets vs Edmonton Oilers</title>
+    <desc lang="en">Live NHL action between the Winnipeg Jets and Edmonton Oilers. Puck drop at 10:00pm EST.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.12.us2" start="20251207010000 -0500" stop="20251207020000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Winnipeg Jets vs Edmonton Oilers.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NHL.13.us2">
     <icon src="https://cdn.nhl.com/logos/nhl/NHL13/primary/L/logo.svg"/>
     <icon src="https://cdn.nhl.com/logos/nhl/NHL13/primary/L/logo.svg"/>
