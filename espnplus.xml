@@ -6,10 +6,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 001</display-name>
   </channel>
-  <programme channel="ESPNPlus.001.us2" start="20251206111000 -0400" stop="20251206144000 -0400">
-    <title lang="en">LIVE: USAC FP vs. Municipal Poás (Playoff)</title>
-    <desc lang="en">Live sports action: USAC FP vs. Municipal Poás (Playoff). Event starts at 11:10am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.001.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.002.us2">
@@ -18,10 +18,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 002</display-name>
   </channel>
-  <programme channel="ESPNPlus.002.us2" start="20251206122500 -0400" stop="20251206155500 -0400">
-    <title lang="en">LIVE: Dimas Escazú FP vs. BSVB (Playoff)</title>
-    <desc lang="en">Live sports action: Dimas Escazú FP vs. BSVB (Playoff). Event starts at 12:25pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.002.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.003.us2">
@@ -30,10 +30,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 003</display-name>
   </channel>
-  <programme channel="ESPNPlus.003.us2" start="20251206134000 -0400" stop="20251206171000 -0400">
-    <title lang="en">LIVE: CD Milenio vs. Arcos FC (Playoff)</title>
-    <desc lang="en">Live sports action: CD Milenio vs. Arcos FC (Playoff). Event starts at 01:40pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.003.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.004.us2">
@@ -42,10 +42,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 004</display-name>
   </channel>
-  <programme channel="ESPNPlus.004.us2" start="20251206145500 -0400" stop="20251206182500 -0400">
-    <title lang="en">LIVE: Nassau BSC vs. Zarcero BS (Playoff)</title>
-    <desc lang="en">Live sports action: Nassau BSC vs. Zarcero BS (Playoff). Event starts at 02:55pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.004.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.005.us2">
@@ -54,10 +54,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 005</display-name>
   </channel>
-  <programme channel="ESPNPlus.005.us2" start="20251206162500 -0400" stop="20251206195500 -0400">
-    <title lang="en">LIVE: Garita Palmera BS vs. San Salvador BSC (Playoff)</title>
-    <desc lang="en">Live sports action: Garita Palmera BS vs. San Salvador BSC (Playoff). Event starts at 04:25pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.005.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.006.us2">
@@ -78,7 +78,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 007</display-name>
   </channel>
-  <programme channel="ESPNPlus.007.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.007.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -90,7 +90,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 008</display-name>
   </channel>
-  <programme channel="ESPNPlus.008.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.008.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -102,7 +102,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 009</display-name>
   </channel>
-  <programme channel="ESPNPlus.009.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.009.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -114,7 +114,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 010</display-name>
   </channel>
-  <programme channel="ESPNPlus.010.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.010.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -126,7 +126,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 011</display-name>
   </channel>
-  <programme channel="ESPNPlus.011.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.011.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -138,7 +138,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 012</display-name>
   </channel>
-  <programme channel="ESPNPlus.012.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.012.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -150,7 +150,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 013</display-name>
   </channel>
-  <programme channel="ESPNPlus.013.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.013.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -162,7 +162,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 014</display-name>
   </channel>
-  <programme channel="ESPNPlus.014.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.014.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -174,7 +174,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 015</display-name>
   </channel>
-  <programme channel="ESPNPlus.015.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.015.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -186,7 +186,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 016</display-name>
   </channel>
-  <programme channel="ESPNPlus.016.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.016.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -198,7 +198,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 017</display-name>
   </channel>
-  <programme channel="ESPNPlus.017.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.017.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -210,7 +210,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 018</display-name>
   </channel>
-  <programme channel="ESPNPlus.018.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.018.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -222,7 +222,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 019</display-name>
   </channel>
-  <programme channel="ESPNPlus.019.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.019.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -234,7 +234,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 020</display-name>
   </channel>
-  <programme channel="ESPNPlus.020.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.020.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -246,7 +246,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 021</display-name>
   </channel>
-  <programme channel="ESPNPlus.021.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.021.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -258,7 +258,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 022</display-name>
   </channel>
-  <programme channel="ESPNPlus.022.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.022.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -270,7 +270,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 023</display-name>
   </channel>
-  <programme channel="ESPNPlus.023.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.023.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -282,7 +282,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 024</display-name>
   </channel>
-  <programme channel="ESPNPlus.024.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.024.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -294,7 +294,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 025</display-name>
   </channel>
-  <programme channel="ESPNPlus.025.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.025.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -306,7 +306,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 026</display-name>
   </channel>
-  <programme channel="ESPNPlus.026.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.026.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -318,7 +318,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 027</display-name>
   </channel>
-  <programme channel="ESPNPlus.027.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.027.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -330,7 +330,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 028</display-name>
   </channel>
-  <programme channel="ESPNPlus.028.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.028.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -342,7 +342,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 029</display-name>
   </channel>
-  <programme channel="ESPNPlus.029.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.029.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -354,7 +354,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 030</display-name>
   </channel>
-  <programme channel="ESPNPlus.030.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.030.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -366,7 +366,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 031</display-name>
   </channel>
-  <programme channel="ESPNPlus.031.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.031.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -378,7 +378,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 032</display-name>
   </channel>
-  <programme channel="ESPNPlus.032.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.032.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -390,7 +390,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 033</display-name>
   </channel>
-  <programme channel="ESPNPlus.033.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.033.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -402,7 +402,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 034</display-name>
   </channel>
-  <programme channel="ESPNPlus.034.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.034.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -414,7 +414,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 035</display-name>
   </channel>
-  <programme channel="ESPNPlus.035.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.035.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -426,7 +426,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 036</display-name>
   </channel>
-  <programme channel="ESPNPlus.036.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.036.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -438,7 +438,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 037</display-name>
   </channel>
-  <programme channel="ESPNPlus.037.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.037.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -450,7 +450,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 038</display-name>
   </channel>
-  <programme channel="ESPNPlus.038.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.038.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -462,7 +462,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 039</display-name>
   </channel>
-  <programme channel="ESPNPlus.039.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.039.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -474,7 +474,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 040</display-name>
   </channel>
-  <programme channel="ESPNPlus.040.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.040.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -486,7 +486,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 041</display-name>
   </channel>
-  <programme channel="ESPNPlus.041.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.041.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -498,7 +498,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 042</display-name>
   </channel>
-  <programme channel="ESPNPlus.042.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.042.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -510,7 +510,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 043</display-name>
   </channel>
-  <programme channel="ESPNPlus.043.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.043.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -522,7 +522,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 044</display-name>
   </channel>
-  <programme channel="ESPNPlus.044.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.044.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -534,7 +534,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 045</display-name>
   </channel>
-  <programme channel="ESPNPlus.045.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.045.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -546,7 +546,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 046</display-name>
   </channel>
-  <programme channel="ESPNPlus.046.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.046.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -558,7 +558,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 047</display-name>
   </channel>
-  <programme channel="ESPNPlus.047.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.047.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -570,7 +570,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 048</display-name>
   </channel>
-  <programme channel="ESPNPlus.048.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.048.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -582,7 +582,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 049</display-name>
   </channel>
-  <programme channel="ESPNPlus.049.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.049.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -594,7 +594,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 050</display-name>
   </channel>
-  <programme channel="ESPNPlus.050.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.050.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -606,7 +606,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 051</display-name>
   </channel>
-  <programme channel="ESPNPlus.051.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.051.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -618,7 +618,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 052</display-name>
   </channel>
-  <programme channel="ESPNPlus.052.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.052.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -630,7 +630,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 053</display-name>
   </channel>
-  <programme channel="ESPNPlus.053.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.053.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -642,7 +642,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 054</display-name>
   </channel>
-  <programme channel="ESPNPlus.054.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.054.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -654,7 +654,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 055</display-name>
   </channel>
-  <programme channel="ESPNPlus.055.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.055.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -666,7 +666,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 056</display-name>
   </channel>
-  <programme channel="ESPNPlus.056.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.056.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -678,7 +678,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 057</display-name>
   </channel>
-  <programme channel="ESPNPlus.057.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.057.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -690,7 +690,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 058</display-name>
   </channel>
-  <programme channel="ESPNPlus.058.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.058.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -702,7 +702,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 059</display-name>
   </channel>
-  <programme channel="ESPNPlus.059.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.059.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -714,7 +714,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 060</display-name>
   </channel>
-  <programme channel="ESPNPlus.060.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.060.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -726,7 +726,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 061</display-name>
   </channel>
-  <programme channel="ESPNPlus.061.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.061.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -738,7 +738,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 062</display-name>
   </channel>
-  <programme channel="ESPNPlus.062.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.062.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -750,7 +750,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 063</display-name>
   </channel>
-  <programme channel="ESPNPlus.063.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.063.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -762,7 +762,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 064</display-name>
   </channel>
-  <programme channel="ESPNPlus.064.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.064.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -774,7 +774,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 065</display-name>
   </channel>
-  <programme channel="ESPNPlus.065.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.065.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -786,7 +786,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 066</display-name>
   </channel>
-  <programme channel="ESPNPlus.066.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.066.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -798,7 +798,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 067</display-name>
   </channel>
-  <programme channel="ESPNPlus.067.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.067.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -810,7 +810,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 068</display-name>
   </channel>
-  <programme channel="ESPNPlus.068.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.068.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -822,7 +822,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 069</display-name>
   </channel>
-  <programme channel="ESPNPlus.069.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.069.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -834,7 +834,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 070</display-name>
   </channel>
-  <programme channel="ESPNPlus.070.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.070.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -846,7 +846,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 071</display-name>
   </channel>
-  <programme channel="ESPNPlus.071.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.071.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -858,7 +858,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 072</display-name>
   </channel>
-  <programme channel="ESPNPlus.072.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.072.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -870,7 +870,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 073</display-name>
   </channel>
-  <programme channel="ESPNPlus.073.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.073.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -882,7 +882,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 074</display-name>
   </channel>
-  <programme channel="ESPNPlus.074.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.074.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -894,7 +894,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 075</display-name>
   </channel>
-  <programme channel="ESPNPlus.075.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.075.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -906,7 +906,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 076</display-name>
   </channel>
-  <programme channel="ESPNPlus.076.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.076.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -918,7 +918,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 077</display-name>
   </channel>
-  <programme channel="ESPNPlus.077.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.077.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -930,7 +930,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 078</display-name>
   </channel>
-  <programme channel="ESPNPlus.078.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.078.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -942,7 +942,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 079</display-name>
   </channel>
-  <programme channel="ESPNPlus.079.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.079.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -954,7 +954,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 080</display-name>
   </channel>
-  <programme channel="ESPNPlus.080.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.080.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -966,7 +966,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 081</display-name>
   </channel>
-  <programme channel="ESPNPlus.081.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.081.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -978,7 +978,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 082</display-name>
   </channel>
-  <programme channel="ESPNPlus.082.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.082.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -990,7 +990,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 083</display-name>
   </channel>
-  <programme channel="ESPNPlus.083.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.083.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1002,7 +1002,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 084</display-name>
   </channel>
-  <programme channel="ESPNPlus.084.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.084.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1014,7 +1014,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 085</display-name>
   </channel>
-  <programme channel="ESPNPlus.085.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.085.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1026,7 +1026,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 086</display-name>
   </channel>
-  <programme channel="ESPNPlus.086.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.086.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1038,7 +1038,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 087</display-name>
   </channel>
-  <programme channel="ESPNPlus.087.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.087.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1050,7 +1050,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 088</display-name>
   </channel>
-  <programme channel="ESPNPlus.088.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.088.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1062,7 +1062,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 089</display-name>
   </channel>
-  <programme channel="ESPNPlus.089.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.089.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1074,7 +1074,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 090</display-name>
   </channel>
-  <programme channel="ESPNPlus.090.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.090.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1086,7 +1086,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 091</display-name>
   </channel>
-  <programme channel="ESPNPlus.091.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.091.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1098,7 +1098,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 092</display-name>
   </channel>
-  <programme channel="ESPNPlus.092.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.092.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1110,7 +1110,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 093</display-name>
   </channel>
-  <programme channel="ESPNPlus.093.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.093.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1122,7 +1122,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 094</display-name>
   </channel>
-  <programme channel="ESPNPlus.094.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.094.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1134,7 +1134,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 095</display-name>
   </channel>
-  <programme channel="ESPNPlus.095.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.095.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1146,7 +1146,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 096</display-name>
   </channel>
-  <programme channel="ESPNPlus.096.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.096.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1158,7 +1158,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 097</display-name>
   </channel>
-  <programme channel="ESPNPlus.097.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.097.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1170,7 +1170,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 098</display-name>
   </channel>
-  <programme channel="ESPNPlus.098.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.098.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1182,7 +1182,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 099</display-name>
   </channel>
-  <programme channel="ESPNPlus.099.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.099.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1194,7 +1194,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 100</display-name>
   </channel>
-  <programme channel="ESPNPlus.100.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.100.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1206,7 +1206,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 101</display-name>
   </channel>
-  <programme channel="ESPNPlus.101.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.101.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1218,7 +1218,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 102</display-name>
   </channel>
-  <programme channel="ESPNPlus.102.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.102.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1230,7 +1230,7 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 103</display-name>
   </channel>
-  <programme channel="ESPNPlus.103.us2" start="20251206100100 -0500" stop="20251206180100 -0500">
+  <programme channel="ESPNPlus.103.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
     <title lang="en">Offline</title>
     <desc lang="en">This channel is currently offline.</desc>
     <category lang="en">Other</category>
@@ -1242,10 +1242,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 104</display-name>
   </channel>
-  <programme channel="ESPNPlus.104.us2" start="20251206065000 -0400" stop="20251206102000 -0400">
-    <title lang="en">LIVE: En Español-Arsenal vs. Liverpool</title>
-    <desc lang="en">Live sports action: En Español-Arsenal vs. Liverpool. Event starts at 06:50am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.104.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.105.us2">
@@ -1254,10 +1254,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 105</display-name>
   </channel>
-  <programme channel="ESPNPlus.105.us2" start="20251206065500 -0400" stop="20251206102500 -0400">
-    <title lang="en">LIVE: Vfl Bochum 1848 vs. Arminia Bielefeld</title>
-    <desc lang="en">Live sports action: Vfl Bochum 1848 vs. Arminia Bielefeld. Event starts at 06:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.105.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.106.us2">
@@ -1266,10 +1266,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 106</display-name>
   </channel>
-  <programme channel="ESPNPlus.106.us2" start="20251206065500 -0400" stop="20251206102500 -0400">
-    <title lang="en">LIVE: 1. FC Kaiserslautern vs. SG Dynamo Dresden</title>
-    <desc lang="en">Live sports action: 1. FC Kaiserslautern vs. SG Dynamo Dresden. Event starts at 06:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.106.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.107.us2">
@@ -1278,10 +1278,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 107</display-name>
   </channel>
-  <programme channel="ESPNPlus.107.us2" start="20251206065500 -0400" stop="20251206102500 -0400">
-    <title lang="en">LIVE: Arsenal vs. Liverpool</title>
-    <desc lang="en">Live sports action: Arsenal vs. Liverpool. Event starts at 06:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.107.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.108.us2">
@@ -1290,10 +1290,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 108</display-name>
   </channel>
-  <programme channel="ESPNPlus.108.us2" start="20251206065500 -0400" stop="20251206102500 -0400">
-    <title lang="en">LIVE: SC Paderborn 07 vs. SV Elversberg</title>
-    <desc lang="en">Live sports action: SC Paderborn 07 vs. SV Elversberg. Event starts at 06:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.108.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.109.us2">
@@ -1302,10 +1302,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 109</display-name>
   </channel>
-  <programme channel="ESPNPlus.109.us2" start="20251206070500 -0400" stop="20251206103500 -0400">
-    <title lang="en">LIVE: En Español-Formula 2 Abu Dhabi Sprint Race</title>
-    <desc lang="en">Live sports action: En Español-Formula 2 Abu Dhabi Sprint Race. Event starts at 07:05am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.109.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.110.us2">
@@ -1314,10 +1314,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 110</display-name>
   </channel>
-  <programme channel="ESPNPlus.110.us2" start="20251206071500 -0400" stop="20251206104500 -0400">
-    <title lang="en">LIVE: Formula 2 Abu Dhabi Sprint Race</title>
-    <desc lang="en">Live sports action: Formula 2 Abu Dhabi Sprint Race. Event starts at 07:15am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.110.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.111.us2">
@@ -1326,10 +1326,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 111</display-name>
   </channel>
-  <programme channel="ESPNPlus.111.us2" start="20251206075000 -0400" stop="20251206112000 -0400">
-    <title lang="en">LIVE: Villarreal CF vs. Getafe CF</title>
-    <desc lang="en">Live sports action: Villarreal CF vs. Getafe CF. Event starts at 07:50am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.111.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.112.us2">
@@ -1338,10 +1338,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 112</display-name>
   </channel>
-  <programme channel="ESPNPlus.112.us2" start="20251206075500 -0400" stop="20251206112500 -0400">
-    <title lang="en">LIVE: En Español-Villarreal CF vs. Getafe CF</title>
-    <desc lang="en">Live sports action: En Español-Villarreal CF vs. Getafe CF. Event starts at 07:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.112.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.113.us2">
@@ -1350,10 +1350,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 113</display-name>
   </channel>
-  <programme channel="ESPNPlus.113.us2" start="20251206080000 -0400" stop="20251206113000 -0400">
-    <title lang="en">LIVE: MSV Duisburg vs. FC Energie Cottbus</title>
-    <desc lang="en">Live sports action: MSV Duisburg vs. FC Energie Cottbus. Event starts at 08:00am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.113.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.114.us2">
@@ -1362,10 +1362,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 114</display-name>
   </channel>
-  <programme channel="ESPNPlus.114.us2" start="20251206081500 -0400" stop="20251206114500 -0400">
-    <title lang="en">LIVE: F1: Qualifying Pre-Show</title>
-    <desc lang="en">Live sports action: F1: Qualifying Pre-Show. Event starts at 08:15am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.114.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.115.us2">
@@ -1374,10 +1374,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 115</display-name>
   </channel>
-  <programme channel="ESPNPlus.115.us2" start="20251206090000 -0400" stop="20251206123000 -0400">
-    <title lang="en">LIVE: VfB Stuttgart vs. FC Bayern München</title>
-    <desc lang="en">Live sports action: VfB Stuttgart vs. FC Bayern München. Event starts at 09:00am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.115.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.116.us2">
@@ -1386,10 +1386,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 116</display-name>
   </channel>
-  <programme channel="ESPNPlus.116.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: En Español-VfB Stuttgart vs. FC Bayern München</title>
-    <desc lang="en">Live sports action: En Español-VfB Stuttgart vs. FC Bayern München. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.116.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.117.us2">
@@ -1398,10 +1398,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 117</display-name>
   </channel>
-  <programme channel="ESPNPlus.117.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: Goal Arena - The Bundesliga Konferenz</title>
-    <desc lang="en">Live sports action: Goal Arena - The Bundesliga Konferenz. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.117.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.118.us2">
@@ -1410,10 +1410,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 118</display-name>
   </channel>
-  <programme channel="ESPNPlus.118.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: VfL Wolfsburg vs. 1. FC Union Berlin</title>
-    <desc lang="en">Live sports action: VfL Wolfsburg vs. 1. FC Union Berlin. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.118.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.119.us2">
@@ -1422,10 +1422,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 119</display-name>
   </channel>
-  <programme channel="ESPNPlus.119.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: 1. FC Köln vs. FC St. Pauli</title>
-    <desc lang="en">Live sports action: 1. FC Köln vs. FC St. Pauli. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.119.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.120.us2">
@@ -1434,10 +1434,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 120</display-name>
   </channel>
-  <programme channel="ESPNPlus.120.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: FC Augsburg vs. Bayer 04 Leverkusen</title>
-    <desc lang="en">Live sports action: FC Augsburg vs. Bayer 04 Leverkusen. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.120.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.121.us2">
@@ -1446,10 +1446,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 121</display-name>
   </channel>
-  <programme channel="ESPNPlus.121.us2" start="20251206092000 -0400" stop="20251206125000 -0400">
-    <title lang="en">LIVE: 1. FC Heidenheim 1846 vs. Sport-Club Freiburg</title>
-    <desc lang="en">Live sports action: 1. FC Heidenheim 1846 vs. Sport-Club Freiburg. Event starts at 09:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.121.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.122.us2">
@@ -1458,10 +1458,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 122</display-name>
   </channel>
-  <programme channel="ESPNPlus.122.us2" start="20251206093000 -0400" stop="20251206130000 -0400">
-    <title lang="en">LIVE: Montenegro vs. Serbia (Main Round)</title>
-    <desc lang="en">Live sports action: Montenegro vs. Serbia (Main Round). Event starts at 09:30am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.122.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.123.us2">
@@ -1470,10 +1470,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 123</display-name>
   </channel>
-  <programme channel="ESPNPlus.123.us2" start="20251206095500 -0400" stop="20251206132500 -0400">
-    <title lang="en">LIVE: Harvard Classic</title>
-    <desc lang="en">Live sports action: Harvard Classic. Event starts at 09:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.123.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.124.us2">
@@ -1482,10 +1482,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 124</display-name>
   </channel>
-  <programme channel="ESPNPlus.124.us2" start="20251206095500 -0400" stop="20251206132500 -0400">
-    <title lang="en">LIVE: Americas Winners Cup (Playoff)</title>
-    <desc lang="en">Live sports action: Americas Winners Cup (Playoff). Event starts at 09:55am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.124.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.125.us2">
@@ -1494,10 +1494,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 125</display-name>
   </channel>
-  <programme channel="ESPNPlus.125.us2" start="20251206100000 -0400" stop="20251206133000 -0400">
-    <title lang="en">LIVE: En Español-D. Alavés vs. Real Sociedad</title>
-    <desc lang="en">Live sports action: En Español-D. Alavés vs. Real Sociedad. Event starts at 10:00am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.125.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.126.us2">
@@ -1506,10 +1506,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 126</display-name>
   </channel>
-  <programme channel="ESPNPlus.126.us2" start="20251206100000 -0400" stop="20251206133000 -0400">
-    <title lang="en">LIVE: Big Al Invitational (Swimming)</title>
-    <desc lang="en">Live sports action: Big Al Invitational (Swimming). Event starts at 10:00am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.126.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.127.us2">
@@ -1518,10 +1518,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 127</display-name>
   </channel>
-  <programme channel="ESPNPlus.127.us2" start="20251206100500 -0400" stop="20251206133500 -0400">
-    <title lang="en">LIVE: D. Alaves vs. Real Sociedad</title>
-    <desc lang="en">Live sports action: D. Alaves vs. Real Sociedad. Event starts at 10:05am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.127.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.128.us2">
@@ -1530,10 +1530,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 128</display-name>
   </channel>
-  <programme channel="ESPNPlus.128.us2" start="20251206102000 -0400" stop="20251206135000 -0400">
-    <title lang="en">LIVE: En Español-SC Heerenveen vs. PSV</title>
-    <desc lang="en">Live sports action: En Español-SC Heerenveen vs. PSV. Event starts at 10:20am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.128.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.129.us2">
@@ -1542,10 +1542,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 129</display-name>
   </channel>
-  <programme channel="ESPNPlus.129.us2" start="20251206102500 -0400" stop="20251206135500 -0400">
-    <title lang="en">LIVE: sc Heerenveen vs. PSV</title>
-    <desc lang="en">Live sports action: sc Heerenveen vs. PSV. Event starts at 10:25am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.129.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.130.us2">
@@ -1554,10 +1554,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 130</display-name>
   </channel>
-  <programme channel="ESPNPlus.130.us2" start="20251206103000 -0400" stop="20251206140000 -0400">
-    <title lang="en">LIVE: FC Schweinfurt vs. TSV 1860 Munich</title>
-    <desc lang="en">Live sports action: FC Schweinfurt vs. TSV 1860 Munich. Event starts at 10:30am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.130.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.131.us2">
@@ -1566,10 +1566,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 131</display-name>
   </channel>
-  <programme channel="ESPNPlus.131.us2" start="20251206104500 -0400" stop="20251206141500 -0400">
-    <title lang="en">LIVE: FA Cup Round 2 Goals Show</title>
-    <desc lang="en">Live sports action: FA Cup Round 2 Goals Show. Event starts at 10:45am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.131.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.132.us2">
@@ -1578,10 +1578,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 132</display-name>
   </channel>
-  <programme channel="ESPNPlus.132.us2" start="20251206110000 -0400" stop="20251206143000 -0400">
-    <title lang="en">LIVE: F1: Ted's Qualifying Notebook</title>
-    <desc lang="en">Live sports action: F1: Ted's Qualifying Notebook. Event starts at 11:00am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.132.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.133.us2">
@@ -1590,10 +1590,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 133</display-name>
   </channel>
-  <programme channel="ESPNPlus.133.us2" start="20251206113000 -0400" stop="20251206150000 -0400">
-    <title lang="en">LIVE: Penn Opener</title>
-    <desc lang="en">Live sports action: Penn Opener. Event starts at 11:30am EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.133.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.134.us2">
@@ -1602,10 +1602,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 134</display-name>
   </channel>
-  <programme channel="ESPNPlus.134.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Trinity University (TX) vs. Berry (Third Round)</title>
-    <desc lang="en">Live sports action: Trinity University (TX) vs. Berry (Third Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.134.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.135.us2">
@@ -1614,10 +1614,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 135</display-name>
   </channel>
-  <programme channel="ESPNPlus.135.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Wheaton vs. DePauw (Third Round)</title>
-    <desc lang="en">Live sports action: Wheaton vs. DePauw (Third Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.135.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.136.us2">
@@ -1626,10 +1626,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 136</display-name>
   </channel>
-  <programme channel="ESPNPlus.136.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Real Betis vs. FC Barcelona</title>
-    <desc lang="en">Live sports action: Real Betis vs. FC Barcelona. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.136.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.137.us2">
@@ -1638,10 +1638,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 137</display-name>
   </channel>
-  <programme channel="ESPNPlus.137.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Massachusetts vs. Army</title>
-    <desc lang="en">Live sports action: Massachusetts vs. Army. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.137.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.138.us2">
@@ -1650,10 +1650,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 138</display-name>
   </channel>
-  <programme channel="ESPNPlus.138.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Big Al Invitational (Diving)</title>
-    <desc lang="en">Live sports action: Big Al Invitational (Diving). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.138.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.139.us2">
@@ -1662,10 +1662,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 139</display-name>
   </channel>
-  <programme channel="ESPNPlus.139.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Mecum Auctions: Kansas City 2025 (Day 2)</title>
-    <desc lang="en">Live sports action: Mecum Auctions: Kansas City 2025 (Day 2). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.139.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.140.us2">
@@ -1674,10 +1674,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 140</display-name>
   </channel>
-  <programme channel="ESPNPlus.140.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Bryant vs. Brown (Swimming)</title>
-    <desc lang="en">Live sports action: Bryant vs. Brown (Swimming). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.140.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.141.us2">
@@ -1686,10 +1686,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 141</display-name>
   </channel>
-  <programme channel="ESPNPlus.141.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Susquehanna vs. Eastern (Pa) (Third Round)</title>
-    <desc lang="en">Live sports action: Susquehanna vs. Eastern (Pa) (Third Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.141.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.142.us2">
@@ -1698,10 +1698,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 142</display-name>
   </channel>
-  <programme channel="ESPNPlus.142.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: UMBC vs. Bucknell</title>
-    <desc lang="en">Live sports action: UMBC vs. Bucknell. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.142.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.143.us2">
@@ -1710,10 +1710,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 143</display-name>
   </channel>
-  <programme channel="ESPNPlus.143.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Colorado Avalanche vs. New York Rangers</title>
-    <desc lang="en">Live sports action: Colorado Avalanche vs. New York Rangers. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.143.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.144.us2">
@@ -1722,10 +1722,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 144</display-name>
   </channel>
-  <programme channel="ESPNPlus.144.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Bryant vs. Brown (Diving)</title>
-    <desc lang="en">Live sports action: Bryant vs. Brown (Diving). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.144.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.145.us2">
@@ -1734,10 +1734,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 145</display-name>
   </channel>
-  <programme channel="ESPNPlus.145.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: South Dakota vs. Mercer (Second Round)</title>
-    <desc lang="en">Live sports action: South Dakota vs. Mercer (Second Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.145.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.146.us2">
@@ -1746,10 +1746,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 146</display-name>
   </channel>
-  <programme channel="ESPNPlus.146.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Villanova vs. Lehigh (Second Round)</title>
-    <desc lang="en">Live sports action: Villanova vs. Lehigh (Second Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.146.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.147.us2">
@@ -1758,10 +1758,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 147</display-name>
   </channel>
-  <programme channel="ESPNPlus.147.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Army vs. Navy</title>
-    <desc lang="en">Live sports action: Army vs. Navy. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.147.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.148.us2">
@@ -1770,10 +1770,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 148</display-name>
   </channel>
-  <programme channel="ESPNPlus.148.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Thomas University vs. Kennesaw State</title>
-    <desc lang="en">Live sports action: Thomas University vs. Kennesaw State. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.148.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.149.us2">
@@ -1782,10 +1782,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 149</display-name>
   </channel>
-  <programme channel="ESPNPlus.149.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Frostburg State vs. #1 Kutztown (PA) (Quarterfinal)</title>
-    <desc lang="en">Live sports action: Frostburg State vs. #1 Kutztown (PA) (Quarterfinal). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.149.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.150.us2">
@@ -1794,10 +1794,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 150</display-name>
   </channel>
-  <programme channel="ESPNPlus.150.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Spain vs. Germany (Main Round)</title>
-    <desc lang="en">Live sports action: Spain vs. Germany (Main Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.150.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.151.us2">
@@ -1812,10 +1812,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 152</display-name>
   </channel>
-  <programme channel="ESPNPlus.152.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Salisbury (MD) vs. Johns Hopkins (Third Round)</title>
-    <desc lang="en">Live sports action: Salisbury (MD) vs. Johns Hopkins (Third Round). Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.152.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.153.us2">
@@ -1824,10 +1824,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 153</display-name>
   </channel>
-  <programme channel="ESPNPlus.153.us2" start="20251206120000 -0400" stop="20251206153000 -0400">
-    <title lang="en">LIVE: Cleveland State vs. Oakland</title>
-    <desc lang="en">Live sports action: Cleveland State vs. Oakland. Event starts at 12:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.153.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.154.us2">
@@ -1836,10 +1836,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 154</display-name>
   </channel>
-  <programme channel="ESPNPlus.154.us2" start="20251206121000 -0400" stop="20251206154000 -0400">
-    <title lang="en">LIVE: Sutton United vs. Shrewsbury Town (Round 2)</title>
-    <desc lang="en">Live sports action: Sutton United vs. Shrewsbury Town (Round 2). Event starts at 12:10pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.154.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.155.us2">
@@ -1848,10 +1848,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 155</display-name>
   </channel>
-  <programme channel="ESPNPlus.155.us2" start="20251206121500 -0400" stop="20251206154500 -0400">
-    <title lang="en">LIVE: En Español-Real Betis vs. FC Barcelona</title>
-    <desc lang="en">Live sports action: En Español-Real Betis vs. FC Barcelona. Event starts at 12:15pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.155.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.156.us2">
@@ -1860,10 +1860,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 156</display-name>
   </channel>
-  <programme channel="ESPNPlus.156.us2" start="20251206122000 -0400" stop="20251206155000 -0400">
-    <title lang="en">LIVE: RB Leipzig vs. Eintracht Frankfurt</title>
-    <desc lang="en">Live sports action: RB Leipzig vs. Eintracht Frankfurt. Event starts at 12:20pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.156.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.157.us2">
@@ -1872,10 +1872,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 157</display-name>
   </channel>
-  <programme channel="ESPNPlus.157.us2" start="20251206122000 -0400" stop="20251206155000 -0400">
-    <title lang="en">LIVE: En Español-RB Leipzig vs. Eintracht Frankfurt</title>
-    <desc lang="en">Live sports action: En Español-RB Leipzig vs. Eintracht Frankfurt. Event starts at 12:20pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.157.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.158.us2">
@@ -1884,10 +1884,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 158</display-name>
   </channel>
-  <programme channel="ESPNPlus.158.us2" start="20251206123000 -0400" stop="20251206160000 -0400">
-    <title lang="en">LIVE: En Español-Fortuna Sittard vs. Ajax</title>
-    <desc lang="en">Live sports action: En Español-Fortuna Sittard vs. Ajax. Event starts at 12:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.158.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.159.us2">
@@ -1896,10 +1896,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 159</display-name>
   </channel>
-  <programme channel="ESPNPlus.159.us2" start="20251206124000 -0400" stop="20251206161000 -0400">
-    <title lang="en">LIVE: Fortuna Sittard vs. Ajax</title>
-    <desc lang="en">Live sports action: Fortuna Sittard vs. Ajax. Event starts at 12:40pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.159.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.160.us2">
@@ -1908,10 +1908,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 160</display-name>
   </channel>
-  <programme channel="ESPNPlus.160.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Wisconsin-Platteville vs. Bethel (MN) (Third Round)</title>
-    <desc lang="en">Live sports action: Wisconsin-Platteville vs. Bethel (MN) (Third Round). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.160.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.161.us2">
@@ -1920,10 +1920,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 161</display-name>
   </channel>
-  <programme channel="ESPNPlus.161.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Quinnipiac vs. Cornell</title>
-    <desc lang="en">Live sports action: Quinnipiac vs. Cornell. Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.161.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.162.us2">
@@ -1932,10 +1932,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 162</display-name>
   </channel>
-  <programme channel="ESPNPlus.162.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Brown vs. George Washington</title>
-    <desc lang="en">Live sports action: Brown vs. George Washington. Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.162.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.163.us2">
@@ -1944,10 +1944,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 163</display-name>
   </channel>
-  <programme channel="ESPNPlus.163.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: North Dakota vs. Tarleton State (Second Round)</title>
-    <desc lang="en">Live sports action: North Dakota vs. Tarleton State (Second Round). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.163.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.164.us2">
@@ -1956,10 +1956,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 164</display-name>
   </channel>
-  <programme channel="ESPNPlus.164.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Washington vs. #4 Maryland (Quarterfinals)</title>
-    <desc lang="en">Live sports action: Washington vs. #4 Maryland (Quarterfinals). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.164.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.165.us2">
@@ -1968,10 +1968,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 165</display-name>
   </channel>
-  <programme channel="ESPNPlus.165.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Minnesota State vs. Ferris State (Quarterfinal)</title>
-    <desc lang="en">Live sports action: Minnesota State vs. Ferris State (Quarterfinal). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.165.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.166.us2">
@@ -1980,10 +1980,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 166</display-name>
   </channel>
-  <programme channel="ESPNPlus.166.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Kent State vs. Marshall</title>
-    <desc lang="en">Live sports action: Kent State vs. Marshall. Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.166.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.167.us2">
@@ -1992,10 +1992,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 167</display-name>
   </channel>
-  <programme channel="ESPNPlus.167.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Wisconsin-La Crosse vs. North Central (IL) (Third Round)</title>
-    <desc lang="en">Live sports action: Wisconsin-La Crosse vs. North Central (IL) (Third Round). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.167.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.168.us2">
@@ -2004,10 +2004,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 168</display-name>
   </channel>
-  <programme channel="ESPNPlus.168.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Illinois State vs. North Dakota State (Second Round)</title>
-    <desc lang="en">Live sports action: Illinois State vs. North Dakota State (Second Round). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.168.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.169.us2">
@@ -2016,10 +2016,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 169</display-name>
   </channel>
-  <programme channel="ESPNPlus.169.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Saint Louis vs. #14 Akron (Quarterfinals)</title>
-    <desc lang="en">Live sports action: Saint Louis vs. #14 Akron (Quarterfinals). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.169.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.170.us2">
@@ -2034,10 +2034,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 171</display-name>
   </channel>
-  <programme channel="ESPNPlus.171.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Utah Valley vs. Bowling Green</title>
-    <desc lang="en">Live sports action: Utah Valley vs. Bowling Green. Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.171.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.172.us2">
@@ -2052,10 +2052,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 173</display-name>
   </channel>
-  <programme channel="ESPNPlus.173.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: North Dakota SCS vs. College of DuPage (DIII Championship)</title>
-    <desc lang="en">Live sports action: North Dakota SCS vs. College of DuPage (DIII Championship). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.173.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.174.us2">
@@ -2064,10 +2064,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 174</display-name>
   </channel>
-  <programme channel="ESPNPlus.174.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Saint John's (MN) vs. UW-River Falls (Third Round)</title>
-    <desc lang="en">Live sports action: Saint John's (MN) vs. UW-River Falls (Third Round). Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.174.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.175.us2">
@@ -2076,10 +2076,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 175</display-name>
   </channel>
-  <programme channel="ESPNPlus.175.us2" start="20251206130000 -0400" stop="20251206163000 -0400">
-    <title lang="en">LIVE: Charleston Southern vs. Wofford</title>
-    <desc lang="en">Live sports action: Charleston Southern vs. Wofford. Event starts at 01:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.175.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.176.us2">
@@ -2088,10 +2088,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 176</display-name>
   </channel>
-  <programme channel="ESPNPlus.176.us2" start="20251206133000 -0400" stop="20251206170000 -0400">
-    <title lang="en">LIVE: Boston College vs. #6 Northeastern</title>
-    <desc lang="en">Live sports action: Boston College vs. #6 Northeastern. Event starts at 01:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.176.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.177.us2">
@@ -2100,10 +2100,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 177</display-name>
   </channel>
-  <programme channel="ESPNPlus.177.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Texas Permian Basin vs. #1 Harding (Quarterfinal)</title>
-    <desc lang="en">Live sports action: Texas Permian Basin vs. #1 Harding (Quarterfinal). Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.177.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.178.us2">
@@ -2112,10 +2112,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 178</display-name>
   </channel>
-  <programme channel="ESPNPlus.178.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Yale vs. Montana State (Second Round)</title>
-    <desc lang="en">Live sports action: Yale vs. Montana State (Second Round). Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.178.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.179.us2">
@@ -2124,10 +2124,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 179</display-name>
   </channel>
-  <programme channel="ESPNPlus.179.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Maryland-Eastern Shore vs. American University</title>
-    <desc lang="en">Live sports action: Maryland-Eastern Shore vs. American University. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.179.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.180.us2">
@@ -2136,10 +2136,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 180</display-name>
   </channel>
-  <programme channel="ESPNPlus.180.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Western Carolina vs. South Carolina Upstate</title>
-    <desc lang="en">Live sports action: Western Carolina vs. South Carolina Upstate. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.180.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.181.us2">
@@ -2148,10 +2148,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 181</display-name>
   </channel>
-  <programme channel="ESPNPlus.181.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Maine vs. New Hampshire</title>
-    <desc lang="en">Live sports action: Maine vs. New Hampshire. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.181.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.182.us2">
@@ -2160,10 +2160,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 182</display-name>
   </channel>
-  <programme channel="ESPNPlus.182.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Sacred Heart vs. Coppin State</title>
-    <desc lang="en">Live sports action: Sacred Heart vs. Coppin State. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.182.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.183.us2">
@@ -2172,10 +2172,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 183</display-name>
   </channel>
-  <programme channel="ESPNPlus.183.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Coppin State vs. Liberty</title>
-    <desc lang="en">Live sports action: Coppin State vs. Liberty. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.183.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.184.us2">
@@ -2184,10 +2184,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 184</display-name>
   </channel>
-  <programme channel="ESPNPlus.184.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: St. John Fisher vs. Colgate</title>
-    <desc lang="en">Live sports action: St. John Fisher vs. Colgate. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.184.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.185.us2">
@@ -2196,10 +2196,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 185</display-name>
   </channel>
-  <programme channel="ESPNPlus.185.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: South Dakota State vs. Montana (Second Round)</title>
-    <desc lang="en">Live sports action: South Dakota State vs. Montana (Second Round). Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.185.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.186.us2">
@@ -2208,10 +2208,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 186</display-name>
   </channel>
-  <programme channel="ESPNPlus.186.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: UTEP vs. #8 TCU</title>
-    <desc lang="en">Live sports action: UTEP vs. #8 TCU. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.186.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.187.us2">
@@ -2220,10 +2220,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 187</display-name>
   </channel>
-  <programme channel="ESPNPlus.187.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Abilene Christian vs. Stephen F. Austin (Second Round)</title>
-    <desc lang="en">Live sports action: Abilene Christian vs. Stephen F. Austin (Second Round). Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.187.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.188.us2">
@@ -2232,10 +2232,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 188</display-name>
   </channel>
-  <programme channel="ESPNPlus.188.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Georgia Southern vs. Gardner-Webb</title>
-    <desc lang="en">Live sports action: Georgia Southern vs. Gardner-Webb. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.188.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.189.us2">
@@ -2244,10 +2244,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 189</display-name>
   </channel>
-  <programme channel="ESPNPlus.189.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Coastal Carolina vs. Winthrop</title>
-    <desc lang="en">Live sports action: Coastal Carolina vs. Winthrop. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.189.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.190.us2">
@@ -2256,10 +2256,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 190</display-name>
   </channel>
-  <programme channel="ESPNPlus.190.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Delaware vs. Delaware State</title>
-    <desc lang="en">Live sports action: Delaware vs. Delaware State. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.190.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.191.us2">
@@ -2268,10 +2268,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 191</display-name>
   </channel>
-  <programme channel="ESPNPlus.191.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Hannibal-LaGrange vs. Western Illinois</title>
-    <desc lang="en">Live sports action: Hannibal-LaGrange vs. Western Illinois. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.191.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.192.us2">
@@ -2280,10 +2280,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 192</display-name>
   </channel>
-  <programme channel="ESPNPlus.192.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: St. Bonaventure vs. Buffalo</title>
-    <desc lang="en">Live sports action: St. Bonaventure vs. Buffalo. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.192.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.193.us2">
@@ -2292,10 +2292,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 193</display-name>
   </channel>
-  <programme channel="ESPNPlus.193.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Jacksonville vs. Florida International</title>
-    <desc lang="en">Live sports action: Jacksonville vs. Florida International. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.193.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.194.us2">
@@ -2304,10 +2304,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 194</display-name>
   </channel>
-  <programme channel="ESPNPlus.194.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Tennessee Tech vs. West Georgia</title>
-    <desc lang="en">Live sports action: Tennessee Tech vs. West Georgia. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.194.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.195.us2">
@@ -2316,10 +2316,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 195</display-name>
   </channel>
-  <programme channel="ESPNPlus.195.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Buffalo vs. Binghamton</title>
-    <desc lang="en">Live sports action: Buffalo vs. Binghamton. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.195.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.196.us2">
@@ -2328,10 +2328,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 196</display-name>
   </channel>
-  <programme channel="ESPNPlus.196.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Holy Cross vs. Fordham</title>
-    <desc lang="en">Live sports action: Holy Cross vs. Fordham. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.196.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.197.us2">
@@ -2340,10 +2340,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 197</display-name>
   </channel>
-  <programme channel="ESPNPlus.197.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Stony Brook vs. Duquesne</title>
-    <desc lang="en">Live sports action: Stony Brook vs. Duquesne. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.197.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.198.us2">
@@ -2352,10 +2352,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 198</display-name>
   </channel>
-  <programme channel="ESPNPlus.198.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Coastal Carolina vs. Jacksonville</title>
-    <desc lang="en">Live sports action: Coastal Carolina vs. Jacksonville. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.198.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.199.us2">
@@ -2364,10 +2364,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 199</display-name>
   </channel>
-  <programme channel="ESPNPlus.199.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Princeton vs. Belmont</title>
-    <desc lang="en">Live sports action: Princeton vs. Belmont. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.199.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.200.us2">
@@ -2376,10 +2376,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 200</display-name>
   </channel>
-  <programme channel="ESPNPlus.200.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: UMBC vs. Morgan State</title>
-    <desc lang="en">Live sports action: UMBC vs. Morgan State. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.200.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.201.us2">
@@ -2388,10 +2388,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 201</display-name>
   </channel>
-  <programme channel="ESPNPlus.201.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Harvard vs. Furman</title>
-    <desc lang="en">Live sports action: Harvard vs. Furman. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.201.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.202.us2">
@@ -2400,10 +2400,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 202</display-name>
   </channel>
-  <programme channel="ESPNPlus.202.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Detroit Mercy vs. Cleveland State</title>
-    <desc lang="en">Live sports action: Detroit Mercy vs. Cleveland State. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.202.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.203.us2">
@@ -2412,10 +2412,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 203</display-name>
   </channel>
-  <programme channel="ESPNPlus.203.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: North Dakota State vs. Weber State</title>
-    <desc lang="en">Live sports action: North Dakota State vs. Weber State. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.203.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.204.us2">
@@ -2424,10 +2424,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 204</display-name>
   </channel>
-  <programme channel="ESPNPlus.204.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Wagner vs. Columbia</title>
-    <desc lang="en">Live sports action: Wagner vs. Columbia. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.204.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.205.us2">
@@ -2436,10 +2436,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 205</display-name>
   </channel>
-  <programme channel="ESPNPlus.205.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Western Michigan vs. SIU Edwardsville</title>
-    <desc lang="en">Live sports action: Western Michigan vs. SIU Edwardsville. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.205.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.206.us2">
@@ -2448,10 +2448,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 206</display-name>
   </channel>
-  <programme channel="ESPNPlus.206.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Northern Iowa vs. Toledo</title>
-    <desc lang="en">Live sports action: Northern Iowa vs. Toledo. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.206.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.207.us2">
@@ -2460,10 +2460,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 207</display-name>
   </channel>
-  <programme channel="ESPNPlus.207.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Norfolk State vs. James Madison</title>
-    <desc lang="en">Live sports action: Norfolk State vs. James Madison. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.207.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.208.us2">
@@ -2472,10 +2472,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 208</display-name>
   </channel>
-  <programme channel="ESPNPlus.208.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: North Florida vs. UNC Asheville</title>
-    <desc lang="en">Live sports action: North Florida vs. UNC Asheville. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.208.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.209.us2">
@@ -2484,10 +2484,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 209</display-name>
   </channel>
-  <programme channel="ESPNPlus.209.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Holy Cross vs. Vermont</title>
-    <desc lang="en">Live sports action: Holy Cross vs. Vermont. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.209.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.210.us2">
@@ -2496,10 +2496,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 210</display-name>
   </channel>
-  <programme channel="ESPNPlus.210.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Northern Kentucky vs. Purdue Fort Wayne</title>
-    <desc lang="en">Live sports action: Northern Kentucky vs. Purdue Fort Wayne. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.210.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.211.us2">
@@ -2508,10 +2508,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 211</display-name>
   </channel>
-  <programme channel="ESPNPlus.211.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Morehead State vs. Presbyterian</title>
-    <desc lang="en">Live sports action: Morehead State vs. Presbyterian. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.211.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.212.us2">
@@ -2520,10 +2520,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 212</display-name>
   </channel>
-  <programme channel="ESPNPlus.212.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: St. Lawrence vs. #10 Clarkson</title>
-    <desc lang="en">Live sports action: St. Lawrence vs. #10 Clarkson. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.212.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.213.us2">
@@ -2532,10 +2532,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 213</display-name>
   </channel>
-  <programme channel="ESPNPlus.213.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Yale vs. Rider</title>
-    <desc lang="en">Live sports action: Yale vs. Rider. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.213.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.214.us2">
@@ -2544,10 +2544,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 214</display-name>
   </channel>
-  <programme channel="ESPNPlus.214.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Youngstown State vs. IU Indianapolis</title>
-    <desc lang="en">Live sports action: Youngstown State vs. IU Indianapolis. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.214.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.215.us2">
@@ -2556,10 +2556,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 215</display-name>
   </channel>
-  <programme channel="ESPNPlus.215.us2" start="20251206140000 -0400" stop="20251206173000 -0400">
-    <title lang="en">LIVE: Providence vs. Merrimack</title>
-    <desc lang="en">Live sports action: Providence vs. Merrimack. Event starts at 02:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.215.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.216.us2">
@@ -2568,10 +2568,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 216</display-name>
   </channel>
-  <programme channel="ESPNPlus.216.us2" start="20251206142500 -0400" stop="20251206175500 -0400">
-    <title lang="en">LIVE: Chesterfield vs. Doncaster Rovers (Round 2)</title>
-    <desc lang="en">Live sports action: Chesterfield vs. Doncaster Rovers (Round 2). Event starts at 02:25pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.216.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.217.us2">
@@ -2580,10 +2580,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 217</display-name>
   </channel>
-  <programme channel="ESPNPlus.217.us2" start="20251206142500 -0400" stop="20251206175500 -0400">
-    <title lang="en">LIVE: SV Darmstadt 98 vs. Karlsruher SC</title>
-    <desc lang="en">Live sports action: SV Darmstadt 98 vs. Karlsruher SC. Event starts at 02:25pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.217.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.218.us2">
@@ -2592,10 +2592,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 218</display-name>
   </channel>
-  <programme channel="ESPNPlus.218.us2" start="20251206143000 -0400" stop="20251206180000 -0400">
-    <title lang="en">LIVE: En Español-Rafael Acosta vs. Franck Urquiaga (Main Card)</title>
-    <desc lang="en">Live sports action: En Español-Rafael Acosta vs. Franck Urquiaga (Main Card). Event starts at 02:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.218.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.219.us2">
@@ -2604,10 +2604,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 219</display-name>
   </channel>
-  <programme channel="ESPNPlus.219.us2" start="20251206143000 -0400" stop="20251206180000 -0400">
-    <title lang="en">LIVE: En Español-Athletic Club vs. Atlético de Madrid</title>
-    <desc lang="en">Live sports action: En Español-Athletic Club vs. Atlético de Madrid. Event starts at 02:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.219.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.220.us2">
@@ -2616,10 +2616,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 220</display-name>
   </channel>
-  <programme channel="ESPNPlus.220.us2" start="20251206143000 -0400" stop="20251206180000 -0400">
-    <title lang="en">LIVE: Athletic Club vs. Atletico de Madrid</title>
-    <desc lang="en">Live sports action: Athletic Club vs. Atletico de Madrid. Event starts at 02:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.220.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.221.us2">
@@ -2628,10 +2628,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 221</display-name>
   </channel>
-  <programme channel="ESPNPlus.221.us2" start="20251206143000 -0400" stop="20251206180000 -0400">
-    <title lang="en">LIVE: Poland vs. Netherlands (Main Round)</title>
-    <desc lang="en">Live sports action: Poland vs. Netherlands (Main Round). Event starts at 02:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.221.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.222.us2">
@@ -2640,10 +2640,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 222</display-name>
   </channel>
-  <programme channel="ESPNPlus.222.us2" start="20251206144500 -0400" stop="20251206181500 -0400">
-    <title lang="en">LIVE: En Español-Feyenoord vs. PEC Zwolle</title>
-    <desc lang="en">Live sports action: En Español-Feyenoord vs. PEC Zwolle. Event starts at 02:45pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.222.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.223.us2">
@@ -2652,10 +2652,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 223</display-name>
   </channel>
-  <programme channel="ESPNPlus.223.us2" start="20251206145500 -0400" stop="20251206182500 -0400">
-    <title lang="en">LIVE: Feyenoord vs. PEC Zwolle</title>
-    <desc lang="en">Live sports action: Feyenoord vs. PEC Zwolle. Event starts at 02:55pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.223.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.224.us2">
@@ -2664,10 +2664,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 224</display-name>
   </channel>
-  <programme channel="ESPNPlus.224.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: #11 Princeton vs. #8 Cornell</title>
-    <desc lang="en">Live sports action: #11 Princeton vs. #8 Cornell. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.224.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.225.us2">
@@ -2676,10 +2676,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 225</display-name>
   </channel>
-  <programme channel="ESPNPlus.225.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Calumet College vs. Valparaiso</title>
-    <desc lang="en">Live sports action: Calumet College vs. Valparaiso. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.225.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.226.us2">
@@ -2688,10 +2688,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 226</display-name>
   </channel>
-  <programme channel="ESPNPlus.226.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Edward Jones Big 12 Championship Trophy Ceremony (Trophy Presentation)</title>
-    <desc lang="en">Live sports action: Edward Jones Big 12 Championship Trophy Ceremony (Trophy Presentation). Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.226.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.227.us2">
@@ -2700,10 +2700,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 227</display-name>
   </channel>
-  <programme channel="ESPNPlus.227.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Yale vs. #13 Brown</title>
-    <desc lang="en">Live sports action: Yale vs. #13 Brown. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.227.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.228.us2">
@@ -2712,10 +2712,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 228</display-name>
   </channel>
-  <programme channel="ESPNPlus.228.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Columbus Blue Jackets vs. Florida Panthers</title>
-    <desc lang="en">Live sports action: Columbus Blue Jackets vs. Florida Panthers. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.228.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.229.us2">
@@ -2724,10 +2724,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 229</display-name>
   </channel>
-  <programme channel="ESPNPlus.229.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: RPI vs. Harvard</title>
-    <desc lang="en">Live sports action: RPI vs. Harvard. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.229.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.230.us2">
@@ -2736,10 +2736,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 230</display-name>
   </channel>
-  <programme channel="ESPNPlus.230.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Murray State vs. Austin Peay</title>
-    <desc lang="en">Live sports action: Murray State vs. Austin Peay. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.230.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.231.us2">
@@ -2748,10 +2748,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 231</display-name>
   </channel>
-  <programme channel="ESPNPlus.231.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: SWAC Championship Band Halftime</title>
-    <desc lang="en">Live sports action: SWAC Championship Band Halftime. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.231.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.232.us2">
@@ -2760,10 +2760,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 232</display-name>
   </channel>
-  <programme channel="ESPNPlus.232.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Missouri State vs. Tulsa</title>
-    <desc lang="en">Live sports action: Missouri State vs. Tulsa. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.232.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.233.us2">
@@ -2772,10 +2772,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 233</display-name>
   </channel>
-  <programme channel="ESPNPlus.233.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: UNLV vs. Rice</title>
-    <desc lang="en">Live sports action: UNLV vs. Rice. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.233.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.234.us2">
@@ -2784,10 +2784,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 234</display-name>
   </channel>
-  <programme channel="ESPNPlus.234.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: UT Martin vs. Arkansas State</title>
-    <desc lang="en">Live sports action: UT Martin vs. Arkansas State. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.234.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.235.us2">
@@ -2796,10 +2796,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 235</display-name>
   </channel>
-  <programme channel="ESPNPlus.235.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: #9 Quinnipiac vs. #15 Colgate</title>
-    <desc lang="en">Live sports action: #9 Quinnipiac vs. #15 Colgate. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.235.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.236.us2">
@@ -2808,10 +2808,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 236</display-name>
   </channel>
-  <programme channel="ESPNPlus.236.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: MAC Championship Trophy Ceremony (Trophy Presentation)</title>
-    <desc lang="en">Live sports action: MAC Championship Trophy Ceremony (Trophy Presentation). Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.236.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.237.us2">
@@ -2820,10 +2820,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 237</display-name>
   </channel>
-  <programme channel="ESPNPlus.237.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Mississippi Valley State vs. #24 Oklahoma State</title>
-    <desc lang="en">Live sports action: Mississippi Valley State vs. #24 Oklahoma State. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.237.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.238.us2">
@@ -2832,10 +2832,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 238</display-name>
   </channel>
-  <programme channel="ESPNPlus.238.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Bellarmine vs. Murray State</title>
-    <desc lang="en">Live sports action: Bellarmine vs. Murray State. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.238.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.239.us2">
@@ -2844,10 +2844,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 239</display-name>
   </channel>
-  <programme channel="ESPNPlus.239.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Texas Southern vs. North Texas</title>
-    <desc lang="en">Live sports action: Texas Southern vs. North Texas. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.239.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.240.us2">
@@ -2856,10 +2856,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 240</display-name>
   </channel>
-  <programme channel="ESPNPlus.240.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: #15 NC State vs. #7 Georgetown (Quarterfinals)</title>
-    <desc lang="en">Live sports action: #15 NC State vs. #7 Georgetown (Quarterfinals). Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.240.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.241.us2">
@@ -2868,10 +2868,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 241</display-name>
   </channel>
-  <programme channel="ESPNPlus.241.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Southeast Missouri State vs. Southern Illinois</title>
-    <desc lang="en">Live sports action: Southeast Missouri State vs. Southern Illinois. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.241.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.242.us2">
@@ -2880,10 +2880,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 242</display-name>
   </channel>
-  <programme channel="ESPNPlus.242.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Union vs. Dartmouth</title>
-    <desc lang="en">Live sports action: Union vs. Dartmouth. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.242.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.243.us2">
@@ -2892,10 +2892,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 243</display-name>
   </channel>
-  <programme channel="ESPNPlus.243.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Georgia State vs. Kennesaw State</title>
-    <desc lang="en">Live sports action: Georgia State vs. Kennesaw State. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.243.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.244.us2">
@@ -2904,10 +2904,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 244</display-name>
   </channel>
-  <programme channel="ESPNPlus.244.us2" start="20251206150000 -0400" stop="20251206183000 -0400">
-    <title lang="en">LIVE: Toledo vs. Oakland</title>
-    <desc lang="en">Live sports action: Toledo vs. Oakland. Event starts at 03:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.244.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.245.us2">
@@ -2916,10 +2916,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 245</display-name>
   </channel>
-  <programme channel="ESPNPlus.245.us2" start="20251206153000 -0400" stop="20251206190000 -0400">
-    <title lang="en">LIVE: Abilene Christian vs. East Texas A&amp;M</title>
-    <desc lang="en">Live sports action: Abilene Christian vs. East Texas A&amp;M. Event starts at 03:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.245.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.246.us2">
@@ -2928,10 +2928,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 246</display-name>
   </channel>
-  <programme channel="ESPNPlus.246.us2" start="20251206153000 -0400" stop="20251206190000 -0400">
-    <title lang="en">LIVE: Mercer vs. Jacksonville State</title>
-    <desc lang="en">Live sports action: Mercer vs. Jacksonville State. Event starts at 03:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.246.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.247.us2">
@@ -2940,10 +2940,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 247</display-name>
   </channel>
-  <programme channel="ESPNPlus.247.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: UNC Wilmington vs. Louisiana</title>
-    <desc lang="en">Live sports action: UNC Wilmington vs. Louisiana. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.247.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.248.us2">
@@ -2952,10 +2952,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 248</display-name>
   </channel>
-  <programme channel="ESPNPlus.248.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Le Moyne vs. Binghamton</title>
-    <desc lang="en">Live sports action: Le Moyne vs. Binghamton. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.248.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.249.us2">
@@ -2964,10 +2964,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 249</display-name>
   </channel>
-  <programme channel="ESPNPlus.249.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Akron vs. Tulane</title>
-    <desc lang="en">Live sports action: Akron vs. Tulane. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.249.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.250.us2">
@@ -2976,10 +2976,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 250</display-name>
   </channel>
-  <programme channel="ESPNPlus.250.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Longwood vs. Morgan State</title>
-    <desc lang="en">Live sports action: Longwood vs. Morgan State. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.250.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.251.us2">
@@ -2988,10 +2988,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 251</display-name>
   </channel>
-  <programme channel="ESPNPlus.251.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Incarnate Word vs. Nicholls</title>
-    <desc lang="en">Live sports action: Incarnate Word vs. Nicholls. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.251.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.252.us2">
@@ -3000,10 +3000,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 252</display-name>
   </channel>
-  <programme channel="ESPNPlus.252.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Hawai'i vs. Cal State Fullerton</title>
-    <desc lang="en">Live sports action: Hawai'i vs. Cal State Fullerton. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.252.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.253.us2">
@@ -3012,10 +3012,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 253</display-name>
   </channel>
-  <programme channel="ESPNPlus.253.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: New Mexico State vs. Abilene Christian</title>
-    <desc lang="en">Live sports action: New Mexico State vs. Abilene Christian. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.253.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.254.us2">
@@ -3024,10 +3024,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 254</display-name>
   </channel>
-  <programme channel="ESPNPlus.254.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Marshall vs. Ohio</title>
-    <desc lang="en">Live sports action: Marshall vs. Ohio. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.254.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.255.us2">
@@ -3036,10 +3036,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 255</display-name>
   </channel>
-  <programme channel="ESPNPlus.255.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Evansville vs. Western Kentucky</title>
-    <desc lang="en">Live sports action: Evansville vs. Western Kentucky. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.255.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.256.us2">
@@ -3048,10 +3048,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 256</display-name>
   </channel>
-  <programme channel="ESPNPlus.256.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: South Dakota State vs. Northern Arizona</title>
-    <desc lang="en">Live sports action: South Dakota State vs. Northern Arizona. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.256.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.257.us2">
@@ -3060,10 +3060,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 257</display-name>
   </channel>
-  <programme channel="ESPNPlus.257.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Long Beach State vs. UC San Diego</title>
-    <desc lang="en">Live sports action: Long Beach State vs. UC San Diego. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.257.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.258.us2">
@@ -3072,10 +3072,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 258</display-name>
   </channel>
-  <programme channel="ESPNPlus.258.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Seton Hall vs. Kansas State</title>
-    <desc lang="en">Live sports action: Seton Hall vs. Kansas State. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.258.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.259.us2">
@@ -3084,10 +3084,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 259</display-name>
   </channel>
-  <programme channel="ESPNPlus.259.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Elon vs. Wofford</title>
-    <desc lang="en">Live sports action: Elon vs. Wofford. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.259.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.260.us2">
@@ -3096,10 +3096,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 260</display-name>
   </channel>
-  <programme channel="ESPNPlus.260.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: UMass Lowell vs. Massachusetts</title>
-    <desc lang="en">Live sports action: UMass Lowell vs. Massachusetts. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.260.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.261.us2">
@@ -3108,10 +3108,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 261</display-name>
   </channel>
-  <programme channel="ESPNPlus.261.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Southern Indiana vs. East Tennessee State</title>
-    <desc lang="en">Live sports action: Southern Indiana vs. East Tennessee State. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.261.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.262.us2">
@@ -3120,10 +3120,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 262</display-name>
   </channel>
-  <programme channel="ESPNPlus.262.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: #7 UConn vs. Boston University</title>
-    <desc lang="en">Live sports action: #7 UConn vs. Boston University. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.262.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.263.us2">
@@ -3132,10 +3132,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 263</display-name>
   </channel>
-  <programme channel="ESPNPlus.263.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: IU East vs. Eastern Kentucky</title>
-    <desc lang="en">Live sports action: IU East vs. Eastern Kentucky. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.263.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.264.us2">
@@ -3144,10 +3144,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 264</display-name>
   </channel>
-  <programme channel="ESPNPlus.264.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: UNC Greensboro vs. East Carolina</title>
-    <desc lang="en">Live sports action: UNC Greensboro vs. East Carolina. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.264.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.265.us2">
@@ -3156,10 +3156,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 265</display-name>
   </channel>
-  <programme channel="ESPNPlus.265.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: North Carolina A&amp;T vs. North Carolina Central</title>
-    <desc lang="en">Live sports action: North Carolina A&amp;T vs. North Carolina Central. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.265.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.266.us2">
@@ -3168,10 +3168,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 266</display-name>
   </channel>
-  <programme channel="ESPNPlus.266.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Simpson vs. Santa Clara</title>
-    <desc lang="en">Live sports action: Simpson vs. Santa Clara. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.266.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.267.us2">
@@ -3180,10 +3180,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 267</display-name>
   </channel>
-  <programme channel="ESPNPlus.267.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Air Force vs. Utah Valley</title>
-    <desc lang="en">Live sports action: Air Force vs. Utah Valley. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.267.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.268.us2">
@@ -3192,10 +3192,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 268</display-name>
   </channel>
-  <programme channel="ESPNPlus.268.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: Merrimack vs. #15 UConn</title>
-    <desc lang="en">Live sports action: Merrimack vs. #15 UConn. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.268.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.269.us2">
@@ -3204,10 +3204,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 269</display-name>
   </channel>
-  <programme channel="ESPNPlus.269.us2" start="20251206160000 -0400" stop="20251206193000 -0400">
-    <title lang="en">LIVE: New Mexico State vs. Utah Tech</title>
-    <desc lang="en">Live sports action: New Mexico State vs. Utah Tech. Event starts at 04:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.269.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.270.us2">
@@ -3216,10 +3216,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 270</display-name>
   </channel>
-  <programme channel="ESPNPlus.270.us2" start="20251206163000 -0400" stop="20251206200000 -0400">
-    <title lang="en">LIVE: UNC Greensboro vs. South Carolina Upstate</title>
-    <desc lang="en">Live sports action: UNC Greensboro vs. South Carolina Upstate. Event starts at 04:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.270.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.271.us2">
@@ -3228,10 +3228,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 271</display-name>
   </channel>
-  <programme channel="ESPNPlus.271.us2" start="20251206163000 -0400" stop="20251206200000 -0400">
-    <title lang="en">LIVE: San Francisco vs. Arizona State</title>
-    <desc lang="en">Live sports action: San Francisco vs. Arizona State. Event starts at 04:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.271.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.272.us2">
@@ -3240,10 +3240,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 272</display-name>
   </channel>
-  <programme channel="ESPNPlus.272.us2" start="20251206163000 -0400" stop="20251206200000 -0400">
-    <title lang="en">LIVE: Southeast Missouri State vs. Chattanooga</title>
-    <desc lang="en">Live sports action: Southeast Missouri State vs. Chattanooga. Event starts at 04:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.272.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.273.us2">
@@ -3252,10 +3252,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 273</display-name>
   </channel>
-  <programme channel="ESPNPlus.273.us2" start="20251206163000 -0400" stop="20251206200000 -0400">
-    <title lang="en">LIVE: LaGrange vs. Troy</title>
-    <desc lang="en">Live sports action: LaGrange vs. Troy. Event starts at 04:30pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.273.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.274.us2">
@@ -3264,10 +3264,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 274</display-name>
   </channel>
-  <programme channel="ESPNPlus.274.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Elms College vs. Brown</title>
-    <desc lang="en">Live sports action: Elms College vs. Brown. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.274.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.275.us2">
@@ -3276,10 +3276,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 275</display-name>
   </channel>
-  <programme channel="ESPNPlus.275.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Long Island University vs. Lehigh</title>
-    <desc lang="en">Live sports action: Long Island University vs. Lehigh. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.275.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.276.us2">
@@ -3288,10 +3288,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 276</display-name>
   </channel>
-  <programme channel="ESPNPlus.276.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Southern Utah vs. Oregon State</title>
-    <desc lang="en">Live sports action: Southern Utah vs. Oregon State. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.276.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.277.us2">
@@ -3300,10 +3300,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 277</display-name>
   </channel>
-  <programme channel="ESPNPlus.277.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: ESPN FC - Schedule Review Show</title>
-    <desc lang="en">Live sports action: ESPN FC - Schedule Review Show. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.277.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.278.us2">
@@ -3312,10 +3312,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 278</display-name>
   </channel>
-  <programme channel="ESPNPlus.278.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: SWAC Championship Trophy Ceremony (Trophy Presentation)</title>
-    <desc lang="en">Live sports action: SWAC Championship Trophy Ceremony (Trophy Presentation). Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.278.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.279.us2">
@@ -3324,10 +3324,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 279</display-name>
   </channel>
-  <programme channel="ESPNPlus.279.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: UC Irvine vs. Cal State Northridge</title>
-    <desc lang="en">Live sports action: UC Irvine vs. Cal State Northridge. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.279.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.280.us2">
@@ -3336,10 +3336,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 280</display-name>
   </channel>
-  <programme channel="ESPNPlus.280.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: La Verne vs. UW-Oshkosh (Championship)</title>
-    <desc lang="en">Live sports action: La Verne vs. UW-Oshkosh (Championship). Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.280.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.281.us2">
@@ -3348,10 +3348,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 281</display-name>
   </channel>
-  <programme channel="ESPNPlus.281.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Omaha vs. Portland State</title>
-    <desc lang="en">Live sports action: Omaha vs. Portland State. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.281.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.282.us2">
@@ -3360,10 +3360,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 282</display-name>
   </channel>
-  <programme channel="ESPNPlus.282.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: UC Santa Barbara vs. Cal State Bakersfield</title>
-    <desc lang="en">Live sports action: UC Santa Barbara vs. Cal State Bakersfield. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.282.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.283.us2">
@@ -3372,10 +3372,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 283</display-name>
   </channel>
-  <programme channel="ESPNPlus.283.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: #8 Quinnipiac vs. Union</title>
-    <desc lang="en">Live sports action: #8 Quinnipiac vs. Union. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.283.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.284.us2">
@@ -3384,10 +3384,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 284</display-name>
   </channel>
-  <programme channel="ESPNPlus.284.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Kansas City vs. Eastern Washington</title>
-    <desc lang="en">Live sports action: Kansas City vs. Eastern Washington. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.284.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.285.us2">
@@ -3396,10 +3396,10 @@
     <url>http://www.espn.com</url>
     <display-name lang="en">ESPN+ 285</display-name>
   </channel>
-  <programme channel="ESPNPlus.285.us2" start="20251206170000 -0400" stop="20251206203000 -0400">
-    <title lang="en">LIVE: Vermont vs. Pepperdine</title>
-    <desc lang="en">Live sports action: Vermont vs. Pepperdine. Event starts at 05:00pm EDT.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPlus.285.us2" start="20251207080100 -0500" stop="20251207160100 -0500">
+    <title lang="en">Offline</title>
+    <desc lang="en">This channel is currently offline.</desc>
+    <category lang="en">Other</category>
     <previously-shown/>
   </programme>
   <channel id="ESPNPlus.286.us2">
@@ -3505,8 +3505,8 @@
     <display-name lang="en">ESPN+ 294</display-name>
   </channel>
   <programme channel="ESPNPlus.294.us2" start="20251206180000 -0400" stop="20251206213000 -0400">
-    <title lang="en">LIVE: En Español - UFC 323: Dvalishvili vs. Yan 2 (Prelims)</title>
-    <desc lang="en">Live sports action: En Español - UFC 323: Dvalishvili vs. Yan 2 (Prelims). Event starts at 06:00pm EDT.</desc>
+    <title lang="en">LIVE: En EspaÃ±ol - UFC 323: Dvalishvili vs. Yan 2 (Prelims)</title>
+    <desc lang="en">Live sports action: En EspaÃ±ol - UFC 323: Dvalishvili vs. Yan 2 (Prelims). Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
