@@ -6,36 +6,144 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 01</display-name>
   </channel>
+  <programme channel="NFL.01.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Saints @ Buccaneers @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Saints at Buccaneers. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Saints @ Buccaneers</title>
+    <desc lang="en">Live NFL action - Standard. Saints at Buccaneers. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Saints at Buccaneers.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.02.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 02</display-name>
   </channel>
+  <programme channel="NFL.02.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Dolphins @ Jets @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Dolphins at Jets. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.02.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Dolphins @ Jets</title>
+    <desc lang="en">Live NFL action - Standard. Dolphins at Jets. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.02.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Dolphins at Jets.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.03.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 03</display-name>
   </channel>
+  <programme channel="NFL.03.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Steelers @ Ravens @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Steelers at Ravens. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.03.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Steelers @ Ravens</title>
+    <desc lang="en">Live NFL action - Standard. Steelers at Ravens. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.03.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Steelers at Ravens.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.04.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 04</display-name>
   </channel>
+  <programme channel="NFL.04.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Colts @ Jaguars @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Colts at Jaguars. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.04.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Colts @ Jaguars</title>
+    <desc lang="en">Live NFL action - Standard. Colts at Jaguars. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.04.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Colts at Jaguars.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.05.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL05/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL05/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 05</display-name>
   </channel>
+  <programme channel="NFL.05.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Commanders @ Vikings @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Commanders at Vikings. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.05.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Commanders @ Vikings</title>
+    <desc lang="en">Live NFL action - Standard. Commanders at Vikings. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.05.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Commanders at Vikings.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.06.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL06/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL06/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 06</display-name>
   </channel>
+  <programme channel="NFL.06.us2" start="20251207095500 -0500" stop="20251207125500 -0500">
+    <title lang="en">Game Starting Soon - Titans @ Browns @ 12:55pm</title>
+    <desc lang="en">Pregame coverage for Titans at Browns. Standard - Standard. Game starts at 12:55pm EST on Sun Dec 07.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.06.us2" start="20251207125500 -0500" stop="20251207162500 -0500">
+    <title lang="en">LIVE: Titans @ Browns</title>
+    <desc lang="en">Live NFL action - Standard. Titans at Browns. Kickoff at 12:55pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.06.us2" start="20251207162500 -0500" stop="20251207172500 -0500">
+    <title lang="en">NFL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Titans at Browns.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NFL.07.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL07/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL07/primary/L/logo.svg"/>
