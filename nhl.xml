@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251206123000 -0500" stop="20251206153000 -0500">
     <title lang="en">LIVE: Colorado Avalanche vs New York Rangers</title>
-    <desc lang="en">Live NHL action between the Colorado Avalanche and New York Rangers. Puck drop at 12:30pm EST.</desc>
+    <desc lang="en">New York Rangers visit the Colorado Avalanche at 12:30pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -38,7 +38,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251206153000 -0500" stop="20251206183000 -0500">
     <title lang="en">LIVE: Columbus Blue Jackets vs Florida Panthers</title>
-    <desc lang="en">Live NHL action between the Columbus Blue Jackets and Florida Panthers. Puck drop at 03:30pm EST.</desc>
+    <desc lang="en">Florida Panthers visit the Columbus Blue Jackets at 03:30pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -62,7 +62,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: Montreal Canadiens vs Toronto Maple Leafs</title>
-    <desc lang="en">Live NHL action between the Montreal Canadiens and Toronto Maple Leafs. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Toronto Maple Leafs visit the Montreal Canadiens at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -86,7 +86,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: New York Islanders vs Tampa Bay Lightning</title>
-    <desc lang="en">Live NHL action between the New York Islanders and Tampa Bay Lightning. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Tampa Bay Lightning visit the New York Islanders at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -110,7 +110,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: St. Louis Blues vs Ottawa Senators</title>
-    <desc lang="en">Live NHL action between the St. Louis Blues and Ottawa Senators. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Ottawa Senators visit the St. Louis Blues at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -134,7 +134,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: Nashville Predators vs Carolina Hurricanes</title>
-    <desc lang="en">Live NHL action between the Nashville Predators and Carolina Hurricanes. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Carolina Hurricanes visit the Nashville Predators at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -158,7 +158,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: Utah Hockey Club vs Calgary Flames</title>
-    <desc lang="en">Live NHL action between the Utah Hockey Club and Calgary Flames. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Calgary Flames visit the Utah Hockey Club at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -182,7 +182,7 @@
   </programme>
   <programme channel="NHL.08.us2" start="20251206190000 -0500" stop="20251206220000 -0500">
     <title lang="en">LIVE: New Jersey Devils vs Boston Bruins</title>
-    <desc lang="en">Live NHL action between the New Jersey Devils and Boston Bruins. Puck drop at 07:00pm EST.</desc>
+    <desc lang="en">Boston Bruins visit the New Jersey Devils at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -206,7 +206,7 @@
   </programme>
   <programme channel="NHL.09.us2" start="20251206210000 -0500" stop="20251207000000 -0500">
     <title lang="en">LIVE: Chicago Blackhawks vs Los Angeles Kings</title>
-    <desc lang="en">Live NHL action between the Chicago Blackhawks and Los Angeles Kings. Puck drop at 09:00pm EST.</desc>
+    <desc lang="en">Los Angeles Kings visit the Chicago Blackhawks at 09:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -230,7 +230,7 @@
   </programme>
   <programme channel="NHL.10.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
     <title lang="en">LIVE: Detroit Red Wings vs Seattle Kraken</title>
-    <desc lang="en">Live NHL action between the Detroit Red Wings and Seattle Kraken. Puck drop at 10:00pm EST.</desc>
+    <desc lang="en">Seattle Kraken visit the Detroit Red Wings at 10:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -254,7 +254,7 @@
   </programme>
   <programme channel="NHL.11.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
     <title lang="en">LIVE: Minnesota Wild vs Vancouver Canucks</title>
-    <desc lang="en">Live NHL action between the Minnesota Wild and Vancouver Canucks. Puck drop at 10:00pm EST.</desc>
+    <desc lang="en">Vancouver Canucks visit the Minnesota Wild at 10:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -278,7 +278,7 @@
   </programme>
   <programme channel="NHL.12.us2" start="20251206220000 -0500" stop="20251207010000 -0500">
     <title lang="en">LIVE: Winnipeg Jets vs Edmonton Oilers</title>
-    <desc lang="en">Live NHL action between the Winnipeg Jets and Edmonton Oilers. Puck drop at 10:00pm EST.</desc>
+    <desc lang="en">Edmonton Oilers visit the Winnipeg Jets at 10:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
