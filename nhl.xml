@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251208193000 -0500" stop="20251208223000 -0500">
     <title lang="en">LIVE: Tampa Bay Lightning vs Toronto Maple Leafs</title>
-    <desc lang="en">The Toronto Maple Leafs (15-4-2) face off against the Tampa Bay Lightning (14-5-1) at Amalie Arena in a high-stakes battle between two Eastern Conference powerhouses.</desc>
+    <desc lang="en">The Toronto Maple Leafs (5-3-0) take on the Tampa Bay Lightning (4-3-1) at Amalie Arena in a clash of Eastern Conference contenders looking to secure a crucial win early in the season.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -38,7 +38,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251208210000 -0500" stop="20251209000000 -0500">
     <title lang="en">LIVE: Los Angeles Kings vs Utah Hockey Club</title>
-    <desc lang="en">Utah Hockey Club (10-5-2) faces off against the Los Angeles Kings (8-8-1) at the Staples Center in a battle of Western Conference contenders looking to climb the standings.</desc>
+    <desc lang="en">(UTH: 12-6-2) Utah Hockey Club takes on (LA: 9-10-1) Los Angeles Kings at the Staples Center in a clash of Western Conference contenders with playoff implications on the line.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -62,7 +62,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251208210000 -0500" stop="20251209000000 -0500">
     <title lang="en">LIVE: Buffalo Sabres vs Calgary Flames</title>
-    <desc lang="en">The Calgary Flames (8-7-2) face off against the Buffalo Sabres (5-9-2) at KeyBank Center in a battle between two teams looking to climb the standings in their respective divisions.</desc>
+    <desc lang="en">The Calgary Flames (10-5-1) face off against the Buffalo Sabres (7-8-2) at KeyBank Center in a clash of two teams looking to climb up the standings in the NHL.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -86,7 +86,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251208220000 -0500" stop="20251209010000 -0500">
     <title lang="en">LIVE: Minnesota Wild vs Seattle Kraken</title>
-    <desc lang="en">The Seattle Kraken (11-8-2) visit the Minnesota Wild (16-6-1) at the Xcel Energy Center in a clash of Pacific Division contenders looking to secure valuable points in the standings.</desc>
+    <desc lang="en">The Seattle Kraken (8-2-1) face off against the Minnesota Wild (6-4-1) at the Xcel Energy Center in a battle of two strong teams looking to continue their early season success.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -110,7 +110,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251208220000 -0500" stop="20251209010000 -0500">
     <title lang="en">LIVE: Detroit Red Wings vs Vancouver Canucks</title>
-    <desc lang="en">The (22-18-3) Vancouver Canucks face off against the (16-25-6) Detroit Red Wings at Little Caesars Arena in a clash of Western Conference teams looking to secure a crucial win.</desc>
+    <desc lang="en">The Vancouver Canucks (10-12-2) take on the Detroit Red Wings (8-16-4) at Little Caesars Arena in a battle between two struggling teams looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
