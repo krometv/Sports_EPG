@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251210193000 -0500" stop="20251210223000 -0500">
     <title lang="en">LIVE: New York Rangers vs Chicago Blackhawks</title>
-    <desc lang="en">The Chicago Blackhawks (10-6-2) take on the New York Rangers (8-7-3) at Madison Square Garden in a clash between two Original Six teams looking to solidify their playoff positions.</desc>
+    <desc lang="en">The Chicago Blackhawks (12-8-3) take on the New York Rangers (11-9-3) at Madison Square Garden in a battle of Original Six rivals looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251210203000 -0500" stop="20251210233000 -0500">
     <title lang="en">LIVE: Detroit Red Wings vs Calgary Flames</title>
-    <desc lang="en">The Calgary Flames (14-4-5) face off against the Detroit Red Wings (7-14-3) at Little Caesars Arena in a battle between two teams looking to climb the standings in their respective divisions.</desc>
+    <desc lang="en">The Calgary Flames (10-6-4) face off against the Detroit Red Wings (5-17-2) at Little Caesars Arena in a battle between a playoff contender and a struggling team looking to turn their season around.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -68,7 +68,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251210210000 -0500" stop="20251211000000 -0500">
     <title lang="en">LIVE: Florida Panthers vs Utah Hockey Club</title>
-    <desc lang="en">The Utah Hockey Club (14-8-2) faces off against the Florida Panthers (12-10-3) at the BB&amp;T Center in a clash of two competitive teams looking to secure a crucial victory.</desc>
+    <desc lang="en">The Utah Hockey Club (20-15-3) faces off against the Florida Panthers (22-12-4) at the BB&amp;T Center in a clash of two playoff contenders with high-powered offenses.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -92,7 +92,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251210220000 -0500" stop="20251211010000 -0500">
     <title lang="en">LIVE: Los Angeles Kings vs Seattle Kraken</title>
-    <desc lang="en">The Seattle Kraken (9-6-1) take on the Los Angeles Kings (8-7-2) at the Staples Center in a Pacific Division showdown as both teams look to climb the standings.</desc>
+    <desc lang="en">The Seattle Kraken (10-12-2) face off against the Los Angeles Kings (11-10-3) at the Staples Center with both teams battling for crucial points in the Pacific Division standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
