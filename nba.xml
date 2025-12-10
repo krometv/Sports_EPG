@@ -6,21 +6,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 01</display-name>
   </channel>
-  <programme channel="NBA.01.us2" start="20251209150000 -0500" stop="20251209180000 -0500">
-    <title lang="en">Game Starting Soon - Miami Heat vs Orlando Magic @ 6:00pm</title>
-    <desc lang="en">Pregame coverage for Miami Heat at Orlando Magic. Game starts at 6:00pm EST on Tue Dec 9.</desc>
+  <programme channel="NBA.01.us2" start="20251210163000 -0500" stop="20251210193000 -0500">
+    <title lang="en">Game Starting Soon - Phoenix Suns vs Oklahoma City Thunder @ 7:30pm</title>
+    <desc lang="en">Pregame coverage for Phoenix Suns at Oklahoma City Thunder. Game starts at 7:30pm EST on Wed Dec 10.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251209180000 -0500" stop="20251209213000 -0500">
-    <title lang="en">LIVE: Miami Heat at Orlando Magic</title>
-    <desc lang="en">Live NBA action from Magic between the Miami Heat and Orlando Magic. Tip-off at 6:00pm EST.</desc>
+  <programme channel="NBA.01.us2" start="20251210193000 -0500" stop="20251210230000 -0500">
+    <title lang="en">LIVE: Phoenix Suns at Oklahoma City Thunder</title>
+    <desc lang="en">Live NBA action from Thunder between the Phoenix Suns and Oklahoma City Thunder. Tip-off at 7:30pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251209213000 -0500" stop="20251209223000 -0500">
+  <programme channel="NBA.01.us2" start="20251210230000 -0500" stop="20251211000000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Miami Heat at Orlando Magic.</desc>
+    <desc lang="en">Postgame analysis and highlights from Phoenix Suns at Oklahoma City Thunder.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -30,21 +30,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 02</display-name>
   </channel>
-  <programme channel="NBA.02.us2" start="20251209173000 -0500" stop="20251209203000 -0500">
-    <title lang="en">Game Starting Soon - New York Knicks vs Toronto Raptors @ 8:30pm</title>
-    <desc lang="en">Pregame coverage for New York Knicks at Toronto Raptors. Game starts at 8:30pm EST on Tue Dec 9.</desc>
+  <programme channel="NBA.02.us2" start="20251210190000 -0500" stop="20251210220000 -0500">
+    <title lang="en">Game Starting Soon - San Antonio Spurs vs Los Angeles Lakers @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for San Antonio Spurs at Los Angeles Lakers. Game starts at 10:00pm EST on Wed Dec 10.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251209203000 -0500" stop="20251210000000 -0500">
-    <title lang="en">LIVE: New York Knicks at Toronto Raptors</title>
-    <desc lang="en">Live NBA action from Raptors between the New York Knicks and Toronto Raptors. Tip-off at 8:30pm EST.</desc>
+  <programme channel="NBA.02.us2" start="20251210220000 -0500" stop="20251211013000 -0500">
+    <title lang="en">LIVE: San Antonio Spurs at Los Angeles Lakers</title>
+    <desc lang="en">Live NBA action from Lakers between the San Antonio Spurs and Los Angeles Lakers. Tip-off at 10:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251210000000 -0500" stop="20251210010000 -0500">
+  <programme channel="NBA.02.us2" start="20251211013000 -0500" stop="20251211023000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from New York Knicks at Toronto Raptors.</desc>
+    <desc lang="en">Postgame analysis and highlights from San Antonio Spurs at Los Angeles Lakers.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
