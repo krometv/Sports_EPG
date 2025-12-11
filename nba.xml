@@ -6,21 +6,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 01</display-name>
   </channel>
-  <programme channel="NBA.01.us2" start="20251210163000 -0500" stop="20251210193000 -0500">
-    <title lang="en">Game Starting Soon - Phoenix Suns vs Oklahoma City Thunder @ 7:30pm</title>
-    <desc lang="en">Pregame coverage for Phoenix Suns at Oklahoma City Thunder. Game starts at 7:30pm EST on Wed Dec 10.</desc>
+  <programme channel="NBA.01.us2" start="20251211170000 -0500" stop="20251211200000 -0500">
+    <title lang="en">Game Starting Soon - LA Clippers vs Houston Rockets @ 8:00pm</title>
+    <desc lang="en">Pregame coverage for LA Clippers at Houston Rockets. Game starts at 8:00pm EST on Thu Dec 11.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251210193000 -0500" stop="20251210230000 -0500">
-    <title lang="en">LIVE: Phoenix Suns at Oklahoma City Thunder</title>
-    <desc lang="en">Live NBA action from Thunder between the Phoenix Suns and Oklahoma City Thunder. Tip-off at 7:30pm EST.</desc>
+  <programme channel="NBA.01.us2" start="20251211200000 -0500" stop="20251211233000 -0500">
+    <title lang="en">LIVE: LA Clippers at Houston Rockets</title>
+    <desc lang="en">Live NBA action from Rockets between the LA Clippers and Houston Rockets. Tip-off at 8:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251210230000 -0500" stop="20251211000000 -0500">
+  <programme channel="NBA.01.us2" start="20251211233000 -0500" stop="20251212003000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Phoenix Suns at Oklahoma City Thunder.</desc>
+    <desc lang="en">Postgame analysis and highlights from LA Clippers at Houston Rockets.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -30,21 +30,21 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 02</display-name>
   </channel>
-  <programme channel="NBA.02.us2" start="20251210190000 -0500" stop="20251210220000 -0500">
-    <title lang="en">Game Starting Soon - San Antonio Spurs vs Los Angeles Lakers @ 10:00pm</title>
-    <desc lang="en">Pregame coverage for San Antonio Spurs at Los Angeles Lakers. Game starts at 10:00pm EST on Wed Dec 10.</desc>
+  <programme channel="NBA.02.us2" start="20251211170000 -0500" stop="20251211200000 -0500">
+    <title lang="en">Game Starting Soon - Portland Trail Blazers vs New Orleans Pelicans @ 8:00pm</title>
+    <desc lang="en">Pregame coverage for Portland Trail Blazers at New Orleans Pelicans. Game starts at 8:00pm EST on Thu Dec 11.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251210220000 -0500" stop="20251211013000 -0500">
-    <title lang="en">LIVE: San Antonio Spurs at Los Angeles Lakers</title>
-    <desc lang="en">Live NBA action from Lakers between the San Antonio Spurs and Los Angeles Lakers. Tip-off at 10:00pm EST.</desc>
+  <programme channel="NBA.02.us2" start="20251211200000 -0500" stop="20251211233000 -0500">
+    <title lang="en">LIVE: Portland Trail Blazers at New Orleans Pelicans</title>
+    <desc lang="en">Live NBA action from Pelicans between the Portland Trail Blazers and New Orleans Pelicans. Tip-off at 8:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251211013000 -0500" stop="20251211023000 -0500">
+  <programme channel="NBA.02.us2" start="20251211233000 -0500" stop="20251212003000 -0500">
     <title lang="en">NBA Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from San Antonio Spurs at Los Angeles Lakers.</desc>
+    <desc lang="en">Postgame analysis and highlights from Portland Trail Blazers at New Orleans Pelicans.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -54,12 +54,48 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 03</display-name>
   </channel>
+  <programme channel="NBA.03.us2" start="20251211170000 -0500" stop="20251211200000 -0500">
+    <title lang="en">Game Starting Soon - Boston Celtics vs Milwaukee Bucks @ 8:00pm</title>
+    <desc lang="en">Pregame coverage for Boston Celtics at Milwaukee Bucks. Game starts at 8:00pm EST on Thu Dec 11.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.03.us2" start="20251211200000 -0500" stop="20251211233000 -0500">
+    <title lang="en">LIVE: Boston Celtics at Milwaukee Bucks</title>
+    <desc lang="en">Live NBA action from Bucks between the Boston Celtics and Milwaukee Bucks. Tip-off at 8:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.03.us2" start="20251211233000 -0500" stop="20251212003000 -0500">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Boston Celtics at Milwaukee Bucks.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NBA.04.us2">
     <icon src="https://cdn.nba.com/logos/nba/NBA04/primary/L/logo.svg"/>
     <icon src="https://cdn.nba.com/logos/nba/NBA04/primary/L/logo.svg"/>
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 04</display-name>
   </channel>
+  <programme channel="NBA.04.us2" start="20251211190000 -0500" stop="20251211220000 -0500">
+    <title lang="en">Game Starting Soon - Denver Nuggets vs Sacramento Kings @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Denver Nuggets at Sacramento Kings. Game starts at 10:00pm EST on Thu Dec 11.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.04.us2" start="20251211220000 -0500" stop="20251212013000 -0500">
+    <title lang="en">LIVE: Denver Nuggets at Sacramento Kings</title>
+    <desc lang="en">Live NBA action from Kings between the Denver Nuggets and Sacramento Kings. Tip-off at 10:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.04.us2" start="20251212013000 -0500" stop="20251212023000 -0500">
+    <title lang="en">NBA Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Denver Nuggets at Sacramento Kings.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
   <channel id="NBA.05.us2">
     <icon src="https://cdn.nba.com/logos/nba/NBA05/primary/L/logo.svg"/>
     <icon src="https://cdn.nba.com/logos/nba/NBA05/primary/L/logo.svg"/>
