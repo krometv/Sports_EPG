@@ -6,72 +6,18 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 01</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20251208171000 -0500" stop="20251208201000 -0500">
-    <title lang="en">Game Starting Soon - Eagles @ Chargers @ 08:10pm</title>
-    <desc lang="en">Pregame coverage for Eagles at Chargers. Standard - Standard. Game starts at 08:10pm EST on Mon Dec 08.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.01.us2" start="20251208201000 -0500" stop="20251208234000 -0500">
-    <title lang="en">LIVE: Eagles @ Chargers</title>
-    <desc lang="en">Live NFL action - Standard. Eagles at Chargers. Kickoff at 08:10pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.01.us2" start="20251208234000 -0500" stop="20251209004000 -0500">
-    <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Eagles at Chargers.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NFL.02.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL02/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 02</display-name>
   </channel>
-  <programme channel="NFL.02.us2" start="20251208171000 -0500" stop="20251208201000 -0500">
-    <title lang="en">Game Starting Soon - Eagles @ Chargers (In French) @ 08:10pm</title>
-    <desc lang="en">Pregame coverage for Eagles at Chargers (In French). Standard - Standard. Game starts at 08:10pm EST on Mon Dec 08.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.02.us2" start="20251208201000 -0500" stop="20251208234000 -0500">
-    <title lang="en">LIVE: Eagles @ Chargers (In French)</title>
-    <desc lang="en">Live NFL action - Standard. Eagles at Chargers (In French). Kickoff at 08:10pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.02.us2" start="20251208234000 -0500" stop="20251209004000 -0500">
-    <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Eagles at Chargers (In French).</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NFL.03.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL03/primary/L/logo.svg"/>
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 03</display-name>
   </channel>
-  <programme channel="NFL.03.us2" start="20251208171000 -0500" stop="20251208201000 -0500">
-    <title lang="en">Game Starting Soon - Eagles @ Chargers: Monsters Funday Football @ 08:10pm</title>
-    <desc lang="en">Pregame coverage for Eagles at Chargers: Monsters Funday Football. Standard - Standard. Game starts at 08:10pm EST on Mon Dec 08.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20251208201000 -0500" stop="20251208234000 -0500">
-    <title lang="en">LIVE: Eagles @ Chargers: Monsters Funday Football</title>
-    <desc lang="en">Live NFL action - Standard. Eagles at Chargers: Monsters Funday Football. Kickoff at 08:10pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20251208234000 -0500" stop="20251209004000 -0500">
-    <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Eagles at Chargers: Monsters Funday Football.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NFL.04.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
