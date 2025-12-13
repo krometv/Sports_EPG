@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251212200000 -0500" stop="20251212230000 -0500">
     <title lang="en">LIVE: Chicago Blackhawks vs St. Louis Blues</title>
-    <desc lang="en">The St. Louis Blues (20-16-6) face off against the Chicago Blackhawks (19-19-5) at the United Center in a Central Division showdown between two teams fighting for playoff positioning.</desc>
+    <desc lang="en">The St. Louis Blues (24-20-8) face off against the Chicago Blackhawks (23-25-7) at the United Center in a Central Division showdown with playoff implications on the line.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -38,7 +38,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251212210000 -0500" stop="20251213000000 -0500">
     <title lang="en">LIVE: Seattle Kraken vs Utah Hockey Club</title>
-    <desc lang="en">Utah Hockey Club (12-5-2) faces Seattle Kraken (8-10-1) at Climate Pledge Arena in a clash of two teams looking to climb the standings in this Western Conference showdown.</desc>
+    <desc lang="en">The Utah Hockey Club (18-10-3) takes on the Seattle Kraken (13-15-4) at Climate Pledge Arena in a clash of Western Conference teams looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
