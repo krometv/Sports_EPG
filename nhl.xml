@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
     <title lang="en">LIVE: Florida Panthers vs Tampa Bay Lightning</title>
-    <desc lang="en">The (12-4-1) Tampa Bay Lightning take on the (10-2-2) Florida Panthers at BB&amp;T Center in a battle of two of the top teams in the Central Division.</desc>
+    <desc lang="en">The Tampa Bay Lightning (30-17-6) take on the Florida Panthers (35-11-5) at the BB&amp;T Center in a battle between two top teams in the Central Division.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
     <title lang="en">LIVE: Anaheim Ducks vs New York Rangers</title>
-    <desc lang="en">The New York Rangers (18-6-3) take on the Anaheim Ducks (12-12-3) at the Honda Center in a clash of East Coast vs West Coast styles in this exciting NHL matchup.</desc>
+    <desc lang="en">The New York Rangers (25-15-4) visit the Anaheim Ducks (18-24-6) at the Honda Center in a clash between two teams pushing for playoff positions in their respective divisions.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251215193000 -0500" stop="20251215223000 -0500">
     <title lang="en">LIVE: Ottawa Senators vs Winnipeg Jets</title>
-    <desc lang="en">The Ottawa Senators (14-23-4) host the Winnipeg Jets (23-15-3) at Canadian Tire Centre in a battle between a struggling home team and a surging away team.</desc>
+    <desc lang="en">The Winnipeg Jets (15-8-4) take on the Ottawa Senators (9-18-1) at the Canadian Tire Centre in a battle between two North Division rivals looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251215200000 -0500" stop="20251215230000 -0500">
     <title lang="en">LIVE: Nashville Predators vs St. Louis Blues</title>
-    <desc lang="en">The (24-17-6) St. Louis Blues face off against the (30-17-2) Nashville Predators at Bridgestone Arena in a Central Division showdown between two playoff-contending teams.</desc>
+    <desc lang="en">Tonight at Bridgestone Arena, the Nashville Predators (15-9-1) take on the St. Louis Blues (13-8-4) in a Central Division showdown with both teams jockeying for playoff position.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -128,7 +128,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251215200000 -0500" stop="20251215230000 -0500">
     <title lang="en">LIVE: Los Angeles Kings vs Dallas Stars</title>
-    <desc lang="en">The Dallas Stars (9-7-2) face off against the Los Angeles Kings (6-10-1) at the Staples Center in a battle between two Western Conference teams looking to climb the standings.</desc>
+    <desc lang="en">Dallas Stars (16-10-2) take on Los Angeles Kings (12-11-6) at the Staples Center in this Western Conference showdown between two teams battling for playoff positioning.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
