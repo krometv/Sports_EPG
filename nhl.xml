@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
     <title lang="en">LIVE: Florida Panthers vs Tampa Bay Lightning</title>
-    <desc lang="en">The Tampa Bay Lightning (15-4-2) take on the Florida Panthers (12-3-4) at the BB&amp;T Center in a Sunshine State showdown with two of the top teams in the Central Division facing off.</desc>
+    <desc lang="en">The Tampa Bay Lightning (24-8-2) face off against the Florida Panthers (21-8-4) at the BB&amp;T Center in a battle of top teams in the Central Division.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
     <title lang="en">LIVE: Anaheim Ducks vs New York Rangers</title>
-    <desc lang="en">The New York Rangers (18-6-3) take on the Anaheim Ducks (11-14-3) at the Honda Center in a clash of Eastern Conference powerhouses vs. Western Conference underdogs.</desc>
+    <desc lang="en">The (18-15-3) New York Rangers take on the (13-20-4) Anaheim Ducks at the Honda Center in a battle between two teams looking to climb the standings in their respective divisions.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251215193000 -0500" stop="20251215223000 -0500">
     <title lang="en">LIVE: Ottawa Senators vs Winnipeg Jets</title>
-    <desc lang="en">(28-22-10) Winnipeg Jets face off against the (28-33-5) Ottawa Senators at Canadian Tire Centre in a battle of Canadian rivals looking to secure a crucial win in the standings.</desc>
+    <desc lang="en">Winnipeg Jets visit the Ottawa Senators at 07:30pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251216190000 -0500" stop="20251216220000 -0500">
     <title lang="en">LIVE: Philadelphia Flyers vs Montreal Canadiens</title>
-    <desc lang="en">The Montreal Canadiens (20-10-7) visit the Philadelphia Flyers (14-17-5) at Wells Fargo Center in a clash of Eastern Conference rivals looking to secure valuable points in the standings.</desc>
+    <desc lang="en">Tonight at Wells Fargo Center, the Philadelphia Flyers (8-2-1) face off against the Montreal Canadiens (6-4-2) in a battle of two top teams in the Eastern Conference.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -134,7 +134,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251215200000 -0500" stop="20251215230000 -0500">
     <title lang="en">LIVE: Los Angeles Kings vs Dallas Stars</title>
-    <desc lang="en">The (6-3-1) Dallas Stars face off against the (4-6-0) Los Angeles Kings at the Staples Center in a showdown between two Western Conference rivals looking to secure a crucial win.</desc>
+    <desc lang="en">The Dallas Stars (18-14-12) face off against the Los Angeles Kings (17-22-6) at the Staples Center in a battle of Western Conference rivals looking to improve their playoff positioning.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -158,7 +158,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251216190000 -0500" stop="20251216220000 -0500">
     <title lang="en">LIVE: Utah Hockey Club vs Boston Bruins</title>
-    <desc lang="en">Boston Bruins (25-15-6) face off against Utah Hockey Club (20-20-6) at the Salt Lake City Arena in a clash of Eastern Conference powerhouse versus Western Conference underdog.</desc>
+    <desc lang="en">Boston Bruins visit the Utah Hockey Club at 07:00pm EST. Records and arena details TBD; expect a competitive matchup.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -188,7 +188,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251216193000 -0500" stop="20251216223000 -0500">
     <title lang="en">LIVE: Edmonton Oilers vs Pittsburgh Penguins</title>
-    <desc lang="en">The (36-15-3) Pittsburgh Penguins take on the (28-23-3) Edmonton Oilers at Rogers Place in a clash of high-powered offenses looking to secure a crucial win in the standings.</desc>
+    <desc lang="en">The Pittsburgh Penguins (10-6-1) face off against the Edmonton Oilers (9-9-0) at Rogers Place in a clash of two dynamic offenses looking to secure a crucial victory.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
