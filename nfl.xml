@@ -6,21 +6,21 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 01</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20251215165500 -0500" stop="20251215195500 -0500">
-    <title lang="en">Game Starting Soon - Dolphins @ Steelers @ 07:55pm</title>
-    <desc lang="en">Pregame coverage for Dolphins at Steelers. Manningcast - MNF with Peyton &amp; Eli. Game starts at 07:55pm EST on Mon Dec 15.</desc>
+  <programme channel="NFL.01.us2" start="20251218171000 -0500" stop="20251218201000 -0500">
+    <title lang="en">Game Starting Soon - Rams @ Seahawks @ 08:10pm</title>
+    <desc lang="en">Pregame coverage for Rams at Seahawks. Standard - Standard. Game starts at 08:10pm EST on Thu Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.01.us2" start="20251215195500 -0500" stop="20251215232500 -0500">
-    <title lang="en">LIVE: Manningcast - Dolphins @ Steelers</title>
-    <desc lang="en">Live NFL action - MNF with Peyton &amp; Eli. Dolphins at Steelers. Kickoff at 07:55pm EST.</desc>
+  <programme channel="NFL.01.us2" start="20251218201000 -0500" stop="20251218234000 -0500">
+    <title lang="en">LIVE: Rams @ Seahawks</title>
+    <desc lang="en">Live NFL action - Standard. Rams at Seahawks. Kickoff at 08:10pm EST.</desc>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.01.us2" start="20251215232500 -0500" stop="20251216002500 -0500">
+  <programme channel="NFL.01.us2" start="20251218234000 -0500" stop="20251219004000 -0500">
     <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Dolphins at Steelers.</desc>
+    <desc lang="en">Postgame analysis and highlights from Rams at Seahawks.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -30,21 +30,21 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 02</display-name>
   </channel>
-  <programme channel="NFL.02.us2" start="20251215171000 -0500" stop="20251215201000 -0500">
-    <title lang="en">Game Starting Soon - Dolphins @ Steelers @ 08:10pm</title>
-    <desc lang="en">Pregame coverage for Dolphins at Steelers. Standard - Standard. Game starts at 08:10pm EST on Mon Dec 15.</desc>
+  <programme channel="NFL.02.us2" start="20251218171000 -0500" stop="20251218201000 -0500">
+    <title lang="en">Game Starting Soon - Rams @ Seahawks (In French) @ 08:10pm</title>
+    <desc lang="en">Pregame coverage for Rams at Seahawks (In French). Standard - Standard. Game starts at 08:10pm EST on Thu Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.02.us2" start="20251215201000 -0500" stop="20251215234000 -0500">
-    <title lang="en">LIVE: Dolphins @ Steelers</title>
-    <desc lang="en">Live NFL action - Standard. Dolphins at Steelers. Kickoff at 08:10pm EST.</desc>
+  <programme channel="NFL.02.us2" start="20251218201000 -0500" stop="20251218234000 -0500">
+    <title lang="en">LIVE: Rams @ Seahawks (In French)</title>
+    <desc lang="en">Live NFL action - Standard. Rams at Seahawks (In French). Kickoff at 08:10pm EST.</desc>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.02.us2" start="20251215234000 -0500" stop="20251216004000 -0500">
+  <programme channel="NFL.02.us2" start="20251218234000 -0500" stop="20251219004000 -0500">
     <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Dolphins at Steelers.</desc>
+    <desc lang="en">Postgame analysis and highlights from Rams at Seahawks (In French).</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
@@ -54,24 +54,6 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 03</display-name>
   </channel>
-  <programme channel="NFL.03.us2" start="20251215171000 -0500" stop="20251215201000 -0500">
-    <title lang="en">Game Starting Soon - Dolphins @ Steelers (In French) @ 08:10pm</title>
-    <desc lang="en">Pregame coverage for Dolphins at Steelers (In French). Standard - Standard. Game starts at 08:10pm EST on Mon Dec 15.</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20251215201000 -0500" stop="20251215234000 -0500">
-    <title lang="en">LIVE: Dolphins @ Steelers (In French)</title>
-    <desc lang="en">Live NFL action - Standard. Dolphins at Steelers (In French). Kickoff at 08:10pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20251215234000 -0500" stop="20251216004000 -0500">
-    <title lang="en">NFL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Dolphins at Steelers (In French).</desc>
-    <category lang="en">Sports Talk</category>
-    <previously-shown/>
-  </programme>
   <channel id="NFL.04.us2">
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
     <icon src="https://cdn.nfl.com/logos/nfl/NFL04/primary/L/logo.svg"/>
