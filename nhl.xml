@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251219190000 -0500" stop="20251219220000 -0500">
     <title lang="en">LIVE: Carolina Hurricanes vs Florida Panthers</title>
-    <desc lang="en">The Florida Panthers (17-4-3) take on the Carolina Hurricanes (16-6-1) at PNC Arena in a battle of two top teams in the Central Division with high-powered offenses.</desc>
+    <desc lang="en">The Florida Panthers (43-14-6) take on the Carolina Hurricanes (37-17-8) at PNC Arena in a battle between two top Eastern Conference teams vying for playoff positioning.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251219190000 -0500" stop="20251219220000 -0500">
     <title lang="en">LIVE: Vancouver Canucks vs New York Islanders</title>
-    <desc lang="en">The New York Islanders (12-6-4) face off against the Vancouver Canucks (8-13-2) at Rogers Arena in a clash of two teams looking to climb the standings in their respective divisions.</desc>
+    <desc lang="en">The New York Islanders (15-6-4) take on the Vancouver Canucks (10-14-2) at Rogers Arena in a clash of Eastern and Western Conference contenders looking to secure a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251219210000 -0500" stop="20251220000000 -0500">
     <title lang="en">LIVE: New Jersey Devils vs Utah Hockey Club</title>
-    <desc lang="en">Utah Hockey Club (15-6-2) faces off against the New Jersey Devils (10-12-2) at the Prudential Center in a showdown between two teams looking to climb the standings.</desc>
+    <desc lang="en">Tonight, the Utah Hockey Club (15-8-2) faces off against the New Jersey Devils (12-13-1) at the Prudential Center in a clash of Western Conference contenders looking to secure a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -98,7 +98,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251219210000 -0500" stop="20251220000000 -0500">
     <title lang="en">LIVE: Winnipeg Jets vs Colorado Avalanche</title>
-    <desc lang="en">The (14-8-2) Colorado Avalanche take on the (12-8-1) Winnipeg Jets at Bell MTS Place in a high-flying showdown between two top Western Conference contenders.</desc>
+    <desc lang="en">The Colorado Avalanche (28-8-4) face off against the Winnipeg Jets (16-17-3) at Bell MTS Place in a clash of Western Conference contenders looking to secure a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -122,7 +122,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251219220000 -0500" stop="20251220010000 -0500">
     <title lang="en">LIVE: Dallas Stars vs Anaheim Ducks</title>
-    <desc lang="en">The Anaheim Ducks (6-8-3) face off against the Dallas Stars (6-6-2) at the American Airlines Center in a Western Conference showdown between two teams looking to climb the standings.</desc>
+    <desc lang="en">The Anaheim Ducks (20-18-9) face off against the Dallas Stars (23-19-3) at the American Airlines Center in a battle between two Western Conference foes fighting for a playoff spot.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
