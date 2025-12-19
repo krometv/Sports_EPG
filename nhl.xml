@@ -6,27 +6,27 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 01</display-name>
   </channel>
-  <programme channel="NHL.01.us2" start="20251215160000 -0500" stop="20251215190000 -0500">
-    <title lang="en">Game Starting Soon - Florida Panthers vs Tampa Bay Lightning @ 07:00pm</title>
-    <desc lang="en">Pregame coverage for Florida Panthers vs Tampa Bay Lightning. Game starts at 07:00pm EST on Dec 15.</desc>
+  <programme channel="NHL.01.us2" start="20251218160000 -0500" stop="20251218190000 -0500">
+    <title lang="en">Game Starting Soon - Toronto Maple Leafs vs Washington Capitals @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Toronto Maple Leafs vs Washington Capitals. Game starts at 07:00pm EST on Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.01.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
-    <title lang="en">LIVE: Florida Panthers vs Tampa Bay Lightning</title>
-    <desc lang="en">The Tampa Bay Lightning (34-15-3) face off against the Florida Panthers (35-14-5) at the BB&amp;T Center in a battle between two of the top teams in the Central Division.</desc>
+  <programme channel="NHL.01.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
+    <title lang="en">LIVE: Toronto Maple Leafs vs Washington Capitals</title>
+    <desc lang="en">The Washington Capitals (16-6-4) face off against the Toronto Maple Leafs (17-6-2) at Scotiabank Arena in a battle between two top teams in the Eastern Conference.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.01.us2" start="20251215220000 -0500" stop="20251215230000 -0500">
+  <programme channel="NHL.01.us2" start="20251218220000 -0500" stop="20251218230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Florida Panthers vs Tampa Bay Lightning.</desc>
+    <desc lang="en">Postgame analysis and highlights from Toronto Maple Leafs vs Washington Capitals.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.01.us2" start="20251215230000 -0500" stop="20251215235900 -0500">
+  <programme channel="NHL.01.us2" start="20251218230000 -0500" stop="20251218235900 -0500">
     <title lang="en">GAME ENDED</title>
-    <desc lang="en">Florida Panthers vs Tampa Bay Lightning has concluded. Channel idle until midnight.</desc>
+    <desc lang="en">Toronto Maple Leafs vs Washington Capitals has concluded. Channel idle until midnight.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -36,27 +36,27 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 02</display-name>
   </channel>
-  <programme channel="NHL.02.us2" start="20251215160000 -0500" stop="20251215190000 -0500">
-    <title lang="en">Game Starting Soon - Anaheim Ducks vs New York Rangers @ 07:00pm</title>
-    <desc lang="en">Pregame coverage for Anaheim Ducks vs New York Rangers. Game starts at 07:00pm EST on Dec 15.</desc>
+  <programme channel="NHL.02.us2" start="20251218160000 -0500" stop="20251218190000 -0500">
+    <title lang="en">Game Starting Soon - Minnesota Wild vs Columbus Blue Jackets @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Minnesota Wild vs Columbus Blue Jackets. Game starts at 07:00pm EST on Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20251215190000 -0500" stop="20251215220000 -0500">
-    <title lang="en">LIVE: Anaheim Ducks vs New York Rangers</title>
-    <desc lang="en">The New York Rangers (14-4-3) take on the Anaheim Ducks (10-9-3) at the Honda Center in a clash of East Coast vs West Coast styles in this exciting NHL matchup.</desc>
+  <programme channel="NHL.02.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
+    <title lang="en">LIVE: Minnesota Wild vs Columbus Blue Jackets</title>
+    <desc lang="en">The Columbus Blue Jackets (13-11-1) take on the Minnesota Wild (16-6-1) at the Xcel Energy Center in a clash between two playoff contenders in the Western Conference.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20251215220000 -0500" stop="20251215230000 -0500">
+  <programme channel="NHL.02.us2" start="20251218220000 -0500" stop="20251218230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Anaheim Ducks vs New York Rangers.</desc>
+    <desc lang="en">Postgame analysis and highlights from Minnesota Wild vs Columbus Blue Jackets.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20251215230000 -0500" stop="20251215235900 -0500">
+  <programme channel="NHL.02.us2" start="20251218230000 -0500" stop="20251218235900 -0500">
     <title lang="en">GAME ENDED</title>
-    <desc lang="en">Anaheim Ducks vs New York Rangers has concluded. Channel idle until midnight.</desc>
+    <desc lang="en">Minnesota Wild vs Columbus Blue Jackets has concluded. Channel idle until midnight.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -66,27 +66,27 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 03</display-name>
   </channel>
-  <programme channel="NHL.03.us2" start="20251215163000 -0500" stop="20251215193000 -0500">
-    <title lang="en">Game Starting Soon - Ottawa Senators vs Winnipeg Jets @ 07:30pm</title>
-    <desc lang="en">Pregame coverage for Ottawa Senators vs Winnipeg Jets. Game starts at 07:30pm EST on Dec 15.</desc>
+  <programme channel="NHL.03.us2" start="20251218160000 -0500" stop="20251218190000 -0500">
+    <title lang="en">Game Starting Soon - Los Angeles Kings vs Tampa Bay Lightning @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Los Angeles Kings vs Tampa Bay Lightning. Game starts at 07:00pm EST on Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20251215193000 -0500" stop="20251215223000 -0500">
-    <title lang="en">LIVE: Ottawa Senators vs Winnipeg Jets</title>
-    <desc lang="en">The Ottawa Senators (8-16-1) host the Winnipeg Jets (14-7-2) at the Canadian Tire Centre in a battle between a struggling team looking to rebound and a strong team looking to extend their winning streak.</desc>
+  <programme channel="NHL.03.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
+    <title lang="en">LIVE: Los Angeles Kings vs Tampa Bay Lightning</title>
+    <desc lang="en">The Tampa Bay Lightning (23-9-2) face off against the Los Angeles Kings (13-17-5) at the Staples Center in a battle between two talented teams looking to solidify their playoff positions.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20251215223000 -0500" stop="20251215233000 -0500">
+  <programme channel="NHL.03.us2" start="20251218220000 -0500" stop="20251218230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Ottawa Senators vs Winnipeg Jets.</desc>
+    <desc lang="en">Postgame analysis and highlights from Los Angeles Kings vs Tampa Bay Lightning.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20251215233000 -0500" stop="20251215235900 -0500">
+  <programme channel="NHL.03.us2" start="20251218230000 -0500" stop="20251218235900 -0500">
     <title lang="en">GAME ENDED</title>
-    <desc lang="en">Ottawa Senators vs Winnipeg Jets has concluded. Channel idle until midnight.</desc>
+    <desc lang="en">Los Angeles Kings vs Tampa Bay Lightning has concluded. Channel idle until midnight.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
     <title lang="en">LIVE: Pittsburgh Penguins vs Ottawa Senators</title>
-    <desc lang="en">The Ottawa Senators (12-20-2) take on the Pittsburgh Penguins (23-10-2) at PPG Paints Arena in a clash between a struggling young team and a playoff contender.</desc>
+    <desc lang="en">The Ottawa Senators (10-18-1) face off against the Pittsburgh Penguins (15-9-1) at PPG Paints Arena in a battle between a struggling road team and a strong home team.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -126,22 +126,28 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 05</display-name>
   </channel>
-  <programme channel="NHL.05.us2" start="20251215170000 -0500" stop="20251215200000 -0500">
-    <title lang="en">Game Starting Soon - Los Angeles Kings vs Dallas Stars @ 08:00pm</title>
-    <desc lang="en">Pregame coverage for Los Angeles Kings vs Dallas Stars. Game starts at 08:00pm EST on Dec 15.</desc>
+  <programme channel="NHL.05.us2" start="20251218160000 -0500" stop="20251218190000 -0500">
+    <title lang="en">Game Starting Soon - Chicago Blackhawks vs Montreal Canadiens @ 07:00pm</title>
+    <desc lang="en">Pregame coverage for Chicago Blackhawks vs Montreal Canadiens. Game starts at 07:00pm EST on Dec 18.</desc>
     <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20251215200000 -0500" stop="20251215230000 -0500">
-    <title lang="en">LIVE: Los Angeles Kings vs Dallas Stars</title>
-    <desc lang="en">Dallas Stars (18-14-12) face off against Los Angeles Kings (16-19-6) at the Staples Center in a battle between two Western Conference teams fighting for a playoff spot.</desc>
+  <programme channel="NHL.05.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
+    <title lang="en">LIVE: Chicago Blackhawks vs Montreal Canadiens</title>
+    <desc lang="en">The Montreal Canadiens (12-15-5) take on the Chicago Blackhawks (13-15-5) at the United Center in a battle between two struggling teams looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20251215230000 -0500" stop="20251216000000 -0500">
+  <programme channel="NHL.05.us2" start="20251218220000 -0500" stop="20251218230000 -0500">
     <title lang="en">NHL Postgame Show</title>
-    <desc lang="en">Postgame analysis and highlights from Los Angeles Kings vs Dallas Stars.</desc>
+    <desc lang="en">Postgame analysis and highlights from Chicago Blackhawks vs Montreal Canadiens.</desc>
     <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20251218230000 -0500" stop="20251218235900 -0500">
+    <title lang="en">GAME ENDED</title>
+    <desc lang="en">Chicago Blackhawks vs Montreal Canadiens has concluded. Channel idle until midnight.</desc>
+    <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
   <channel id="NHL.06.us2">
@@ -158,7 +164,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
     <title lang="en">LIVE: Edmonton Oilers vs Boston Bruins</title>
-    <desc lang="en">The Boston Bruins (10-7-3) take on the Edmonton Oilers (14-5-0) at Rogers Place in a clash of top teams looking to secure a crucial win in the standings.</desc>
+    <desc lang="en">The Boston Bruins (12-7-1) take on the Edmonton Oilers (11-8-0) at Rogers Place in a clash of two top teams in the NHL looking to secure a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -188,7 +194,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251218193000 -0500" stop="20251218223000 -0500">
     <title lang="en">LIVE: Philadelphia Flyers vs Buffalo Sabres</title>
-    <desc lang="en">The Buffalo Sabres (10-15-4) take on the Philadelphia Flyers (12-9-6) at the Wells Fargo Center in a battle between two teams looking to climb the standings in the East Division.</desc>
+    <desc lang="en">The Buffalo Sabres (12-20-7) visit the Philadelphia Flyers (20-15-6) at the Wells Fargo Center for an exciting showdown between two teams looking to secure a playoff spot.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -210,10 +216,22 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 08</display-name>
   </channel>
-  <programme channel="NHL.08.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
-    <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
-    <desc lang="en">No NHL games are scheduled today.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.08.us2" start="20251218170000 -0500" stop="20251218200000 -0500">
+    <title lang="en">Game Starting Soon - New York Rangers vs St. Louis Blues @ 08:00pm</title>
+    <desc lang="en">Pregame coverage for New York Rangers vs St. Louis Blues. Game starts at 08:00pm EST on Dec 18.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251218200000 -0500" stop="20251218230000 -0500">
+    <title lang="en">LIVE: New York Rangers vs St. Louis Blues</title>
+    <desc lang="en">Tonight at Madison Square Garden, the St. Louis Blues (18-7-4) take on the New York Rangers (14-9-4) in a clash of two playoff contenders looking to secure crucial points.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20251218230000 -0500" stop="20251219000000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from New York Rangers vs St. Louis Blues.</desc>
+    <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
   <channel id="NHL.09.us2">
@@ -222,10 +240,22 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 09</display-name>
   </channel>
-  <programme channel="NHL.09.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
-    <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
-    <desc lang="en">No NHL games are scheduled today.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.09.us2" start="20251218180000 -0500" stop="20251218210000 -0500">
+    <title lang="en">Game Starting Soon - Seattle Kraken vs Calgary Flames @ 09:00pm</title>
+    <desc lang="en">Pregame coverage for Seattle Kraken vs Calgary Flames. Game starts at 09:00pm EST on Dec 18.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251218210000 -0500" stop="20251219000000 -0500">
+    <title lang="en">LIVE: Seattle Kraken vs Calgary Flames</title>
+    <desc lang="en">Calgary Flames (12-3-2) visit Climate Pledge Arena to take on the Seattle Kraken (6-10-2) in a clash of two teams looking to secure a crucial win in the Pacific Division.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20251219000000 -0500" stop="20251219010000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Seattle Kraken vs Calgary Flames.</desc>
+    <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
   <channel id="NHL.10.us2">
@@ -234,10 +264,22 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 10</display-name>
   </channel>
-  <programme channel="NHL.10.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
-    <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
-    <desc lang="en">No NHL games are scheduled today.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.10.us2" start="20251218190000 -0500" stop="20251218220000 -0500">
+    <title lang="en">Game Starting Soon - Dallas Stars vs San Jose Sharks @ 10:00pm</title>
+    <desc lang="en">Pregame coverage for Dallas Stars vs San Jose Sharks. Game starts at 10:00pm EST on Dec 18.</desc>
+    <category lang="en">Sports Talk</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251218220000 -0500" stop="20251219010000 -0500">
+    <title lang="en">LIVE: Dallas Stars vs San Jose Sharks</title>
+    <desc lang="en">The San Jose Sharks (10-9-1) face off against the Dallas Stars (9-7-3) at the American Airlines Center in a Western Conference showdown between two playoff hopefuls.</desc>
+    <category lang="en">Hockey</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20251219010000 -0500" stop="20251219020000 -0500">
+    <title lang="en">NHL Postgame Show</title>
+    <desc lang="en">Postgame analysis and highlights from Dallas Stars vs San Jose Sharks.</desc>
+    <category lang="en">Sports Talk</category>
     <previously-shown/>
   </programme>
   <channel id="NHL.11.us2">
@@ -246,7 +288,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 11</display-name>
   </channel>
-  <programme channel="NHL.11.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.11.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -258,7 +300,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 12</display-name>
   </channel>
-  <programme channel="NHL.12.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.12.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -270,7 +312,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 13</display-name>
   </channel>
-  <programme channel="NHL.13.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.13.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -282,7 +324,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 14</display-name>
   </channel>
-  <programme channel="NHL.14.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.14.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -294,7 +336,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 15</display-name>
   </channel>
-  <programme channel="NHL.15.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.15.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -306,7 +348,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 16</display-name>
   </channel>
-  <programme channel="NHL.16.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.16.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -318,7 +360,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 17</display-name>
   </channel>
-  <programme channel="NHL.17.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.17.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -330,7 +372,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 18</display-name>
   </channel>
-  <programme channel="NHL.18.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.18.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -342,7 +384,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 19</display-name>
   </channel>
-  <programme channel="NHL.19.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.19.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -354,7 +396,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 20</display-name>
   </channel>
-  <programme channel="NHL.20.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.20.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -366,7 +408,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 21</display-name>
   </channel>
-  <programme channel="NHL.21.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.21.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -378,7 +420,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 22</display-name>
   </channel>
-  <programme channel="NHL.22.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.22.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -390,7 +432,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 23</display-name>
   </channel>
-  <programme channel="NHL.23.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.23.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -402,7 +444,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 24</display-name>
   </channel>
-  <programme channel="NHL.24.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.24.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -414,7 +456,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 25</display-name>
   </channel>
-  <programme channel="NHL.25.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.25.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -426,7 +468,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 26</display-name>
   </channel>
-  <programme channel="NHL.26.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.26.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -438,7 +480,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 27</display-name>
   </channel>
-  <programme channel="NHL.27.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.27.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -450,7 +492,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 28</display-name>
   </channel>
-  <programme channel="NHL.28.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.28.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -462,7 +504,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 29</display-name>
   </channel>
-  <programme channel="NHL.29.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.29.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
@@ -474,7 +516,7 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 30</display-name>
   </channel>
-  <programme channel="NHL.30.us2" start="20251218000000 -0500" stop="20251218235900 -0500">
+  <programme channel="NHL.30.us2" start="20251219000000 -0500" stop="20251219235900 -0500">
     <title lang="en">OFFLINE - NO GAMES SCHEDULED TODAY</title>
     <desc lang="en">No NHL games are scheduled today.</desc>
     <category lang="en">Off Air</category>
