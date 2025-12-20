@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251220123000 -0500" stop="20251220153000 -0500">
     <title lang="en">LIVE: Detroit Red Wings vs Washington Capitals</title>
-    <desc lang="en">The Washington Capitals (20-6-4) take on the Detroit Red Wings (8-19-6) at Little Caesars Arena in a clash of Eastern Conference foes looking to secure crucial points in the standings.</desc>
+    <desc lang="en">The Washington Capitals (31-15-9) visit the Detroit Red Wings (22-29-6) at Little Caesars Arena in a showdown between two teams battling for playoff positioning in their respective divisions.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251220123000 -0500" stop="20251220153000 -0500">
     <title lang="en">LIVE: Philadelphia Flyers vs New York Rangers</title>
-    <desc lang="en">The New York Rangers (17-7-3) face off against the Philadelphia Flyers (13-10-4) at the Wells Fargo Center in a heated division rivalry showdown.</desc>
+    <desc lang="en">The (19-12-5) New York Rangers take on the (18-10-6) Philadelphia Flyers at the Wells Fargo Center in a battle for Metropolitan Division supremacy.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251220150000 -0500" stop="20251220180000 -0500">
     <title lang="en">LIVE: Edmonton Oilers vs Minnesota Wild</title>
-    <desc lang="en">The Minnesota Wild (24-11-2) face off against the Edmonton Oilers (16-19-2) at Rogers Place in a battle between two teams looking to secure a crucial win in the playoff race.</desc>
+    <desc lang="en">The (28-13-3) Minnesota Wild face off against the (20-24-4) Edmonton Oilers at Rogers Place in a clash of high-flying offenses and stingy defenses.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251220150000 -0500" stop="20251220180000 -0500">
     <title lang="en">LIVE: Chicago Blackhawks vs Ottawa Senators</title>
-    <desc lang="en">The Ottawa Senators (10-20-1) take on the Chicago Blackhawks (14-15-5) at the United Center as two struggling teams look to turn their season around in this Eastern vs Western Conference matchup.</desc>
+    <desc lang="en">The Ottawa Senators (13-20-3) take on the Chicago Blackhawks (17-18-5) at the United Center in a clash of struggling teams looking to turn their season around.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -134,7 +134,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251220170000 -0500" stop="20251220200000 -0500">
     <title lang="en">LIVE: New York Islanders vs Buffalo Sabres</title>
-    <desc lang="en">Buffalo Sabres (10-15-4) visit the New York Islanders (17-6-4) at Nassau Coliseum in a battle between struggling Sabres and surging Islanders.</desc>
+    <desc lang="en">Buffalo Sabres (15-16-4) face off against New York Islanders (24-8-4) at Nassau Coliseum in a battle between a struggling Sabres team and a dominant Islanders squad.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -164,7 +164,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251220180000 -0500" stop="20251220210000 -0500">
     <title lang="en">LIVE: St. Louis Blues vs Florida Panthers</title>
-    <desc lang="en">The (11-2-2) Florida Panthers take on the (8-5-2) St. Louis Blues at Enterprise Center in a battle of top teams looking to secure a crucial win in the standings.</desc>
+    <desc lang="en">The Florida Panthers (17-5-4) take on the St. Louis Blues (15-8-4) at Enterprise Center in a clash of two top teams looking to continue their winning ways.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -194,7 +194,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251220190000 -0500" stop="20251220220000 -0500">
     <title lang="en">LIVE: Toronto Maple Leafs vs Nashville Predators</title>
-    <desc lang="en">The Nashville Predators (16-8-1) take on the Toronto Maple Leafs (16-6-1) at Scotiabank Arena in a clash of two top teams in the league looking to extend their winning streaks.</desc>
+    <desc lang="en">The (7-3-0) Nashville Predators face off against the (5-3-1) Toronto Maple Leafs at Scotiabank Arena in a clash of two top teams looking to continue their winning ways.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -224,7 +224,7 @@
   </programme>
   <programme channel="NHL.08.us2" start="20251220190000 -0500" stop="20251220220000 -0500">
     <title lang="en">LIVE: Carolina Hurricanes vs Tampa Bay Lightning</title>
-    <desc lang="en">The Tampa Bay Lightning (22-6-2) face off against the Carolina Hurricanes (18-8-1) at PNC Arena in a battle between two top teams in the Central Division.</desc>
+    <desc lang="en">The Tampa Bay Lightning (27-9-2) face off against the Carolina Hurricanes (22-8-2) at PNC Arena in a battle between two top teams in the Central Division.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -254,7 +254,7 @@
   </programme>
   <programme channel="NHL.09.us2" start="20251220190000 -0500" stop="20251220220000 -0500">
     <title lang="en">LIVE: Pittsburgh Penguins vs Montreal Canadiens</title>
-    <desc lang="en">The Montreal Canadiens (20-15-8) visit the Pittsburgh Penguins (25-13-5) at PPG Paints Arena for an exciting clash between two historic franchises vying for playoff positioning in the East.</desc>
+    <desc lang="en">The Montreal Canadiens (12-3-2) face off against the Pittsburgh Penguins (9-7-1) at PPG Paints Arena in a battle between two top teams in the Eastern Conference.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -284,7 +284,7 @@
   </programme>
   <programme channel="NHL.10.us2" start="20251220190000 -0500" stop="20251220220000 -0500">
     <title lang="en">LIVE: Vancouver Canucks vs Boston Bruins</title>
-    <desc lang="en">The Boston Bruins (12-10-2) take on the Vancouver Canucks (8-15-2) at Rogers Arena in a clash of two struggling teams looking to turn their season around.</desc>
+    <desc lang="en">The Boston Bruins (10-5-2) take on the Vancouver Canucks (7-12-2) at Rogers Arena in a clash of East vs West as both teams look to secure crucial points in the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -314,7 +314,7 @@
   </programme>
   <programme channel="NHL.11.us2" start="20251220220000 -0500" stop="20251221010000 -0500">
     <title lang="en">LIVE: Columbus Blue Jackets vs Anaheim Ducks</title>
-    <desc lang="en">The Anaheim Ducks (16-17-7) face off against the Columbus Blue Jackets (17-18-2) at Nationwide Arena in a battle between two teams fighting for a playoff spot in the Western Conference.</desc>
+    <desc lang="en">The Anaheim Ducks (15-24-9) take on the Columbus Blue Jackets (19-21-1) at Nationwide Arena in a clash of struggling teams looking to turn their seasons around.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -338,7 +338,7 @@
   </programme>
   <programme channel="NHL.12.us2" start="20251220220000 -0500" stop="20251221010000 -0500">
     <title lang="en">LIVE: Seattle Kraken vs San Jose Sharks</title>
-    <desc lang="en">The San Jose Sharks (8-6-1) face off against the Seattle Kraken (4-11-1) at Climate Pledge Arena in a battle of Pacific Division teams looking to climb the standings.</desc>
+    <desc lang="en">The (7-6-1) San Jose Sharks take on the (4-8-1) Seattle Kraken at Climate Pledge Arena in a Pacific Division showdown between two hungry teams looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -362,7 +362,7 @@
   </programme>
   <programme channel="NHL.13.us2" start="20251220220000 -0500" stop="20251221010000 -0500">
     <title lang="en">LIVE: Vegas Golden Knights vs Calgary Flames</title>
-    <desc lang="en">The Calgary Flames (26-10-2) face off against the Vegas Golden Knights (21-15-2) at T-Mobile Arena in a battle of top teams looking to secure a crucial win in the playoff race.</desc>
+    <desc lang="en">The (11-9-5) Calgary Flames face off against the (16-6-0) Vegas Golden Knights at T-Mobile Arena in a battle of two top Western Conference teams looking for a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
