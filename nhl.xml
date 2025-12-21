@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251221130000 -0500" stop="20251221160000 -0500">
     <title lang="en">LIVE: Washington Capitals vs Detroit Red Wings</title>
-    <desc lang="en">The Detroit Red Wings (5-8-2) face off against the Washington Capitals (8-5-1) at Capital One Arena in a clash of veteran stars and young talent looking to make their mark.</desc>
+    <desc lang="en">The Detroit Red Wings (17-20-6) face off against the Washington Capitals (28-11-4) at Capital One Arena in a clash of Eastern Conference rivals with the Capitals looking to extend their winning streak.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251221180000 -0500" stop="20251221210000 -0500">
     <title lang="en">LIVE: Colorado Avalanche vs Minnesota Wild</title>
-    <desc lang="en">The Minnesota Wild (24-11-2) face off against the Colorado Avalanche (20-14-3) at the Pepsi Center in a battle between two top teams in the West Division.</desc>
+    <desc lang="en">The Minnesota Wild (25-13-3) take on the Colorado Avalanche (23-10-4) at the Ball Arena in a clash of top Western Conference teams looking to secure a key divisional win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: Winnipeg Jets vs Utah Hockey Club</title>
-    <desc lang="en">The Utah Hockey Club (12-7-3) faces off against the Winnipeg Jets (10-10-2) at Bell MTS Place in a clash of Western Conference contenders looking to secure a crucial victory.</desc>
+    <desc lang="en">The Utah Hockey Club (10-6-2) faces off against the Winnipeg Jets (12-4-1) at Bell MTS Place in a high-flying battle between two top teams in the league.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: New York Rangers vs Nashville Predators</title>
-    <desc lang="en">The Nashville Predators (25-17-1) face off against the New York Rangers (20-19-6) at Madison Square Garden in a clash of two playoff contenders seeking a crucial win.</desc>
+    <desc lang="en">The Nashville Predators (14-18-1) face off against the New York Rangers (20-7-3) at Madison Square Garden in a clash between a struggling road team and a strong home team.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -134,7 +134,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: Montreal Canadiens vs Pittsburgh Penguins</title>
-    <desc lang="en">The Pittsburgh Penguins (32-15-3) take on the Montreal Canadiens (17-28-9) at Bell Centre in a clash of two historic franchises looking to secure a crucial win in the playoff race.</desc>
+    <desc lang="en">The Pittsburgh Penguins (5-3-1) face off against the Montreal Canadiens (3-5-1) at the Bell Centre in a clash between two Eastern Conference rivals looking to climb the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -164,7 +164,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: Buffalo Sabres vs New Jersey Devils</title>
-    <desc lang="en">Tonight at KeyBank Center, the Buffalo Sabres (12-18-6) face off against the New Jersey Devils (13-18-4) in a battle between two struggling teams looking to turn their seasons around.</desc>
+    <desc lang="en">Tonight at KeyBank Center, the Buffalo Sabres (8-14-4) host the New Jersey Devils (9-12-3) in a battle between two struggling teams looking to climb the standings in the East Division.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -194,7 +194,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: Toronto Maple Leafs vs Dallas Stars</title>
-    <desc lang="en">The (Dallas Stars, 16-14-1) face off against the (Toronto Maple Leafs, 19-8-2) at Scotiabank Arena in a clash of high-powered offenses looking to secure a crucial win in the playoff race.</desc>
+    <desc lang="en">The Dallas Stars (15-9-1) face off against the Toronto Maple Leafs (16-6-1) at Scotiabank Arena in a clash between two top teams looking to secure a crucial win in the standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -224,7 +224,7 @@
   </programme>
   <programme channel="NHL.08.us2" start="20251221190000 -0500" stop="20251221220000 -0500">
     <title lang="en">LIVE: Ottawa Senators vs Boston Bruins</title>
-    <desc lang="en">Tonight at Canadian Tire Centre, the Boston Bruins (25-16-6) face off against the Ottawa Senators (17-28-3) in a battle between division rivals looking to secure a crucial win.</desc>
+    <desc lang="en">The (14-6-3) Boston Bruins face off against the (8-15-1) Ottawa Senators at Canadian Tire Centre in a clash between a top contender and a struggling team looking to turn their season around.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -254,7 +254,7 @@
   </programme>
   <programme channel="NHL.09.us2" start="20251221200000 -0500" stop="20251221230000 -0500">
     <title lang="en">LIVE: Vegas Golden Knights vs Edmonton Oilers</title>
-    <desc lang="en">Edmonton Oilers (24-15-2) face off against the Vegas Golden Knights (25-11-2) at T-Mobile Arena in a battle of two top teams in the West Division.</desc>
+    <desc lang="en">The (24-12-2) Edmonton Oilers face off against the (25-11-2) Vegas Golden Knights at T-Mobile Arena in a battle of top Western Conference teams looking to secure a crucial victory.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
