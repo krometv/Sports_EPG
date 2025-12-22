@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251222190000 -0500" stop="20251222220000 -0500">
     <title lang="en">LIVE: St. Louis Blues vs Tampa Bay Lightning</title>
-    <desc lang="en">The Tampa Bay Lightning (22-7-3) take on the St. Louis Blues (17-10-5) at the Enterprise Center in a battle of two top teams looking to secure a key win.</desc>
+    <desc lang="en">The Tampa Bay Lightning (10-4-3) face off against the St. Louis Blues (9-6-2) at Enterprise Center in a clash of two top teams in the NHL standings.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251222193000 -0500" stop="20251222223000 -0500">
     <title lang="en">LIVE: Vancouver Canucks vs Philadelphia Flyers</title>
-    <desc lang="en">The Philadelphia Flyers (10-6-3) face off against the Vancouver Canucks (7-12-2) at Rogers Arena in a battle between two teams looking to climb the standings in their respective divisions.</desc>
+    <desc lang="en">The Philadelphia Flyers (11-10-4) take on the Vancouver Canucks (11-13-2) at Rogers Arena in a showdown between two teams fighting for playoff positioning in their respective divisions.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251222220000 -0500" stop="20251223010000 -0500">
     <title lang="en">LIVE: Seattle Kraken vs Anaheim Ducks</title>
-    <desc lang="en">The Anaheim Ducks (10-7-3) face off against the Seattle Kraken (7-12-1) at Climate Pledge Arena in a battle of Pacific Division rivals looking to climb the standings.</desc>
+    <desc lang="en">Anaheim Ducks (7-6-3) face off against the Seattle Kraken (5-9-1) at Climate Pledge Arena in a clash of Pacific Division rivals looking to secure a crucial win.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -98,7 +98,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251222220000 -0500" stop="20251223010000 -0500">
     <title lang="en">LIVE: Columbus Blue Jackets vs Los Angeles Kings</title>
-    <desc lang="en">The Los Angeles Kings (10-9-4) face off against the Columbus Blue Jackets (11-9-0) at Nationwide Arena in a battle between two teams fighting for playoff positioning in the Western Conference.</desc>
+    <desc lang="en">The Los Angeles Kings (12-10-3) face off against the Columbus Blue Jackets (14-9-2) at Nationwide Arena in a clash of two teams looking to solidify their playoff positioning.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
