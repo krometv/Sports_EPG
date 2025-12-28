@@ -14,7 +14,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251228170000 -0500" stop="20251228200000 -0500">
     <title lang="en">LIVE: Montreal Canadiens vs Tampa Bay Lightning</title>
-    <desc lang="en">The (16-4-2) Tampa Bay Lightning face off against the (8-11-4) Montreal Canadiens at Bell Centre in a battle between two teams looking to secure a crucial win in the Atlantic Division.</desc>
+    <desc lang="en">The Tampa Bay Lightning (30-14-2) face off against the Montreal Canadiens (17-25-6) at the Bell Centre in a clash of top contenders and struggling underdogs.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -44,7 +44,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251228170000 -0500" stop="20251228200000 -0500">
     <title lang="en">LIVE: New York Islanders vs Columbus Blue Jackets</title>
-    <desc lang="en">The Columbus Blue Jackets (9-6-0) face off against the New York Islanders (5-8-2) at Nassau Veterans Memorial Coliseum in a battle between two teams looking to climb the standings.</desc>
+    <desc lang="en">The Columbus Blue Jackets (23-23-1) face off against the New York Islanders (21-20-5) at the Nassau Veterans Memorial Coliseum in a clash between two Eastern Conference playoff hopefuls.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -74,7 +74,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251228190000 -0500" stop="20251228220000 -0500">
     <title lang="en">LIVE: Toronto Maple Leafs vs Detroit Red Wings</title>
-    <desc lang="en">The Detroit Red Wings (9-10-2) face off against the Toronto Maple Leafs (15-4-2) at Scotiabank Arena in a battle of Original Six rivals looking to secure a crucial two points.</desc>
+    <desc lang="en">The Detroit Red Wings (7-15-2) face off against the Toronto Maple Leafs (14-4-2) at Scotiabank Arena in a clash between a struggling team looking to turn their season around and a top contender.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -104,7 +104,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251228190000 -0500" stop="20251228220000 -0500">
     <title lang="en">LIVE: Pittsburgh Penguins vs Chicago Blackhawks</title>
-    <desc lang="en">The Chicago Blackhawks (7-5-2) take on the Pittsburgh Penguins (9-3-2) at PPG Paints Arena in a clash of two top teams looking to secure a crucial win.</desc>
+    <desc lang="en">The (6-2-2) Chicago Blackhawks face off against the (5-4-1) Pittsburgh Penguins at PPG Paints Arena in a clash of two storied franchises with high-powered offenses.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
@@ -134,7 +134,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251228200000 -0500" stop="20251228230000 -0500">
     <title lang="en">LIVE: Philadelphia Flyers vs Seattle Kraken</title>
-    <desc lang="en">The Seattle Kraken (6-12-2) face off against the Philadelphia Flyers (8-10-4) at Wells Fargo Center in a battle between two struggling teams looking to turn their season around.</desc>
+    <desc lang="en">The Seattle Kraken (9-15-2) face off against the Philadelphia Flyers (12-11-4) at Wells Fargo Center in a battle of two teams looking to climb the standings in the tough Metropolitan Division.</desc>
     <category lang="en">Hockey</category>
     <previously-shown/>
   </programme>
