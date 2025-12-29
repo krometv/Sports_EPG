@@ -180,10 +180,22 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 30</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20251229000100 -0500" stop="20251229235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.01.us2" start="20251229000100 -0500" stop="20251229191500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Los Angeles Rams @ Atlanta Falcons - Game starts at 8:15pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251229191500 -0500" stop="20251229201500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Los Angeles Rams @ Atlanta Falcons - Kickoff at 8:15pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.01.us2" start="20251229201500 -0500" stop="20251229234500 -0500">
+    <title lang="en">LIVE: Los Angeles Rams @ Atlanta Falcons</title>
+    <desc lang="en">Live NFL action from Falcons between the Los Angeles Rams and Atlanta Falcons. Kickoff at 8:15pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
   <programme channel="NFL.02.us2" start="20251229000100 -0500" stop="20251229235900 -0500">
