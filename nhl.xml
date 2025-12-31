@@ -314,7 +314,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20251231123000 -0500" stop="20251231160000 -0500">
     <title lang="en">LIVE: Washington Capitals @ New York Rangers</title>
-    <desc lang="en">The Washington Capitals (32-18-8) face off against the New York Rangers (29-23-4) at Madison Square Garden in a battle of Metropolitan Division rivals looking to secure a playoff spot.</desc>
+    <desc lang="en">The Washington Capitals (16-7-3) face off against the New York Rangers (15-4-3) at Madison Square Garden in a battle between two top teams in the East Division.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -338,7 +338,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20251231150000 -0500" stop="20251231183000 -0500">
     <title lang="en">LIVE: Vegas Golden Knights @ Nashville Predators</title>
-    <desc lang="en">Tonight, the Vegas Golden Knights (21-15-1) take on the Nashville Predators (19-16-1) at Bridgestone Arena in a clash of Western Conference contenders vying for crucial points in the standings.</desc>
+    <desc lang="en">The (21-12-2) Vegas Golden Knights face off against the (17-18-1) Nashville Predators at Bridgestone Arena in a battle between two playoff hopefuls looking to secure a crucial win.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -362,7 +362,7 @@
   </programme>
   <programme channel="NHL.03.us2" start="20251231160000 -0500" stop="20251231193000 -0500">
     <title lang="en">LIVE: Anaheim Ducks @ Tampa Bay Lightning</title>
-    <desc lang="en">The Anaheim Ducks (10-10-6) face off against the Tampa Bay Lightning (17-5-4) at Amalie Arena in a clash of contrasting records and styles, promising an exciting battle on the ice.</desc>
+    <desc lang="en">The Anaheim Ducks (10-9-4) take on the Tampa Bay Lightning (15-4-2) at Amalie Arena in a clash of offensive firepower versus defensive prowess in this exciting NHL matchup.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -386,7 +386,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20251231160000 -0500" stop="20251231193000 -0500">
     <title lang="en">LIVE: San Jose Sharks @ Minnesota Wild</title>
-    <desc lang="en">The San Jose Sharks (10-13-3) take on the Minnesota Wild (16-6-1) at the Xcel Energy Center in a clash between a struggling road team and a dominant home team.</desc>
+    <desc lang="en">The San Jose Sharks (17-16-3) face off against the Minnesota Wild (25-10-2) at the Xcel Energy Center in a clash of Western Conference contenders looking to secure crucial points in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -410,7 +410,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20251231183000 -0500" stop="20251231220000 -0500">
     <title lang="en">LIVE: Detroit Red Wings @ Winnipeg Jets</title>
-    <desc lang="en">The (11-9-3) Detroit Red Wings face off against the (14-8-1) Winnipeg Jets at Bell MTS Place in a clash of two teams looking to secure a crucial victory in the standings.</desc>
+    <desc lang="en">The Detroit Red Wings (15-20-6) face off against the Winnipeg Jets (23-14-3) at Bell MTS Place in a clash between the struggling visitors and the surging home team.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -434,7 +434,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20251231190000 -0500" stop="20251231223000 -0500">
     <title lang="en">LIVE: Columbus Blue Jackets @ New Jersey Devils</title>
-    <desc lang="en">The Columbus Blue Jackets (10-15-6) face off against the New Jersey Devils (13-17-4) at the Prudential Center in a battle for crucial points in the Eastern Conference playoff race.</desc>
+    <desc lang="en">The Columbus Blue Jackets (20-15-8) face off against the New Jersey Devils (18-25-3) at the Prudential Center in a battle between two teams fighting for a playoff spot.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -458,7 +458,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20251231200000 -0500" stop="20251231233000 -0500">
     <title lang="en">LIVE: Dallas Stars @ Buffalo Sabres</title>
-    <desc lang="en">The (6-5-2) Dallas Stars take on the (7-5-1) Buffalo Sabres at KeyBank Center in a clash of two teams looking to climb their respective divisions.</desc>
+    <desc lang="en">Dallas Stars (10-8-2) take on Buffalo Sabres (9-10-2) at KeyBank Center in a clash of two teams looking to gain ground in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -482,7 +482,7 @@
   </programme>
   <programme channel="NHL.08.us2" start="20251231210000 -0500" stop="20260101003000 -0500">
     <title lang="en">LIVE: Colorado Avalanche @ St. Louis Blues</title>
-    <desc lang="en">The Colorado Avalanche (20-7-2) face off against the St. Louis Blues (16-10-5) at Enterprise Center in a clash of two top Western Conference teams looking to secure a crucial win.</desc>
+    <desc lang="en">The Colorado Avalanche (25-11-2) face off against the St. Louis Blues (17-17-6) at the Enterprise Center in a Central Division showdown between two playoff contenders.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -500,7 +500,7 @@
   </programme>
   <programme channel="NHL.09.us2" start="20251231213000 -0500" stop="20260101010000 -0500">
     <title lang="en">LIVE: Edmonton Oilers @ Boston Bruins</title>
-    <desc lang="en">The Edmonton Oilers (25-15-2) face off against the Boston Bruins (21-16-3) at TD Garden in a clash of two talented teams looking to secure a crucial win in the playoff race.</desc>
+    <desc lang="en">The (19-5-0) Edmonton Oilers face off against the (16-8-1) Boston Bruins at TD Garden in a clash between two top teams in the league looking to secure a crucial win.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -518,7 +518,7 @@
   </programme>
   <programme channel="NHL.10.us2" start="20251231213000 -0500" stop="20260101010000 -0500">
     <title lang="en">LIVE: Calgary Flames @ Philadelphia Flyers</title>
-    <desc lang="en">The Calgary Flames (12-7-5) face off against the Philadelphia Flyers (14-4-6) at Wells Fargo Center in a battle between two top teams looking to secure a key win.</desc>
+    <desc lang="en">The (11-4-1) Calgary Flames face off against the (7-8-2) Philadelphia Flyers at the Wells Fargo Center in a battle between two teams looking to climb the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
