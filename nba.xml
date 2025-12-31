@@ -300,349 +300,409 @@
     <url>http://www.nba.com</url>
     <display-name lang="en">NBA 50</display-name>
   </channel>
-  <programme channel="NBA.01.us2" start="20251230000100 -0500" stop="20251230190000 -0500">
+  <programme channel="NBA.01.us2" start="20251231000100 -0500" stop="20251231120000 -0500">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Philadelphia 76ers at Memphis Grizzlies - Game starts at 8:00pm EST</desc>
+    <desc lang="en">Golden State Warriors at Charlotte Hornets - Game starts at 1:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251230190000 -0500" stop="20251230200000 -0500">
+  <programme channel="NBA.01.us2" start="20251231120000 -0500" stop="20251231130000 -0500">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Philadelphia 76ers at Memphis Grizzlies - Tip-off at 8:00pm EST</desc>
+    <desc lang="en">Golden State Warriors at Charlotte Hornets - Tip-off at 1:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.01.us2" start="20251230200000 -0500" stop="20251230233000 -0500">
-    <title lang="en">LIVE: Philadelphia 76ers at Memphis Grizzlies</title>
-    <desc lang="en">Live NBA action from Grizzlies between the Philadelphia 76ers and Memphis Grizzlies. Tip-off at 8:00pm EST.</desc>
+  <programme channel="NBA.01.us2" start="20251231130000 -0500" stop="20251231163000 -0500">
+    <title lang="en">LIVE: Golden State Warriors at Charlotte Hornets</title>
+    <desc lang="en">Live NBA action from Hornets between the Golden State Warriors and Charlotte Hornets. Tip-off at 1:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251230000100 -0500" stop="20251230200000 -0500">
+  <programme channel="NBA.02.us2" start="20251231000100 -0500" stop="20251231140000 -0500">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Boston Celtics at Utah Jazz - Game starts at 9:00pm EST</desc>
+    <desc lang="en">Orlando Magic at Indiana Pacers - Game starts at 3:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251230200000 -0500" stop="20251230210000 -0500">
+  <programme channel="NBA.02.us2" start="20251231140000 -0500" stop="20251231150000 -0500">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Boston Celtics at Utah Jazz - Tip-off at 9:00pm EST</desc>
+    <desc lang="en">Orlando Magic at Indiana Pacers - Tip-off at 3:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.02.us2" start="20251230210000 -0500" stop="20251231003000 -0500">
-    <title lang="en">LIVE: Boston Celtics at Utah Jazz</title>
-    <desc lang="en">Live NBA action from Jazz between the Boston Celtics and Utah Jazz. Tip-off at 9:00pm EST.</desc>
+  <programme channel="NBA.02.us2" start="20251231150000 -0500" stop="20251231183000 -0500">
+    <title lang="en">LIVE: Orlando Magic at Indiana Pacers</title>
+    <desc lang="en">Live NBA action from Pacers between the Orlando Magic and Indiana Pacers. Tip-off at 3:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.03.us2" start="20251230000100 -0500" stop="20251230213000 -0500">
+  <programme channel="NBA.03.us2" start="20251231000100 -0500" stop="20251231140000 -0500">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Detroit Pistons at Los Angeles Lakers - Game starts at 10:30pm EST</desc>
+    <desc lang="en">Minnesota Timberwolves at Atlanta Hawks - Game starts at 3:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.03.us2" start="20251230213000 -0500" stop="20251230223000 -0500">
+  <programme channel="NBA.03.us2" start="20251231140000 -0500" stop="20251231150000 -0500">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Detroit Pistons at Los Angeles Lakers - Tip-off at 10:30pm EST</desc>
+    <desc lang="en">Minnesota Timberwolves at Atlanta Hawks - Tip-off at 3:00pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.03.us2" start="20251230223000 -0500" stop="20251231020000 -0500">
-    <title lang="en">LIVE: Detroit Pistons at Los Angeles Lakers</title>
-    <desc lang="en">Live NBA action from Lakers between the Detroit Pistons and Los Angeles Lakers. Tip-off at 10:30pm EST.</desc>
+  <programme channel="NBA.03.us2" start="20251231150000 -0500" stop="20251231183000 -0500">
+    <title lang="en">LIVE: Minnesota Timberwolves at Atlanta Hawks</title>
+    <desc lang="en">Live NBA action from Hawks between the Minnesota Timberwolves and Atlanta Hawks. Tip-off at 3:00pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.04.us2" start="20251230000100 -0500" stop="20251230220000 -0500">
+  <programme channel="NBA.04.us2" start="20251231000100 -0500" stop="20251231143000 -0500">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Sacramento Kings at LA Clippers - Game starts at 11:00pm EST</desc>
+    <desc lang="en">Phoenix Suns at Cleveland Cavaliers - Game starts at 3:30pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.04.us2" start="20251230220000 -0500" stop="20251230230000 -0500">
+  <programme channel="NBA.04.us2" start="20251231143000 -0500" stop="20251231153000 -0500">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Sacramento Kings at LA Clippers - Tip-off at 11:00pm EST</desc>
+    <desc lang="en">Phoenix Suns at Cleveland Cavaliers - Tip-off at 3:30pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.04.us2" start="20251230230000 -0500" stop="20251231023000 -0500">
-    <title lang="en">LIVE: Sacramento Kings at LA Clippers</title>
-    <desc lang="en">Live NBA action from Clippers between the Sacramento Kings and LA Clippers. Tip-off at 11:00pm EST.</desc>
+  <programme channel="NBA.04.us2" start="20251231153000 -0500" stop="20251231190000 -0500">
+    <title lang="en">LIVE: Phoenix Suns at Cleveland Cavaliers</title>
+    <desc lang="en">Live NBA action from Cavaliers between the Phoenix Suns and Cleveland Cavaliers. Tip-off at 3:30pm EST.</desc>
     <category lang="en">Basketball</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.05.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.05.us2" start="20251231000100 -0500" stop="20251231180000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">New York Knicks at San Antonio Spurs - Game starts at 7:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.05.us2" start="20251231180000 -0500" stop="20251231190000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">New York Knicks at San Antonio Spurs - Tip-off at 7:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.05.us2" start="20251231190000 -0500" stop="20251231223000 -0500">
+    <title lang="en">LIVE: New York Knicks at San Antonio Spurs</title>
+    <desc lang="en">Live NBA action from Spurs between the New York Knicks and San Antonio Spurs. Tip-off at 7:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.06.us2" start="20251231000100 -0500" stop="20251231180000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">New Orleans Pelicans at Chicago Bulls - Game starts at 7:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.06.us2" start="20251231180000 -0500" stop="20251231190000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">New Orleans Pelicans at Chicago Bulls - Tip-off at 7:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.06.us2" start="20251231190000 -0500" stop="20251231223000 -0500">
+    <title lang="en">LIVE: New Orleans Pelicans at Chicago Bulls</title>
+    <desc lang="en">Live NBA action from Bulls between the New Orleans Pelicans and Chicago Bulls. Tip-off at 7:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.07.us2" start="20251231000100 -0500" stop="20251231183000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Denver Nuggets at Toronto Raptors - Game starts at 7:30pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.07.us2" start="20251231183000 -0500" stop="20251231193000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Denver Nuggets at Toronto Raptors - Tip-off at 7:30pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.07.us2" start="20251231193000 -0500" stop="20251231230000 -0500">
+    <title lang="en">LIVE: Denver Nuggets at Toronto Raptors</title>
+    <desc lang="en">Live NBA action from Raptors between the Denver Nuggets and Toronto Raptors. Tip-off at 7:30pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.08.us2" start="20251231000100 -0500" stop="20251231190000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Washington Wizards at Milwaukee Bucks - Game starts at 8:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.08.us2" start="20251231190000 -0500" stop="20251231200000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Washington Wizards at Milwaukee Bucks - Tip-off at 8:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.08.us2" start="20251231200000 -0500" stop="20251231233000 -0500">
+    <title lang="en">LIVE: Washington Wizards at Milwaukee Bucks</title>
+    <desc lang="en">Live NBA action from Bucks between the Washington Wizards and Milwaukee Bucks. Tip-off at 8:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.09.us2" start="20251231000100 -0500" stop="20251231190000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Portland Trail Blazers at Oklahoma City Thunder - Game starts at 8:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.09.us2" start="20251231190000 -0500" stop="20251231200000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Portland Trail Blazers at Oklahoma City Thunder - Tip-off at 8:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.09.us2" start="20251231200000 -0500" stop="20251231233000 -0500">
+    <title lang="en">LIVE: Portland Trail Blazers at Oklahoma City Thunder</title>
+    <desc lang="en">Live NBA action from Thunder between the Portland Trail Blazers and Oklahoma City Thunder. Tip-off at 8:00pm EST.</desc>
+    <category lang="en">Basketball</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NBA.10.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.06.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.11.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.07.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.12.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.08.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.13.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.09.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.14.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.10.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.15.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.11.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.16.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.12.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.17.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.13.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.18.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.14.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.19.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.15.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.20.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.16.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.21.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.17.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.22.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.18.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.23.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.19.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.24.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.20.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.25.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.21.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.26.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.22.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.27.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.23.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.28.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.24.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.29.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.25.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.30.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.26.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.31.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.27.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.32.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.28.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.33.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.29.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.34.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.30.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.35.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.31.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.36.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.32.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.37.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.33.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.38.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.34.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.39.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.35.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.40.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.36.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.41.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.37.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.42.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.38.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.43.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.39.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.44.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.40.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.45.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.41.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.46.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.42.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.47.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.43.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.48.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.44.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.49.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NBA.45.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.46.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.47.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.48.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.49.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NBA.50.us2" start="20251230000100 -0500" stop="20251230235900 -0500">
+  <programme channel="NBA.50.us2" start="20251231000100 -0500" stop="20251231235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NBA games scheduled for this channel today. Check back tomorrow for upcoming games.</desc>
     <category lang="en">Sports</category>
