@@ -1962,21 +1962,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.028.us2" start="20260104000100 -0400" stop="20260104023000 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Adelaide United vs. Central Coast Mariners FC - Event starts at 03:30am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.028.us2" start="20260104023000 -0400" stop="20260104033000 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Adelaide United vs. Central Coast Mariners FC - Starting at 03:30am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.028.us2" start="20260104033000 -0400" stop="20260104070000 -0400">
-    <title lang="en">LIVE: Adelaide United vs. Central Coast Mariners FC</title>
-    <desc lang="en">Live sports action on ESPN+: Adelaide United vs. Central Coast Mariners FC. Event starts at 03:30am EDT.</desc>
+  <programme channel="ESPNPLUS.028.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -1986,39 +1974,39 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.030.us2" start="20260104000100 -0400" stop="20260104065000 -0400">
+  <programme channel="ESPNPLUS.030.us2" start="20260104000100 -0400" stop="20260104065500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Sevilla FC vs. Levante UD - Event starts at 07:50am EDT</desc>
+    <desc lang="en">Sevilla FC vs. Levante UD - Event starts at 07:55am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.030.us2" start="20260104065000 -0400" stop="20260104075000 -0400">
+  <programme channel="ESPNPLUS.030.us2" start="20260104065500 -0400" stop="20260104075500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Sevilla FC vs. Levante UD - Starting at 07:50am EDT</desc>
+    <desc lang="en">Sevilla FC vs. Levante UD - Starting at 07:55am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.030.us2" start="20260104075000 -0400" stop="20260104112000 -0400">
+  <programme channel="ESPNPLUS.030.us2" start="20260104075500 -0400" stop="20260104112500 -0400">
     <title lang="en">LIVE: Sevilla FC vs. Levante UD</title>
-    <desc lang="en">Live sports action on ESPN+: Sevilla FC vs. Levante UD. Event starts at 07:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Sevilla FC vs. Levante UD. Event starts at 07:55am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.031.us2" start="20260104000100 -0400" stop="20260104065500 -0400">
+  <programme channel="ESPNPLUS.031.us2" start="20260104000100 -0400" stop="20260104065600 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">En Español-Sevilla FC vs. Levante UD - Event starts at 07:55am EDT</desc>
+    <desc lang="en">En Español-Sevilla FC vs. Levante UD - Event starts at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.031.us2" start="20260104065500 -0400" stop="20260104075500 -0400">
+  <programme channel="ESPNPLUS.031.us2" start="20260104065600 -0400" stop="20260104075600 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">En Español-Sevilla FC vs. Levante UD - Starting at 07:55am EDT</desc>
+    <desc lang="en">En Español-Sevilla FC vs. Levante UD - Starting at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.031.us2" start="20260104075500 -0400" stop="20260104112500 -0400">
+  <programme channel="ESPNPLUS.031.us2" start="20260104075600 -0400" stop="20260104112600 -0400">
     <title lang="en">LIVE: En Español-Sevilla FC vs. Levante UD</title>
-    <desc lang="en">Live sports action on ESPN+: En Español-Sevilla FC vs. Levante UD. Event starts at 07:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: En Español-Sevilla FC vs. Levante UD. Event starts at 07:56am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
