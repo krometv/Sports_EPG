@@ -180,88 +180,256 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 30</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.01.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Cleveland Browns @ Cincinnati Bengals - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.02.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.01.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Cleveland Browns @ Cincinnati Bengals - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.03.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.01.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: Cleveland Browns @ Cincinnati Bengals</title>
+    <desc lang="en">Live NFL action from Bengals between the Cleveland Browns and Cincinnati Bengals. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.04.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.02.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Green Bay Packers @ Minnesota Vikings - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.05.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.02.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Green Bay Packers @ Minnesota Vikings - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.06.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.02.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: Green Bay Packers @ Minnesota Vikings</title>
+    <desc lang="en">Live NFL action from Vikings between the Green Bay Packers and Minnesota Vikings. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.07.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.03.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Dallas Cowboys @ New York Giants - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.08.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.03.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Dallas Cowboys @ New York Giants - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.09.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.03.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: Dallas Cowboys @ New York Giants</title>
+    <desc lang="en">Live NFL action from Giants between the Dallas Cowboys and New York Giants. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.10.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.04.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Tennessee Titans @ Jacksonville Jaguars - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.11.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.04.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Tennessee Titans @ Jacksonville Jaguars - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.12.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.04.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: Tennessee Titans @ Jacksonville Jaguars</title>
+    <desc lang="en">Live NFL action from Jaguars between the Tennessee Titans and Jacksonville Jaguars. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.13.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.05.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Indianapolis Colts @ Houston Texans - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.14.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="NFL.05.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Indianapolis Colts @ Houston Texans - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.05.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: Indianapolis Colts @ Houston Texans</title>
+    <desc lang="en">Live NFL action from Texans between the Indianapolis Colts and Houston Texans. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.06.us2" start="20260104000100 -0500" stop="20260104120000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">New Orleans Saints @ Atlanta Falcons - Game starts at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.06.us2" start="20260104120000 -0500" stop="20260104130000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">New Orleans Saints @ Atlanta Falcons - Kickoff at 1:00pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.06.us2" start="20260104130000 -0500" stop="20260104163000 -0500">
+    <title lang="en">LIVE: New Orleans Saints @ Atlanta Falcons</title>
+    <desc lang="en">Live NFL action from Falcons between the New Orleans Saints and Atlanta Falcons. Kickoff at 1:00pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.07.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Arizona Cardinals @ Los Angeles Rams - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.07.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Arizona Cardinals @ Los Angeles Rams - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.07.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Arizona Cardinals @ Los Angeles Rams</title>
+    <desc lang="en">Live NFL action from Rams between the Arizona Cardinals and Los Angeles Rams. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.08.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Washington Commanders @ Philadelphia Eagles - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.08.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Washington Commanders @ Philadelphia Eagles - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.08.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Washington Commanders @ Philadelphia Eagles</title>
+    <desc lang="en">Live NFL action from Eagles between the Washington Commanders and Philadelphia Eagles. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.09.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Miami Dolphins @ New England Patriots - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.09.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Miami Dolphins @ New England Patriots - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.09.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Miami Dolphins @ New England Patriots</title>
+    <desc lang="en">Live NFL action from Patriots between the Miami Dolphins and New England Patriots. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.10.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Detroit Lions @ Chicago Bears - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.10.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Detroit Lions @ Chicago Bears - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.10.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Detroit Lions @ Chicago Bears</title>
+    <desc lang="en">Live NFL action from Bears between the Detroit Lions and Chicago Bears. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.11.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Los Angeles Chargers @ Denver Broncos - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.11.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Los Angeles Chargers @ Denver Broncos - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.11.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Los Angeles Chargers @ Denver Broncos</title>
+    <desc lang="en">Live NFL action from Broncos between the Los Angeles Chargers and Denver Broncos. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.12.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">New York Jets @ Buffalo Bills - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.12.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">New York Jets @ Buffalo Bills - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.12.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: New York Jets @ Buffalo Bills</title>
+    <desc lang="en">Live NFL action from Bills between the New York Jets and Buffalo Bills. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.13.us2" start="20260104000100 -0500" stop="20260104152500 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Kansas City Chiefs @ Las Vegas Raiders - Game starts at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.13.us2" start="20260104152500 -0500" stop="20260104162500 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Kansas City Chiefs @ Las Vegas Raiders - Kickoff at 4:25pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.13.us2" start="20260104162500 -0500" stop="20260104195500 -0500">
+    <title lang="en">LIVE: Kansas City Chiefs @ Las Vegas Raiders</title>
+    <desc lang="en">Live NFL action from Raiders between the Kansas City Chiefs and Las Vegas Raiders. Kickoff at 4:25pm EST.</desc>
+    <category lang="en">Football</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.14.us2" start="20260104000100 -0500" stop="20260104192000 -0500">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Baltimore Ravens @ Pittsburgh Steelers - Game starts at 8:20pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.14.us2" start="20260104192000 -0500" stop="20260104202000 -0500">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Baltimore Ravens @ Pittsburgh Steelers - Kickoff at 8:20pm EST</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.14.us2" start="20260104202000 -0500" stop="20260104235000 -0500">
+    <title lang="en">LIVE: Baltimore Ravens @ Pittsburgh Steelers</title>
+    <desc lang="en">Live NFL action from Steelers between the Baltimore Ravens and Pittsburgh Steelers. Kickoff at 8:20pm EST.</desc>
+    <category lang="en">Football</category>
     <previously-shown/>
   </programme>
   <programme channel="NFL.15.us2" start="20260104000100 -0500" stop="20260104235900 -0500">
