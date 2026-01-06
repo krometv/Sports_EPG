@@ -1896,21 +1896,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.017.us2" start="20260106000100 -0400" stop="20260106015500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Melbourne City FC vs. Brisbane Roar FC - Event starts at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.017.us2" start="20260106015500 -0400" stop="20260106025500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Melbourne City FC vs. Brisbane Roar FC - Starting at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.017.us2" start="20260106025500 -0400" stop="20260106062500 -0400">
-    <title lang="en">LIVE: Melbourne City FC vs. Brisbane Roar FC</title>
-    <desc lang="en">Live sports action on ESPN+: Melbourne City FC vs. Brisbane Roar FC. Event starts at 02:55am EDT.</desc>
+  <programme channel="ESPNPLUS.017.us2" start="20260106000100 -0500" stop="20260106235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
