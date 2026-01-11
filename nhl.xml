@@ -314,7 +314,7 @@
   </programme>
   <programme channel="NHL.01.us2" start="20260111140000 -0500" stop="20260111173000 -0500">
     <title lang="en">LIVE: Winnipeg Jets @ New Jersey Devils</title>
-    <desc lang="en">The Winnipeg Jets (9-7-4) take on the New Jersey Devils (8-8-4) at the Prudential Center in a clash between two evenly matched teams looking to secure a crucial win.</desc>
+    <desc lang="en">The Winnipeg Jets (14-10-5) take on the New Jersey Devils (8-16-4) at the Prudential Center in a battle between two teams looking to climb the standings in their respective divisions.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -338,7 +338,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20260111170000 -0500" stop="20260111203000 -0500">
     <title lang="en">LIVE: Boston Bruins @ Pittsburgh Penguins</title>
-    <desc lang="en">The (22-9-2) Boston Bruins face off against the (18-11-1) Pittsburgh Penguins at PPG Paints Arena in a battle between two Eastern Conference powerhouses vying for playoff positioning.</desc>
+    <desc lang="en">The (18-5-2) Boston Bruins face off against the (16-8-1) Pittsburgh Penguins at PPG Paints Arena in a clash of Eastern Conference powerhouses.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -368,7 +368,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20260111190000 -0500" stop="20260111223000 -0500">
     <title lang="en">LIVE: Nashville Predators @ Washington Capitals</title>
-    <desc lang="en">The (24-21-1) Nashville Predators take on the (29-14-6) Washington Capitals at Capital One Arena in a clash between two Stanley Cup contenders with potent offenses and stingy defenses.</desc>
+    <desc lang="en">The Nashville Predators (18-12-1) take on the Washington Capitals (19-10-3) at Capital One Arena in a clash of two top teams looking to secure a key victory in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -392,7 +392,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20260111200000 -0500" stop="20260111233000 -0500">
     <title lang="en">LIVE: San Jose Sharks @ Vegas Golden Knights</title>
-    <desc lang="en">The San Jose Sharks (11-10-3) face off against the Vegas Golden Knights (12-8-1) at T-Mobile Arena in a Pacific Division showdown with both teams vying for a crucial win.</desc>
+    <desc lang="en">The San Jose Sharks (21-25-4) take on the Vegas Golden Knights (30-11-2) at T-Mobile Arena in a Pacific Division showdown between two teams battling for playoff positioning.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
