@@ -180,217 +180,193 @@
     <url>http://www.nfl.com</url>
     <display-name lang="en">NFL 30</display-name>
   </channel>
-  <programme channel="NFL.01.us2" start="20260111000100 -0500" stop="20260111120000 -0500">
+  <programme channel="NFL.01.us2" start="20260112000100 -0500" stop="20260112191500 -0500">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Buffalo Bills @ Jacksonville Jaguars - Game starts at 1:00pm EST</desc>
+    <desc lang="en">Houston Texans @ Pittsburgh Steelers - Game starts at 8:15pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.01.us2" start="20260111120000 -0500" stop="20260111130000 -0500">
+  <programme channel="NFL.01.us2" start="20260112191500 -0500" stop="20260112201500 -0500">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Buffalo Bills @ Jacksonville Jaguars - Kickoff at 1:00pm EST</desc>
+    <desc lang="en">Houston Texans @ Pittsburgh Steelers - Kickoff at 8:15pm EST</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.01.us2" start="20260111130000 -0500" stop="20260111163000 -0500">
-    <title lang="en">LIVE: Buffalo Bills @ Jacksonville Jaguars</title>
-    <desc lang="en">Live NFL action from Jaguars between the Buffalo Bills and Jacksonville Jaguars. Kickoff at 1:00pm EST.</desc>
+  <programme channel="NFL.01.us2" start="20260112201500 -0500" stop="20260112234500 -0500">
+    <title lang="en">LIVE: Houston Texans @ Pittsburgh Steelers</title>
+    <desc lang="en">Live NFL action from Steelers between the Houston Texans and Pittsburgh Steelers. Kickoff at 8:15pm EST.</desc>
     <category lang="en">Football</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.02.us2" start="20260111000100 -0500" stop="20260111153000 -0500">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">San Francisco 49ers @ Philadelphia Eagles - Game starts at 4:30pm EST</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.02.us2" start="20260111153000 -0500" stop="20260111163000 -0500">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">San Francisco 49ers @ Philadelphia Eagles - Kickoff at 4:30pm EST</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.02.us2" start="20260111163000 -0500" stop="20260111200000 -0500">
-    <title lang="en">LIVE: San Francisco 49ers @ Philadelphia Eagles</title>
-    <desc lang="en">Live NFL action from Eagles between the San Francisco 49ers and Philadelphia Eagles. Kickoff at 4:30pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20260111000100 -0500" stop="20260111191500 -0500">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Los Angeles Chargers @ New England Patriots - Game starts at 8:15pm EST</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20260111191500 -0500" stop="20260111201500 -0500">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Los Angeles Chargers @ New England Patriots - Kickoff at 8:15pm EST</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.03.us2" start="20260111201500 -0500" stop="20260111234500 -0500">
-    <title lang="en">LIVE: Los Angeles Chargers @ New England Patriots</title>
-    <desc lang="en">Live NFL action from Patriots between the Los Angeles Chargers and New England Patriots. Kickoff at 8:15pm EST.</desc>
-    <category lang="en">Football</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NFL.04.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.02.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.05.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.03.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.06.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.04.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.07.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.05.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.08.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.06.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.09.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.07.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.10.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.08.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.11.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.09.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.12.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.10.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.13.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.11.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.14.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.12.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.15.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.13.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.16.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.14.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.17.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.15.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.18.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.16.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.19.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.17.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.20.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.18.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.21.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.19.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.22.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.20.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.23.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.21.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.24.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.22.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.25.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.23.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.26.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.24.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.27.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.25.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.28.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.26.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.29.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.27.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NFL.30.us2" start="20260111000100 -0500" stop="20260111235900 -0500">
+  <programme channel="NFL.28.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.29.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NFL.30.us2" start="20260112000100 -0500" stop="20260112235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No NFL games scheduled for this channel today. Check back for upcoming games.</desc>
     <category lang="en">Sports</category>
