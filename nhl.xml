@@ -320,7 +320,7 @@
   </programme>
   <programme channel="NHL.02.us2" start="20260113190000 -0500" stop="20260113223000 -0500">
     <title lang="en">LIVE: Washington Capitals @ Montreal Canadiens</title>
-    <desc lang="en">The Washington Capitals (24-13-2) face off against the Montreal Canadiens (11-23-4) at the Bell Centre in a battle of East Division rivals looking to secure valuable points in the standings.</desc>
+    <desc lang="en">The Washington Capitals (29-13-4) face off against the Montreal Canadiens (19-20-9) at Bell Centre in a clash of East Division rivals looking to secure a crucial win in the playoff race.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -350,7 +350,7 @@
   </programme>
   <programme channel="NHL.04.us2" start="20260113190000 -0500" stop="20260113223000 -0500">
     <title lang="en">LIVE: Ottawa Senators @ Vancouver Canucks</title>
-    <desc lang="en">Tonight at Rogers Arena, the Ottawa Senators (14-21-4) take on the Vancouver Canucks (16-18-3) in a clash of struggling Canadian teams looking to climb the standings.</desc>
+    <desc lang="en">The Ottawa Senators (10-20-1) take on the Vancouver Canucks (14-14-2) at Rogers Arena in a battle between two struggling teams looking to gain ground in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -374,7 +374,7 @@
   </programme>
   <programme channel="NHL.05.us2" start="20260113193000 -0500" stop="20260113230000 -0500">
     <title lang="en">LIVE: Boston Bruins @ Detroit Red Wings</title>
-    <desc lang="en">The Boston Bruins (10-6-1) take on the Detroit Red Wings (3-12-2) at Little Caesars Arena in a clash of a top contender against a struggling team looking to turn their season around.</desc>
+    <desc lang="en">The Boston Bruins (19-7-2) face off against the Detroit Red Wings (7-18-2) at Little Caesars Arena in a clash between a top contender and a struggling team looking to turn things around.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -398,7 +398,7 @@
   </programme>
   <programme channel="NHL.06.us2" start="20260113193000 -0500" stop="20260113230000 -0500">
     <title lang="en">LIVE: St. Louis Blues @ Carolina Hurricanes</title>
-    <desc lang="en">The St. Louis Blues (18-8-6) take on the Carolina Hurricanes (20-7-1) at PNC Arena in a battle between two top teams in the NHL's Central and Metropolitan divisions.</desc>
+    <desc lang="en">The (11-8-2) St. Louis Blues face off against the (12-3-1) Carolina Hurricanes at the PNC Arena in a battle of two top teams in the NHL's Central and Metropolitan Divisions.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -422,7 +422,7 @@
   </programme>
   <programme channel="NHL.07.us2" start="20260113200000 -0500" stop="20260113233000 -0500">
     <title lang="en">LIVE: Winnipeg Jets @ New York Islanders</title>
-    <desc lang="en">The Winnipeg Jets (12-7-3) face off against the New York Islanders (8-10-4) at Nassau Coliseum in a battle between two teams looking to climb the standings.</desc>
+    <desc lang="en">The Winnipeg Jets (28-22-9) take on the New York Islanders (26-25-6) at Nassau Coliseum in a battle between two playoff hopefuls looking to secure crucial points in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -446,7 +446,7 @@
   </programme>
   <programme channel="NHL.08.us2" start="20260113200000 -0500" stop="20260113233000 -0500">
     <title lang="en">LIVE: Nashville Predators @ Edmonton Oilers</title>
-    <desc lang="en">The (8-12-1) Nashville Predators visit Rogers Place to take on the (10-9-1) Edmonton Oilers in a clash of two teams looking to climb the standings in the Western Conference.</desc>
+    <desc lang="en">The Nashville Predators (23-12-2) take on the Edmonton Oilers (18-18-2) at Rogers Place in a clash of two playoff contenders seeking to solidify their positions in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -470,7 +470,7 @@
   </programme>
   <programme channel="NHL.09.us2" start="20260113220000 -0500" stop="20260114013000 -0500">
     <title lang="en">LIVE: Utah Hockey Club @ Toronto Maple Leafs</title>
-    <desc lang="en">The Utah Hockey Club (14-6-2) faces off against the Toronto Maple Leafs (12-8-3) at Scotiabank Arena in a clash between two top teams vying for a crucial win.</desc>
+    <desc lang="en">The Utah Hockey Club (10-5-2) faces off against the Toronto Maple Leafs (11-4-1) at Scotiabank Arena in a clash of top contenders looking to secure a crucial win in the standings.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -488,7 +488,7 @@
   </programme>
   <programme channel="NHL.10.us2" start="20260113220000 -0500" stop="20260114013000 -0500">
     <title lang="en">LIVE: Anaheim Ducks @ Dallas Stars</title>
-    <desc lang="en">(ANA: 20-22-7) Anaheim Ducks visit the Dallas Stars (DAL: 24-19-2) at the American Airlines Center in a battle of Western Conference playoff hopefuls.</desc>
+    <desc lang="en">Anaheim Ducks (10-11-5) face off against the Dallas Stars (9-9-7) at the American Airlines Center in a battle between two Western Conference teams fighting for playoff positioning.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
