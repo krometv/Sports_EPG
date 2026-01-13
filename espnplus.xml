@@ -2052,39 +2052,15 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.043.us2" start="20260113000100 -0400" stop="20260113015500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Sydney FC vs. Newcastle Jets - Event starts at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.043.us2" start="20260113015500 -0400" stop="20260113025500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Sydney FC vs. Newcastle Jets - Starting at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.043.us2" start="20260113025500 -0400" stop="20260113062500 -0400">
-    <title lang="en">LIVE: Sydney FC vs. Newcastle Jets</title>
-    <desc lang="en">Live sports action on ESPN+: Sydney FC vs. Newcastle Jets. Event starts at 02:55am EDT.</desc>
+  <programme channel="ESPNPLUS.043.us2" start="20260113000100 -0500" stop="20260113235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.044.us2" start="20260113000100 -0400" stop="20260113020000 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Australian Open Opening Week: Zverev vs. Musetti (Exhibition) - Event starts at 03:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.044.us2" start="20260113020000 -0400" stop="20260113030000 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Australian Open Opening Week: Zverev vs. Musetti (Exhibition) - Starting at 03:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.044.us2" start="20260113030000 -0400" stop="20260113063000 -0400">
-    <title lang="en">LIVE: Australian Open Opening Week: Zverev vs. Musetti (Exhibition)</title>
-    <desc lang="en">Live sports action on ESPN+: Australian Open Opening Week: Zverev vs. Musetti (Exhibition). Event starts at 03:00am EDT.</desc>
+  <programme channel="ESPNPLUS.044.us2" start="20260113000100 -0500" stop="20260113235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
