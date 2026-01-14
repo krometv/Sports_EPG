@@ -306,9 +306,27 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260114000100 -0500" stop="20260114235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260114000100 -0500" stop="20260114183000 -0500">
+    <title lang="en">Game Later Today - New York Rangers @ Ottawa Senators</title>
+    <desc lang="en">New York Rangers visit the Ottawa Senators at 07:30pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260114183000 -0500" stop="20260114193000 -0500">
+    <title lang="en">Game Starting Soon - New York Rangers @ Ottawa Senators</title>
+    <desc lang="en">Coming up: New York Rangers vs Ottawa Senators. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260114193000 -0500" stop="20260114230000 -0500">
+    <title lang="en">LIVE: New York Rangers @ Ottawa Senators</title>
+    <desc lang="en">The (20-20-6) New York Rangers take on the (17-23-4) Ottawa Senators at the Canadian Tire Centre in a battle between two teams fighting for a playoff spot in the Eastern Conference.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260114230000 -0500" stop="20260114235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Ottawa Senators vs New York Rangers has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -318,10 +336,22 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20260114000100 -0500" stop="20260114235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.04.us2" start="20260114000100 -0500" stop="20260114210000 -0500">
+    <title lang="en">Game Later Today - Los Angeles Kings @ Vegas Golden Knights</title>
+    <desc lang="en">Los Angeles Kings visit the Vegas Golden Knights at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260114210000 -0500" stop="20260114220000 -0500">
+    <title lang="en">Game Starting Soon - Los Angeles Kings @ Vegas Golden Knights</title>
+    <desc lang="en">Coming up: Los Angeles Kings vs Vegas Golden Knights. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260114220000 -0500" stop="20260115013000 -0500">
+    <title lang="en">LIVE: Los Angeles Kings @ Vegas Golden Knights</title>
+    <desc lang="en">The Los Angeles Kings (6-4-2) face off against the Vegas Golden Knights (7-4-1) at T-Mobile Arena in a Pacific Division showdown between two top teams vying for playoff positioning.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
   <programme channel="NHL.05.us2" start="20260114000100 -0500" stop="20260114235900 -0500">
