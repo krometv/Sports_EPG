@@ -2412,21 +2412,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.103.us2" start="20260115000100 -0400" stop="20260115020000 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition) - Event starts at 03:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.103.us2" start="20260115020000 -0400" stop="20260115030000 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition) - Starting at 03:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.103.us2" start="20260115030000 -0400" stop="20260115063000 -0400">
-    <title lang="en">LIVE: Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition)</title>
-    <desc lang="en">Live sports action on ESPN+: Australian Open Opening Week: Alcaraz vs. de Minaur (Exhibition). Event starts at 03:00am EDT.</desc>
+  <programme channel="ESPNPLUS.103.us2" start="20260115000100 -0500" stop="20260115235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
