@@ -306,9 +306,27 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260116000100 -0500" stop="20260116235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260116000100 -0500" stop="20260116180000 -0500">
+    <title lang="en">Game Later Today - Detroit Red Wings @ San Jose Sharks</title>
+    <desc lang="en">Detroit Red Wings visit the San Jose Sharks at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260116180000 -0500" stop="20260116190000 -0500">
+    <title lang="en">Game Starting Soon - Detroit Red Wings @ San Jose Sharks</title>
+    <desc lang="en">Coming up: Detroit Red Wings vs San Jose Sharks. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260116190000 -0500" stop="20260116223000 -0500">
+    <title lang="en">LIVE: Detroit Red Wings @ San Jose Sharks</title>
+    <desc lang="en">The Detroit Red Wings (8-10-2) take on the San Jose Sharks (9-8-1) at the SAP Center in a clash of two teams looking to climb the standings in this Western Conference matchup.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260116223000 -0500" stop="20260116235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">San Jose Sharks vs Detroit Red Wings has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -318,16 +336,40 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20260116000100 -0500" stop="20260116235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.04.us2" start="20260116000100 -0500" stop="20260116200000 -0500">
+    <title lang="en">Game Later Today - Colorado Avalanche @ Nashville Predators</title>
+    <desc lang="en">Colorado Avalanche visit the Nashville Predators at 09:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20260116000100 -0500" stop="20260116235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.04.us2" start="20260116200000 -0500" stop="20260116210000 -0500">
+    <title lang="en">Game Starting Soon - Colorado Avalanche @ Nashville Predators</title>
+    <desc lang="en">Coming up: Colorado Avalanche vs Nashville Predators. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260116210000 -0500" stop="20260117003000 -0500">
+    <title lang="en">LIVE: Colorado Avalanche @ Nashville Predators</title>
+    <desc lang="en">The (7-4-1) Colorado Avalanche face off against the (6-6-0) Nashville Predators at the Bridgestone Arena in a clash of two top Western Conference teams looking to secure a crucial win.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260116000100 -0500" stop="20260116213000 -0500">
+    <title lang="en">Game Later Today - Los Angeles Kings @ Anaheim Ducks</title>
+    <desc lang="en">Los Angeles Kings visit the Anaheim Ducks at 10:30pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260116213000 -0500" stop="20260116223000 -0500">
+    <title lang="en">Game Starting Soon - Los Angeles Kings @ Anaheim Ducks</title>
+    <desc lang="en">Coming up: Los Angeles Kings vs Anaheim Ducks. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260116223000 -0500" stop="20260117020000 -0500">
+    <title lang="en">LIVE: Los Angeles Kings @ Anaheim Ducks</title>
+    <desc lang="en">The Los Angeles Kings (28-18-5) visit the Anaheim Ducks (22-23-5) at the Honda Center for a California rivalry showdown with playoff implications on the line.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
   <programme channel="NHL.06.us2" start="20260116000100 -0500" stop="20260116235900 -0500">
