@@ -2118,21 +2118,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260117000100 -0400" stop="20260117023500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Adelaide United vs. Melbourne Victory - Event starts at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260117023500 -0400" stop="20260117033500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Adelaide United vs. Melbourne Victory - Starting at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260117033500 -0400" stop="20260117070500 -0400">
-    <title lang="en">LIVE: Adelaide United vs. Melbourne Victory</title>
-    <desc lang="en">Live sports action on ESPN+: Adelaide United vs. Melbourne Victory. Event starts at 03:35am EDT.</desc>
+  <programme channel="ESPNPLUS.054.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -2166,57 +2154,57 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260117000100 -0400" stop="20260117055500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260117000100 -0400" stop="20260117055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Preußen Münster vs. Karlsruher SC - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Preußen Münster vs. Karlsruher SC - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260117055500 -0400" stop="20260117065500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260117055000 -0400" stop="20260117065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Preußen Münster vs. Karlsruher SC - Starting at 06:55am EDT</desc>
+    <desc lang="en">Preußen Münster vs. Karlsruher SC - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260117065500 -0400" stop="20260117102500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260117065000 -0400" stop="20260117102000 -0400">
     <title lang="en">LIVE: Preußen Münster vs. Karlsruher SC</title>
-    <desc lang="en">Live sports action on ESPN+: Preußen Münster vs. Karlsruher SC. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Preußen Münster vs. Karlsruher SC. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260117000100 -0400" stop="20260117055500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260117000100 -0400" stop="20260117055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SG Dynamo Dresden vs. SpVgg Greuther Fürth - Event starts at 06:55am EDT</desc>
+    <desc lang="en">SG Dynamo Dresden vs. SpVgg Greuther Fürth - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260117055500 -0400" stop="20260117065500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260117055000 -0400" stop="20260117065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SG Dynamo Dresden vs. SpVgg Greuther Fürth - Starting at 06:55am EDT</desc>
+    <desc lang="en">SG Dynamo Dresden vs. SpVgg Greuther Fürth - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260117065500 -0400" stop="20260117102500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260117065000 -0400" stop="20260117102000 -0400">
     <title lang="en">LIVE: SG Dynamo Dresden vs. SpVgg Greuther Fürth</title>
-    <desc lang="en">Live sports action on ESPN+: SG Dynamo Dresden vs. SpVgg Greuther Fürth. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SG Dynamo Dresden vs. SpVgg Greuther Fürth. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260117000100 -0400" stop="20260117055500 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260117000100 -0400" stop="20260117055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">1. FC Nurnberg vs. SV Elversberg - Event starts at 06:55am EDT</desc>
+    <desc lang="en">1. FC Nurnberg vs. SV Elversberg - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260117055500 -0400" stop="20260117065500 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260117055000 -0400" stop="20260117065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">1. FC Nurnberg vs. SV Elversberg - Starting at 06:55am EDT</desc>
+    <desc lang="en">1. FC Nurnberg vs. SV Elversberg - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260117065500 -0400" stop="20260117102500 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260117065000 -0400" stop="20260117102000 -0400">
     <title lang="en">LIVE: 1. FC Nurnberg vs. SV Elversberg</title>
-    <desc lang="en">Live sports action on ESPN+: 1. FC Nurnberg vs. SV Elversberg. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: 1. FC Nurnberg vs. SV Elversberg. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -2256,21 +2244,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.065.us2" start="20260117000100 -0400" stop="20260117070000 -0400">
+  <programme channel="ESPNPLUS.065.us2" start="20260117000100 -0400" stop="20260117065600 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">FC Erzgebirge Aue vs. F.C. Hansa Rostock - Event starts at 08:00am EDT</desc>
+    <desc lang="en">FC Erzgebirge Aue vs. F.C. Hansa Rostock - Event starts at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.065.us2" start="20260117070000 -0400" stop="20260117080000 -0400">
+  <programme channel="ESPNPLUS.065.us2" start="20260117065600 -0400" stop="20260117075600 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">FC Erzgebirge Aue vs. F.C. Hansa Rostock - Starting at 08:00am EDT</desc>
+    <desc lang="en">FC Erzgebirge Aue vs. F.C. Hansa Rostock - Starting at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.065.us2" start="20260117080000 -0400" stop="20260117113000 -0400">
+  <programme channel="ESPNPLUS.065.us2" start="20260117075600 -0400" stop="20260117112600 -0400">
     <title lang="en">LIVE: FC Erzgebirge Aue vs. F.C. Hansa Rostock</title>
-    <desc lang="en">Live sports action on ESPN+: FC Erzgebirge Aue vs. F.C. Hansa Rostock. Event starts at 08:00am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: FC Erzgebirge Aue vs. F.C. Hansa Rostock. Event starts at 07:56am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
