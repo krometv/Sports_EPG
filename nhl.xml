@@ -306,9 +306,27 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260117000100 -0500" stop="20260117120000 -0500">
+    <title lang="en">Game Later Today - Philadelphia Flyers @ New York Rangers</title>
+    <desc lang="en">Philadelphia Flyers visit the New York Rangers at 01:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260117120000 -0500" stop="20260117130000 -0500">
+    <title lang="en">Game Starting Soon - Philadelphia Flyers @ New York Rangers</title>
+    <desc lang="en">Coming up: Philadelphia Flyers vs New York Rangers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260117130000 -0500" stop="20260117163000 -0500">
+    <title lang="en">LIVE: Philadelphia Flyers @ New York Rangers</title>
+    <desc lang="en">Philadelphia Flyers (7-5-1) visit the New York Rangers (6-7-3) at Madison Square Garden for a divisional showdown between two storied rivals looking to climb the standings.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260117163000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">New York Rangers vs Philadelphia Flyers has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -318,64 +336,226 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.04.us2" start="20260117000100 -0500" stop="20260117160000 -0500">
+    <title lang="en">Game Later Today - Utah Hockey Club @ Seattle Kraken</title>
+    <desc lang="en">Utah Hockey Club visit the Seattle Kraken at 05:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260117160000 -0500" stop="20260117170000 -0500">
+    <title lang="en">Game Starting Soon - Utah Hockey Club @ Seattle Kraken</title>
+    <desc lang="en">Coming up: Utah Hockey Club vs Seattle Kraken. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260117170000 -0500" stop="20260117203000 -0500">
+    <title lang="en">LIVE: Utah Hockey Club @ Seattle Kraken</title>
+    <desc lang="en">The Utah Hockey Club (12-5-2) faces off against the Seattle Kraken (9-9-1) at Climate Pledge Arena in a battle of Western Conference contenders looking to secure a crucial win.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260117203000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Seattle Kraken vs Utah Hockey Club has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.05.us2" start="20260117000100 -0500" stop="20260117180000 -0500">
+    <title lang="en">Game Later Today - Winnipeg Jets @ Toronto Maple Leafs</title>
+    <desc lang="en">Winnipeg Jets visit the Toronto Maple Leafs at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260117180000 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Starting Soon - Winnipeg Jets @ Toronto Maple Leafs</title>
+    <desc lang="en">Coming up: Winnipeg Jets vs Toronto Maple Leafs. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260117190000 -0500" stop="20260117223000 -0500">
+    <title lang="en">LIVE: Winnipeg Jets @ Toronto Maple Leafs</title>
+    <desc lang="en">The Winnipeg Jets (15-7-2) take on the Toronto Maple Leafs (16-6-2) at Scotiabank Arena in a clash of two top teams in the North Division looking to secure a crucial win.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260117223000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Toronto Maple Leafs vs Winnipeg Jets has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.06.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.06.us2" start="20260117000100 -0500" stop="20260117180000 -0500">
+    <title lang="en">Game Later Today - Washington Capitals @ Florida Panthers</title>
+    <desc lang="en">Washington Capitals visit the Florida Panthers at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260117180000 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Starting Soon - Washington Capitals @ Florida Panthers</title>
+    <desc lang="en">Coming up: Washington Capitals vs Florida Panthers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260117190000 -0500" stop="20260117223000 -0500">
+    <title lang="en">LIVE: Washington Capitals @ Florida Panthers</title>
+    <desc lang="en">The Washington Capitals (21-8-9) take on the Florida Panthers (21-7-8) at the BB&amp;T Center in a battle of two top Eastern Conference teams vying for playoff positioning.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260117223000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Florida Panthers vs Washington Capitals has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.07.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.07.us2" start="20260117000100 -0500" stop="20260117180000 -0500">
+    <title lang="en">Game Later Today - Pittsburgh Penguins @ Columbus Blue Jackets</title>
+    <desc lang="en">Pittsburgh Penguins visit the Columbus Blue Jackets at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20260117180000 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Starting Soon - Pittsburgh Penguins @ Columbus Blue Jackets</title>
+    <desc lang="en">Coming up: Pittsburgh Penguins vs Columbus Blue Jackets. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20260117190000 -0500" stop="20260117223000 -0500">
+    <title lang="en">LIVE: Pittsburgh Penguins @ Columbus Blue Jackets</title>
+    <desc lang="en">The (6-3-1) Pittsburgh Penguins face off against the (5-4-2) Columbus Blue Jackets at Nationwide Arena in a matchup of two strong Metropolitan Division contenders.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20260117223000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Columbus Blue Jackets vs Pittsburgh Penguins has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.08.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.08.us2" start="20260117000100 -0500" stop="20260117180000 -0500">
+    <title lang="en">Game Later Today - Ottawa Senators @ Montreal Canadiens</title>
+    <desc lang="en">Ottawa Senators visit the Montreal Canadiens at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260117180000 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Starting Soon - Ottawa Senators @ Montreal Canadiens</title>
+    <desc lang="en">Coming up: Ottawa Senators vs Montreal Canadiens. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260117190000 -0500" stop="20260117223000 -0500">
+    <title lang="en">LIVE: Ottawa Senators @ Montreal Canadiens</title>
+    <desc lang="en">The Ottawa Senators (10-12-3) face off against the Montreal Canadiens (12-8-9) at the Bell Centre, as two Canadian rivals battle for crucial points in the North Division standings.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260117223000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Montreal Canadiens vs Ottawa Senators has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.09.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.09.us2" start="20260117000100 -0500" stop="20260117180000 -0500">
+    <title lang="en">Game Later Today - New Jersey Devils @ Carolina Hurricanes</title>
+    <desc lang="en">New Jersey Devils visit the Carolina Hurricanes at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20260117180000 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Starting Soon - New Jersey Devils @ Carolina Hurricanes</title>
+    <desc lang="en">Coming up: New Jersey Devils vs Carolina Hurricanes. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20260117190000 -0500" stop="20260117223000 -0500">
+    <title lang="en">LIVE: New Jersey Devils @ Carolina Hurricanes</title>
+    <desc lang="en">The (13-14-4) New Jersey Devils face off against the (14-11-6) Carolina Hurricanes at PNC Arena in a battle between two Eastern Conference teams fighting for playoff positioning.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.09.us2" start="20260117223000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Carolina Hurricanes vs New Jersey Devils has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.10.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.10.us2" start="20260117000100 -0500" stop="20260117190000 -0500">
+    <title lang="en">Game Later Today - Chicago Blackhawks @ Boston Bruins</title>
+    <desc lang="en">Chicago Blackhawks visit the Boston Bruins at 08:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20260117190000 -0500" stop="20260117200000 -0500">
+    <title lang="en">Game Starting Soon - Chicago Blackhawks @ Boston Bruins</title>
+    <desc lang="en">Coming up: Chicago Blackhawks vs Boston Bruins. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20260117200000 -0500" stop="20260117233000 -0500">
+    <title lang="en">LIVE: Chicago Blackhawks @ Boston Bruins</title>
+    <desc lang="en">The Chicago Blackhawks (8-6-2) take on the Boston Bruins (10-4-2) at TD Garden in a clash of two Original Six teams looking to secure a crucial win.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.10.us2" start="20260117233000 -0500" stop="20260117235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Boston Bruins vs Chicago Blackhawks has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.11.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.11.us2" start="20260117000100 -0500" stop="20260117210000 -0500">
+    <title lang="en">Game Later Today - Vegas Golden Knights @ Nashville Predators</title>
+    <desc lang="en">Vegas Golden Knights visit the Nashville Predators at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.12.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.11.us2" start="20260117210000 -0500" stop="20260117220000 -0500">
+    <title lang="en">Game Starting Soon - Vegas Golden Knights @ Nashville Predators</title>
+    <desc lang="en">Coming up: Vegas Golden Knights vs Nashville Predators. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.13.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.11.us2" start="20260117220000 -0500" stop="20260118013000 -0500">
+    <title lang="en">LIVE: Vegas Golden Knights @ Nashville Predators</title>
+    <desc lang="en">The Vegas Golden Knights (20-14-2) face off against the Nashville Predators (19-17-1) at Bridgestone Arena in a battle between two playoff contenders in the Western Conference.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.12.us2" start="20260117000100 -0500" stop="20260117210000 -0500">
+    <title lang="en">Game Later Today - Anaheim Ducks @ Los Angeles Kings</title>
+    <desc lang="en">Anaheim Ducks visit the Los Angeles Kings at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.12.us2" start="20260117210000 -0500" stop="20260117220000 -0500">
+    <title lang="en">Game Starting Soon - Anaheim Ducks @ Los Angeles Kings</title>
+    <desc lang="en">Coming up: Anaheim Ducks vs Los Angeles Kings. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.12.us2" start="20260117220000 -0500" stop="20260118013000 -0500">
+    <title lang="en">LIVE: Anaheim Ducks @ Los Angeles Kings</title>
+    <desc lang="en">The (15-13-3) Anaheim Ducks visit the (12-13-6) Los Angeles Kings at the Staples Center in a Pacific Division showdown between two California rivals.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.13.us2" start="20260117000100 -0500" stop="20260117210000 -0500">
+    <title lang="en">Game Later Today - Vancouver Canucks @ Edmonton Oilers</title>
+    <desc lang="en">Vancouver Canucks visit the Edmonton Oilers at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.13.us2" start="20260117210000 -0500" stop="20260117220000 -0500">
+    <title lang="en">Game Starting Soon - Vancouver Canucks @ Edmonton Oilers</title>
+    <desc lang="en">Coming up: Vancouver Canucks vs Edmonton Oilers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.13.us2" start="20260117220000 -0500" stop="20260118013000 -0500">
+    <title lang="en">LIVE: Vancouver Canucks @ Edmonton Oilers</title>
+    <desc lang="en">The Vancouver Canucks (2-4-0) take on the Edmonton Oilers (4-2-0) at Rogers Place in a Pacific Division showdown between two teams looking to climb the standings.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
   <programme channel="NHL.14.us2" start="20260117000100 -0500" stop="20260117235900 -0500">
