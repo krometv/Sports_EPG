@@ -306,9 +306,27 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260118000100 -0500" stop="20260118235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260118000100 -0500" stop="20260118160000 -0500">
+    <title lang="en">Game Later Today - Detroit Red Wings @ Ottawa Senators</title>
+    <desc lang="en">Detroit Red Wings visit the Ottawa Senators at 05:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260118160000 -0500" stop="20260118170000 -0500">
+    <title lang="en">Game Starting Soon - Detroit Red Wings @ Ottawa Senators</title>
+    <desc lang="en">Coming up: Detroit Red Wings vs Ottawa Senators. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260118170000 -0500" stop="20260118203000 -0500">
+    <title lang="en">LIVE: Detroit Red Wings @ Ottawa Senators</title>
+    <desc lang="en">The Detroit Red Wings (9-10-3) face off against the Ottawa Senators (7-14-1) at the Canadian Tire Centre in a battle between two struggling teams looking to climb the standings.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260118203000 -0500" stop="20260118235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Ottawa Senators vs Detroit Red Wings has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
