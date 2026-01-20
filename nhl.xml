@@ -306,9 +306,27 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260120000100 -0500" stop="20260120180000 -0500">
+    <title lang="en">Game Later Today - Tampa Bay Lightning @ San Jose Sharks</title>
+    <desc lang="en">Tampa Bay Lightning visit the San Jose Sharks at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260120180000 -0500" stop="20260120190000 -0500">
+    <title lang="en">Game Starting Soon - Tampa Bay Lightning @ San Jose Sharks</title>
+    <desc lang="en">Coming up: Tampa Bay Lightning vs San Jose Sharks. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260120190000 -0500" stop="20260120223000 -0500">
+    <title lang="en">LIVE: Tampa Bay Lightning @ San Jose Sharks</title>
+    <desc lang="en">The Tampa Bay Lightning (31-11-3) take on the San Jose Sharks (21-13-7) at the SAP Center in a clash of two high-powered offenses looking to secure a crucial victory.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260120223000 -0500" stop="20260120235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">San Jose Sharks vs Tampa Bay Lightning has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
@@ -318,34 +336,112 @@
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.04.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.04.us2" start="20260120000100 -0500" stop="20260120183000 -0500">
+    <title lang="en">Game Later Today - Dallas Stars @ Boston Bruins</title>
+    <desc lang="en">Dallas Stars visit the Boston Bruins at 07:30pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260120183000 -0500" stop="20260120193000 -0500">
+    <title lang="en">Game Starting Soon - Dallas Stars @ Boston Bruins</title>
+    <desc lang="en">Coming up: Dallas Stars vs Boston Bruins. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260120193000 -0500" stop="20260120230000 -0500">
+    <title lang="en">LIVE: Dallas Stars @ Boston Bruins</title>
+    <desc lang="en">The (12-8-2) Dallas Stars face off against the (14-5-2) Boston Bruins at TD Garden in a battle between two top teams in their respective divisions.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.04.us2" start="20260120230000 -0500" stop="20260120235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Boston Bruins vs Dallas Stars has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.05.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.05.us2" start="20260120000100 -0500" stop="20260120190000 -0500">
+    <title lang="en">Game Later Today - Winnipeg Jets @ St. Louis Blues</title>
+    <desc lang="en">Winnipeg Jets visit the St. Louis Blues at 08:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260120190000 -0500" stop="20260120200000 -0500">
+    <title lang="en">Game Starting Soon - Winnipeg Jets @ St. Louis Blues</title>
+    <desc lang="en">Coming up: Winnipeg Jets vs St. Louis Blues. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260120200000 -0500" stop="20260120233000 -0500">
+    <title lang="en">LIVE: Winnipeg Jets @ St. Louis Blues</title>
+    <desc lang="en">The Winnipeg Jets (28-21-3) face off against the St. Louis Blues (28-13-6) at Enterprise Center in a battle between two playoff contenders in the Western Conference.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.05.us2" start="20260120233000 -0500" stop="20260120235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">St. Louis Blues vs Winnipeg Jets has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.06.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.06.us2" start="20260120000100 -0500" stop="20260120190000 -0500">
+    <title lang="en">Game Later Today - Nashville Predators @ Buffalo Sabres</title>
+    <desc lang="en">Nashville Predators visit the Buffalo Sabres at 08:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260120190000 -0500" stop="20260120200000 -0500">
+    <title lang="en">Game Starting Soon - Nashville Predators @ Buffalo Sabres</title>
+    <desc lang="en">Coming up: Nashville Predators vs Buffalo Sabres. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260120200000 -0500" stop="20260120233000 -0500">
+    <title lang="en">LIVE: Nashville Predators @ Buffalo Sabres</title>
+    <desc lang="en">The (15-12-1) Nashville Predators face off against the (10-17-1) Buffalo Sabres at KeyBank Center in a clash between two teams looking to climb the standings.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.06.us2" start="20260120233000 -0500" stop="20260120235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Buffalo Sabres vs Nashville Predators has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.07.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.07.us2" start="20260120000100 -0500" stop="20260120210000 -0500">
+    <title lang="en">Game Later Today - Edmonton Oilers @ New Jersey Devils</title>
+    <desc lang="en">Edmonton Oilers visit the New Jersey Devils at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.08.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
-    <category lang="en">Off Air</category>
+  <programme channel="NHL.07.us2" start="20260120210000 -0500" stop="20260120220000 -0500">
+    <title lang="en">Game Starting Soon - Edmonton Oilers @ New Jersey Devils</title>
+    <desc lang="en">Coming up: Edmonton Oilers vs New Jersey Devils. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.07.us2" start="20260120220000 -0500" stop="20260121013000 -0500">
+    <title lang="en">LIVE: Edmonton Oilers @ New Jersey Devils</title>
+    <desc lang="en">The Edmonton Oilers (27-18-2) face off against the New Jersey Devils (17-27-4) at the Prudential Center in a clash of two teams looking to secure a crucial victory.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260120000100 -0500" stop="20260120210000 -0500">
+    <title lang="en">Game Later Today - Los Angeles Kings @ New York Rangers</title>
+    <desc lang="en">Los Angeles Kings visit the New York Rangers at 10:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260120210000 -0500" stop="20260120220000 -0500">
+    <title lang="en">Game Starting Soon - Los Angeles Kings @ New York Rangers</title>
+    <desc lang="en">Coming up: Los Angeles Kings vs New York Rangers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.08.us2" start="20260120220000 -0500" stop="20260121013000 -0500">
+    <title lang="en">LIVE: Los Angeles Kings @ New York Rangers</title>
+    <desc lang="en">The Los Angeles Kings (9-9-3) face off against the New York Rangers (10-6-3) at Madison Square Garden in a battle between two teams fighting for playoff positioning.</desc>
+    <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
   <programme channel="NHL.09.us2" start="20260120000100 -0500" stop="20260120235900 -0500">
