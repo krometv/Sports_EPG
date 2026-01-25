@@ -2082,21 +2082,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.048.us2" start="20260125000100 -0400" stop="20260125015500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Western Sydney Wanderers FC vs. Perth Glory - Event starts at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.048.us2" start="20260125015500 -0400" stop="20260125025500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Western Sydney Wanderers FC vs. Perth Glory - Starting at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.048.us2" start="20260125025500 -0400" stop="20260125062500 -0400">
-    <title lang="en">LIVE: Western Sydney Wanderers FC vs. Perth Glory</title>
-    <desc lang="en">Live sports action on ESPN+: Western Sydney Wanderers FC vs. Perth Glory. Event starts at 02:55am EDT.</desc>
+  <programme channel="ESPNPLUS.048.us2" start="20260125000100 -0500" stop="20260125235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -2124,165 +2112,165 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.051.us2" start="20260125000100 -0400" stop="20260125051000 -0400">
+  <programme channel="ESPNPLUS.051.us2" start="20260125000100 -0400" stop="20260125050500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Telstar vs. AZ - Event starts at 06:10am EDT</desc>
+    <desc lang="en">Telstar vs. AZ - Event starts at 06:05am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.051.us2" start="20260125051000 -0400" stop="20260125061000 -0400">
+  <programme channel="ESPNPLUS.051.us2" start="20260125050500 -0400" stop="20260125060500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Telstar vs. AZ - Starting at 06:10am EDT</desc>
+    <desc lang="en">Telstar vs. AZ - Starting at 06:05am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.051.us2" start="20260125061000 -0400" stop="20260125094000 -0400">
+  <programme channel="ESPNPLUS.051.us2" start="20260125060500 -0400" stop="20260125093500 -0400">
     <title lang="en">LIVE: Telstar vs. AZ</title>
-    <desc lang="en">Live sports action on ESPN+: Telstar vs. AZ. Event starts at 06:10am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Telstar vs. AZ. Event starts at 06:05am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.052.us2" start="20260125000100 -0400" stop="20260125055000 -0400">
+  <programme channel="ESPNPLUS.052.us2" start="20260125000100 -0400" stop="20260125054500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Aston Villa vs. Manchester United - Event starts at 06:50am EDT</desc>
+    <desc lang="en">Aston Villa vs. Manchester United - Event starts at 06:45am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.052.us2" start="20260125055000 -0400" stop="20260125065000 -0400">
+  <programme channel="ESPNPLUS.052.us2" start="20260125054500 -0400" stop="20260125064500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Aston Villa vs. Manchester United - Starting at 06:50am EDT</desc>
+    <desc lang="en">Aston Villa vs. Manchester United - Starting at 06:45am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.052.us2" start="20260125065000 -0400" stop="20260125102000 -0400">
+  <programme channel="ESPNPLUS.052.us2" start="20260125064500 -0400" stop="20260125101500 -0400">
     <title lang="en">LIVE: Aston Villa vs. Manchester United</title>
-    <desc lang="en">Live sports action on ESPN+: Aston Villa vs. Manchester United. Event starts at 06:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Aston Villa vs. Manchester United. Event starts at 06:45am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.053.us2" start="20260125000100 -0400" stop="20260125055000 -0400">
+  <programme channel="ESPNPLUS.053.us2" start="20260125000100 -0400" stop="20260125054500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">London City Lionesses vs. Manchester City - Event starts at 06:50am EDT</desc>
+    <desc lang="en">London City Lionesses vs. Manchester City - Event starts at 06:45am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.053.us2" start="20260125055000 -0400" stop="20260125065000 -0400">
+  <programme channel="ESPNPLUS.053.us2" start="20260125054500 -0400" stop="20260125064500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">London City Lionesses vs. Manchester City - Starting at 06:50am EDT</desc>
+    <desc lang="en">London City Lionesses vs. Manchester City - Starting at 06:45am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.053.us2" start="20260125065000 -0400" stop="20260125102000 -0400">
+  <programme channel="ESPNPLUS.053.us2" start="20260125064500 -0400" stop="20260125101500 -0400">
     <title lang="en">LIVE: London City Lionesses vs. Manchester City</title>
-    <desc lang="en">Live sports action on ESPN+: London City Lionesses vs. Manchester City. Event starts at 06:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: London City Lionesses vs. Manchester City. Event starts at 06:45am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260125000100 -0400" stop="20260125062500 -0400">
+  <programme channel="ESPNPLUS.054.us2" start="20260125000100 -0400" stop="20260125062000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">FC Schalke 04 vs. 1. FC Kaiserslautern - Event starts at 07:25am EDT</desc>
+    <desc lang="en">FC Schalke 04 vs. 1. FC Kaiserslautern - Event starts at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260125062500 -0400" stop="20260125072500 -0400">
+  <programme channel="ESPNPLUS.054.us2" start="20260125062000 -0400" stop="20260125072000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">FC Schalke 04 vs. 1. FC Kaiserslautern - Starting at 07:25am EDT</desc>
+    <desc lang="en">FC Schalke 04 vs. 1. FC Kaiserslautern - Starting at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260125072500 -0400" stop="20260125105500 -0400">
+  <programme channel="ESPNPLUS.054.us2" start="20260125072000 -0400" stop="20260125105000 -0400">
     <title lang="en">LIVE: FC Schalke 04 vs. 1. FC Kaiserslautern</title>
-    <desc lang="en">Live sports action on ESPN+: FC Schalke 04 vs. 1. FC Kaiserslautern. Event starts at 07:25am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: FC Schalke 04 vs. 1. FC Kaiserslautern. Event starts at 07:20am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.055.us2" start="20260125000100 -0400" stop="20260125062500 -0400">
+  <programme channel="ESPNPLUS.055.us2" start="20260125000100 -0400" stop="20260125062000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SC Paderborn 07 vs. Preußen Münster - Event starts at 07:25am EDT</desc>
+    <desc lang="en">SC Paderborn 07 vs. Preußen Münster - Event starts at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.055.us2" start="20260125062500 -0400" stop="20260125072500 -0400">
+  <programme channel="ESPNPLUS.055.us2" start="20260125062000 -0400" stop="20260125072000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SC Paderborn 07 vs. Preußen Münster - Starting at 07:25am EDT</desc>
+    <desc lang="en">SC Paderborn 07 vs. Preußen Münster - Starting at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.055.us2" start="20260125072500 -0400" stop="20260125105500 -0400">
+  <programme channel="ESPNPLUS.055.us2" start="20260125072000 -0400" stop="20260125105000 -0400">
     <title lang="en">LIVE: SC Paderborn 07 vs. Preußen Münster</title>
-    <desc lang="en">Live sports action on ESPN+: SC Paderborn 07 vs. Preußen Münster. Event starts at 07:25am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SC Paderborn 07 vs. Preußen Münster. Event starts at 07:20am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.056.us2" start="20260125000100 -0400" stop="20260125062500 -0400">
+  <programme channel="ESPNPLUS.056.us2" start="20260125000100 -0400" stop="20260125062000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SV Elversberg vs. Vfl Bochum 1848 - Event starts at 07:25am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Vfl Bochum 1848 - Event starts at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.056.us2" start="20260125062500 -0400" stop="20260125072500 -0400">
+  <programme channel="ESPNPLUS.056.us2" start="20260125062000 -0400" stop="20260125072000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SV Elversberg vs. Vfl Bochum 1848 - Starting at 07:25am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Vfl Bochum 1848 - Starting at 07:20am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.056.us2" start="20260125072500 -0400" stop="20260125105500 -0400">
+  <programme channel="ESPNPLUS.056.us2" start="20260125072000 -0400" stop="20260125105000 -0400">
     <title lang="en">LIVE: SV Elversberg vs. Vfl Bochum 1848</title>
-    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Vfl Bochum 1848. Event starts at 07:25am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Vfl Bochum 1848. Event starts at 07:20am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.057.us2" start="20260125000100 -0400" stop="20260125063000 -0400">
+  <programme channel="ESPNPLUS.057.us2" start="20260125000100 -0400" stop="20260125062800 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">F.C. Hansa Rostock vs. SV Waldhof Mannheim - Event starts at 07:30am EDT</desc>
+    <desc lang="en">F.C. Hansa Rostock vs. SV Waldhof Mannheim - Event starts at 07:28am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.057.us2" start="20260125063000 -0400" stop="20260125073000 -0400">
+  <programme channel="ESPNPLUS.057.us2" start="20260125062800 -0400" stop="20260125072800 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">F.C. Hansa Rostock vs. SV Waldhof Mannheim - Starting at 07:30am EDT</desc>
+    <desc lang="en">F.C. Hansa Rostock vs. SV Waldhof Mannheim - Starting at 07:28am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.057.us2" start="20260125073000 -0400" stop="20260125110000 -0400">
+  <programme channel="ESPNPLUS.057.us2" start="20260125072800 -0400" stop="20260125105800 -0400">
     <title lang="en">LIVE: F.C. Hansa Rostock vs. SV Waldhof Mannheim</title>
-    <desc lang="en">Live sports action on ESPN+: F.C. Hansa Rostock vs. SV Waldhof Mannheim. Event starts at 07:30am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: F.C. Hansa Rostock vs. SV Waldhof Mannheim. Event starts at 07:28am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.058.us2" start="20260125000100 -0400" stop="20260125065000 -0400">
+  <programme channel="ESPNPLUS.058.us2" start="20260125000100 -0400" stop="20260125065500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Atletico de Madrid vs. RCD Mallorca - Event starts at 07:50am EDT</desc>
+    <desc lang="en">Atletico de Madrid vs. RCD Mallorca - Event starts at 07:55am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.058.us2" start="20260125065000 -0400" stop="20260125075000 -0400">
+  <programme channel="ESPNPLUS.058.us2" start="20260125065500 -0400" stop="20260125075500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Atletico de Madrid vs. RCD Mallorca - Starting at 07:50am EDT</desc>
+    <desc lang="en">Atletico de Madrid vs. RCD Mallorca - Starting at 07:55am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.058.us2" start="20260125075000 -0400" stop="20260125112000 -0400">
+  <programme channel="ESPNPLUS.058.us2" start="20260125075500 -0400" stop="20260125112500 -0400">
     <title lang="en">LIVE: Atletico de Madrid vs. RCD Mallorca</title>
-    <desc lang="en">Live sports action on ESPN+: Atletico de Madrid vs. RCD Mallorca. Event starts at 07:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Atletico de Madrid vs. RCD Mallorca. Event starts at 07:55am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260125000100 -0400" stop="20260125065500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260125000100 -0400" stop="20260125065600 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">En Español-Atlético de Madrid vs. RCD Mallorca - Event starts at 07:55am EDT</desc>
+    <desc lang="en">En Español-Atlético de Madrid vs. RCD Mallorca - Event starts at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260125065500 -0400" stop="20260125075500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260125065600 -0400" stop="20260125075600 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">En Español-Atlético de Madrid vs. RCD Mallorca - Starting at 07:55am EDT</desc>
+    <desc lang="en">En Español-Atlético de Madrid vs. RCD Mallorca - Starting at 07:56am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260125075500 -0400" stop="20260125112500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260125075600 -0400" stop="20260125112600 -0400">
     <title lang="en">LIVE: En Español-Atlético de Madrid vs. RCD Mallorca</title>
-    <desc lang="en">Live sports action on ESPN+: En Español-Atlético de Madrid vs. RCD Mallorca. Event starts at 07:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: En Español-Atlético de Madrid vs. RCD Mallorca. Event starts at 07:56am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
