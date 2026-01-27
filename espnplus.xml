@@ -1836,15 +1836,39 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.007.us2" start="20260127000100 -0400" stop="20260127132000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">FC St. Pauli vs. RB Leipzig - Event starts at 02:20pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.007.us2" start="20260127132000 -0400" stop="20260127142000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">FC St. Pauli vs. RB Leipzig - Starting at 02:20pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.007.us2" start="20260127142000 -0400" stop="20260127175000 -0400">
+    <title lang="en">LIVE: FC St. Pauli vs. RB Leipzig</title>
+    <desc lang="en">Live sports action on ESPN+: FC St. Pauli vs. RB Leipzig. Event starts at 02:20pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.008.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.008.us2" start="20260127000100 -0400" stop="20260127132000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">SV Werder Bremen vs. TSG Hoffenheim - Event starts at 02:20pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.008.us2" start="20260127132000 -0400" stop="20260127142000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">SV Werder Bremen vs. TSG Hoffenheim - Starting at 02:20pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.008.us2" start="20260127142000 -0400" stop="20260127175000 -0400">
+    <title lang="en">LIVE: SV Werder Bremen vs. TSG Hoffenheim</title>
+    <desc lang="en">Live sports action on ESPN+: SV Werder Bremen vs. TSG Hoffenheim. Event starts at 02:20pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -1854,15 +1878,39 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.010.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.010.us2" start="20260127000100 -0400" stop="20260127153000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">New Orleans vs. Nicholls - Event starts at 04:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.010.us2" start="20260127153000 -0400" stop="20260127163000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">New Orleans vs. Nicholls - Starting at 04:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.010.us2" start="20260127163000 -0400" stop="20260127200000 -0400">
+    <title lang="en">LIVE: New Orleans vs. Nicholls</title>
+    <desc lang="en">Live sports action on ESPN+: New Orleans vs. Nicholls. Event starts at 04:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.011.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.011.us2" start="20260127000100 -0400" stop="20260127160000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Florida Atlantic vs. Tulsa - Event starts at 05:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.011.us2" start="20260127160000 -0400" stop="20260127170000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Florida Atlantic vs. Tulsa - Starting at 05:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.011.us2" start="20260127170000 -0400" stop="20260127203000 -0400">
+    <title lang="en">LIVE: Florida Atlantic vs. Tulsa</title>
+    <desc lang="en">Live sports action on ESPN+: Florida Atlantic vs. Tulsa. Event starts at 05:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -1878,9 +1926,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.014.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.014.us2" start="20260127000100 -0400" stop="20260127170000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Wichita State vs. East Carolina - Event starts at 06:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.014.us2" start="20260127170000 -0400" stop="20260127180000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Wichita State vs. East Carolina - Starting at 06:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.014.us2" start="20260127180000 -0400" stop="20260127213000 -0400">
+    <title lang="en">LIVE: Wichita State vs. East Carolina</title>
+    <desc lang="en">Live sports action on ESPN+: Wichita State vs. East Carolina. Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -1890,33 +1950,93 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.016.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.016.us2" start="20260127000100 -0400" stop="20260127170000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Tennessee Tech vs. Tennessee State - Event starts at 06:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.016.us2" start="20260127170000 -0400" stop="20260127180000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Tennessee Tech vs. Tennessee State - Starting at 06:00pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.016.us2" start="20260127180000 -0400" stop="20260127213000 -0400">
+    <title lang="en">LIVE: Tennessee Tech vs. Tennessee State</title>
+    <desc lang="en">Live sports action on ESPN+: Tennessee Tech vs. Tennessee State. Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.017.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.017.us2" start="20260127000100 -0400" stop="20260127173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Nashville Predators vs. Boston Bruins - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.017.us2" start="20260127173000 -0400" stop="20260127183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Nashville Predators vs. Boston Bruins - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.017.us2" start="20260127183000 -0400" stop="20260127220000 -0400">
+    <title lang="en">LIVE: Nashville Predators vs. Boston Bruins</title>
+    <desc lang="en">Live sports action on ESPN+: Nashville Predators vs. Boston Bruins. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.018.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.018.us2" start="20260127000100 -0400" stop="20260127173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Utah Mammoth vs. Florida Panthers - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.018.us2" start="20260127173000 -0400" stop="20260127183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Utah Mammoth vs. Florida Panthers - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.018.us2" start="20260127183000 -0400" stop="20260127220000 -0400">
+    <title lang="en">LIVE: Utah Mammoth vs. Florida Panthers</title>
+    <desc lang="en">Live sports action on ESPN+: Utah Mammoth vs. Florida Panthers. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.019.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.019.us2" start="20260127000100 -0400" stop="20260127173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Los Angeles Kings vs. Detroit Red Wings - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.019.us2" start="20260127173000 -0400" stop="20260127183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Los Angeles Kings vs. Detroit Red Wings - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.019.us2" start="20260127183000 -0400" stop="20260127220000 -0400">
+    <title lang="en">LIVE: Los Angeles Kings vs. Detroit Red Wings</title>
+    <desc lang="en">Live sports action on ESPN+: Los Angeles Kings vs. Detroit Red Wings. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.020.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.020.us2" start="20260127000100 -0400" stop="20260127173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Vegas Golden Knights vs. Montreal Canadiens - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.020.us2" start="20260127173000 -0400" stop="20260127183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Vegas Golden Knights vs. Montreal Canadiens - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.020.us2" start="20260127183000 -0400" stop="20260127220000 -0400">
+    <title lang="en">LIVE: Vegas Golden Knights vs. Montreal Canadiens</title>
+    <desc lang="en">Live sports action on ESPN+: Vegas Golden Knights vs. Montreal Canadiens. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
