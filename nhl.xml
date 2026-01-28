@@ -300,21 +300,75 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 50</display-name>
   </channel>
-  <programme channel="NHL.01.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.01.us2" start="20260128000100 -0500" stop="20260128180000 -0500">
+    <title lang="en">Game Later Today - New York Islanders @ New York Rangers</title>
+    <desc lang="en">New York Islanders visit the New York Rangers at 07:00pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.01.us2" start="20260128180000 -0500" stop="20260128190000 -0500">
+    <title lang="en">Game Starting Soon - New York Islanders @ New York Rangers</title>
+    <desc lang="en">Coming up: New York Islanders vs New York Rangers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.01.us2" start="20260128190000 -0500" stop="20260128223000 -0500">
+    <title lang="en">LIVE: New York Islanders @ New York Rangers</title>
+    <desc lang="en">The New York Islanders (20-10-5) take on the New York Rangers (17-15-3) at Madison Square Garden in a battle for bragging rights in the Big Apple.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.01.us2" start="20260128223000 -0500" stop="20260128235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">New York Rangers vs New York Islanders has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.02.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.02.us2" start="20260128000100 -0500" stop="20260128183000 -0500">
+    <title lang="en">Game Later Today - Columbus Blue Jackets @ Philadelphia Flyers</title>
+    <desc lang="en">Columbus Blue Jackets visit the Philadelphia Flyers at 07:30pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260128183000 -0500" stop="20260128193000 -0500">
+    <title lang="en">Game Starting Soon - Columbus Blue Jackets @ Philadelphia Flyers</title>
+    <desc lang="en">Coming up: Columbus Blue Jackets vs Philadelphia Flyers. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260128193000 -0500" stop="20260128230000 -0500">
+    <title lang="en">LIVE: Columbus Blue Jackets @ Philadelphia Flyers</title>
+    <desc lang="en">The Columbus Blue Jackets (16-9-0) face off against the Philadelphia Flyers (13-11-3) at the Wells Fargo Center in a battle between two Eastern Conference contenders jockeying for playoff position.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.02.us2" start="20260128230000 -0500" stop="20260128235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Philadelphia Flyers vs Columbus Blue Jackets has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.03.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
-    <title lang="en">No Games Scheduled Today - Channel Offline</title>
-    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+  <programme channel="NHL.03.us2" start="20260128000100 -0500" stop="20260128183000 -0500">
+    <title lang="en">Game Later Today - Ottawa Senators @ Colorado Avalanche</title>
+    <desc lang="en">Ottawa Senators visit the Colorado Avalanche at 07:30pm EST. Tune in later for live coverage.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.03.us2" start="20260128183000 -0500" stop="20260128193000 -0500">
+    <title lang="en">Game Starting Soon - Ottawa Senators @ Colorado Avalanche</title>
+    <desc lang="en">Coming up: Ottawa Senators vs Colorado Avalanche. Pre-game coverage and analysis begins now.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.03.us2" start="20260128193000 -0500" stop="20260128230000 -0500">
+    <title lang="en">LIVE: Ottawa Senators @ Colorado Avalanche</title>
+    <desc lang="en">The Ottawa Senators (12-18-1) face off against the Colorado Avalanche (17-9-3) at the Ball Arena in a clash of Eastern vs. Western Conference teams looking to secure a crucial win.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.03.us2" start="20260128230000 -0500" stop="20260128235900 -0500">
+    <title lang="en">Game Ended</title>
+    <desc lang="en">Colorado Avalanche vs Ottawa Senators has concluded. Check back tomorrow for more NHL action.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
