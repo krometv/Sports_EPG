@@ -300,469 +300,301 @@
     <url>http://www.nhl.com</url>
     <display-name lang="en">NHL 50</display-name>
   </channel>
-  <programme channel="NHL.01.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - Florida Panthers @ Utah Hockey Club</title>
-    <desc lang="en">Florida Panthers visit the Utah Hockey Club at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.01.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - Florida Panthers @ Utah Hockey Club</title>
-    <desc lang="en">Coming up: Florida Panthers vs Utah Hockey Club. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.01.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: Florida Panthers @ Utah Hockey Club</title>
-    <desc lang="en">The Florida Panthers (24-14-5) take on the Utah Hockey Club (18-21-4) at the Rocky Mountain Arena in a clash between two teams hungry for a crucial win in the playoff race.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.01.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Utah Hockey Club vs Florida Panthers has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.02.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - Toronto Maple Leafs @ Buffalo Sabres</title>
-    <desc lang="en">Toronto Maple Leafs visit the Buffalo Sabres at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.02.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - Toronto Maple Leafs @ Buffalo Sabres</title>
-    <desc lang="en">Coming up: Toronto Maple Leafs vs Buffalo Sabres. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.02.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: Toronto Maple Leafs @ Buffalo Sabres</title>
-    <desc lang="en">The Toronto Maple Leafs (34-14-5) face off against the Buffalo Sabres (17-32-8) at KeyBank Center in a clash of division rivals looking to secure crucial points in the playoff race.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.02.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Buffalo Sabres vs Toronto Maple Leafs has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.03.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - New Jersey Devils @ Winnipeg Jets</title>
-    <desc lang="en">New Jersey Devils visit the Winnipeg Jets at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.03.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - New Jersey Devils @ Winnipeg Jets</title>
-    <desc lang="en">Coming up: New Jersey Devils vs Winnipeg Jets. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.03.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: New Jersey Devils @ Winnipeg Jets</title>
-    <desc lang="en">The New Jersey Devils (8-5-2) face off against the Winnipeg Jets (7-6-2) at Bell MTS Place in a battle between two teams looking to climb up the standings.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.03.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Winnipeg Jets vs New Jersey Devils has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.04.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - Montreal Canadiens @ Vegas Golden Knights</title>
-    <desc lang="en">Montreal Canadiens visit the Vegas Golden Knights at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.04.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - Montreal Canadiens @ Vegas Golden Knights</title>
-    <desc lang="en">Coming up: Montreal Canadiens vs Vegas Golden Knights. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.04.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: Montreal Canadiens @ Vegas Golden Knights</title>
-    <desc lang="en">The Montreal Canadiens (14-8-9) take on the Vegas Golden Knights (16-8-1) at T-Mobile Arena in a battle of two strong teams looking to secure a key victory.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.04.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Vegas Golden Knights vs Montreal Canadiens has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.05.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - Detroit Red Wings @ Los Angeles Kings</title>
-    <desc lang="en">Detroit Red Wings visit the Los Angeles Kings at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.05.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - Detroit Red Wings @ Los Angeles Kings</title>
-    <desc lang="en">Coming up: Detroit Red Wings vs Los Angeles Kings. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.05.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: Detroit Red Wings @ Los Angeles Kings</title>
-    <desc lang="en">The (16-22-6) Detroit Red Wings face off against the (19-21-6) Los Angeles Kings at the Staples Center in a battle between two struggling teams looking to gain ground in the standings.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.05.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Los Angeles Kings vs Detroit Red Wings has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.06.us2" start="20260127000100 -0500" stop="20260127180000 -0500">
-    <title lang="en">Game Later Today - Boston Bruins @ Nashville Predators</title>
-    <desc lang="en">Boston Bruins visit the Nashville Predators at 07:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.06.us2" start="20260127180000 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Starting Soon - Boston Bruins @ Nashville Predators</title>
-    <desc lang="en">Coming up: Boston Bruins vs Nashville Predators. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.06.us2" start="20260127190000 -0500" stop="20260127223000 -0500">
-    <title lang="en">LIVE: Boston Bruins @ Nashville Predators</title>
-    <desc lang="en">The Boston Bruins (24-13-1) face off against the Nashville Predators (21-16-3) at Bridgestone Arena in a clash of two playoff contenders looking to secure a crucial victory.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.06.us2" start="20260127223000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Nashville Predators vs Boston Bruins has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.07.us2" start="20260127000100 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Later Today - Minnesota Wild @ Chicago Blackhawks</title>
-    <desc lang="en">Minnesota Wild visit the Chicago Blackhawks at 08:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.07.us2" start="20260127190000 -0500" stop="20260127200000 -0500">
-    <title lang="en">Game Starting Soon - Minnesota Wild @ Chicago Blackhawks</title>
-    <desc lang="en">Coming up: Minnesota Wild vs Chicago Blackhawks. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.07.us2" start="20260127200000 -0500" stop="20260127233000 -0500">
-    <title lang="en">LIVE: Minnesota Wild @ Chicago Blackhawks</title>
-    <desc lang="en">The Minnesota Wild (14-6-1) take on the Chicago Blackhawks (7-10-4) at the United Center in a clash of Central Division rivals looking to secure a crucial win.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.07.us2" start="20260127233000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Chicago Blackhawks vs Minnesota Wild has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.08.us2" start="20260127000100 -0500" stop="20260127190000 -0500">
-    <title lang="en">Game Later Today - St. Louis Blues @ Dallas Stars</title>
-    <desc lang="en">St. Louis Blues visit the Dallas Stars at 08:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.08.us2" start="20260127190000 -0500" stop="20260127200000 -0500">
-    <title lang="en">Game Starting Soon - St. Louis Blues @ Dallas Stars</title>
-    <desc lang="en">Coming up: St. Louis Blues vs Dallas Stars. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.08.us2" start="20260127200000 -0500" stop="20260127233000 -0500">
-    <title lang="en">LIVE: St. Louis Blues @ Dallas Stars</title>
-    <desc lang="en">St. Louis Blues (22-11-5) face off against the Dallas Stars (20-14-6) at the American Airlines Center in a Central Division showdown with playoff implications on the line.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.08.us2" start="20260127233000 -0500" stop="20260127235900 -0500">
-    <title lang="en">Game Ended</title>
-    <desc lang="en">Dallas Stars vs St. Louis Blues has concluded. Check back tomorrow for more NHL action.</desc>
-    <category lang="en">Off Air</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.09.us2" start="20260127000100 -0500" stop="20260127210000 -0500">
-    <title lang="en">Game Later Today - Seattle Kraken @ Washington Capitals</title>
-    <desc lang="en">Seattle Kraken visit the Washington Capitals at 10:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.09.us2" start="20260127210000 -0500" stop="20260127220000 -0500">
-    <title lang="en">Game Starting Soon - Seattle Kraken @ Washington Capitals</title>
-    <desc lang="en">Coming up: Seattle Kraken vs Washington Capitals. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.09.us2" start="20260127220000 -0500" stop="20260128013000 -0500">
-    <title lang="en">LIVE: Seattle Kraken @ Washington Capitals</title>
-    <desc lang="en">The Seattle Kraken (5-7-1) face off against the Washington Capitals (8-2-4) at Capital One Arena in a battle between the new expansion team and the Stanley Cup contenders.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.10.us2" start="20260127000100 -0500" stop="20260127210000 -0500">
-    <title lang="en">Game Later Today - Vancouver Canucks @ San Jose Sharks</title>
-    <desc lang="en">Vancouver Canucks visit the San Jose Sharks at 10:00pm EST. Tune in later for live coverage.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.10.us2" start="20260127210000 -0500" stop="20260127220000 -0500">
-    <title lang="en">Game Starting Soon - Vancouver Canucks @ San Jose Sharks</title>
-    <desc lang="en">Coming up: Vancouver Canucks vs San Jose Sharks. Pre-game coverage and analysis begins now.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.10.us2" start="20260127220000 -0500" stop="20260128013000 -0500">
-    <title lang="en">LIVE: Vancouver Canucks @ San Jose Sharks</title>
-    <desc lang="en">Tonight, the Vancouver Canucks (17-17-2) take on the San Jose Sharks (18-16-3) at the SAP Center in a Pacific Division showdown between two teams fighting for a playoff spot.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="NHL.11.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.01.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.12.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.02.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.13.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.03.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.14.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.04.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.15.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.05.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.16.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.06.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.17.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.07.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.18.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.08.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.19.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.09.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.20.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.10.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.21.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.11.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.22.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.12.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.23.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.13.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.24.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.14.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.25.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.15.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.26.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.16.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.27.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.17.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.28.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.18.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.29.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.19.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.30.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.20.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.31.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.21.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.32.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.22.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.33.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.23.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.34.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.24.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.35.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.25.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.36.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.26.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.37.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.27.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.38.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.28.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.39.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.29.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.40.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.30.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.41.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.31.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.42.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.32.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.43.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.33.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.44.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.34.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.45.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.35.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.46.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.36.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.47.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.37.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.48.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.38.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.49.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.39.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
     <previously-shown/>
   </programme>
-  <programme channel="NHL.50.us2" start="20260127000100 -0500" stop="20260127235900 -0500">
+  <programme channel="NHL.40.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.41.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.42.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.43.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.44.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.45.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.46.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.47.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.48.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.49.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
+    <title lang="en">No Games Scheduled Today - Channel Offline</title>
+    <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
+    <category lang="en">Off Air</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="NHL.50.us2" start="20260128000100 -0500" stop="20260128235900 -0500">
     <title lang="en">No Games Scheduled Today - Channel Offline</title>
     <desc lang="en">No NHL games are scheduled on this channel today. Please check back tomorrow.</desc>
     <category lang="en">Off Air</category>
