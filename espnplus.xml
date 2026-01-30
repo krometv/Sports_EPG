@@ -2580,39 +2580,15 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.125.us2" start="20260130000100 -0400" stop="20260130025500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Brisbane Roar FC vs. Central Coast Mariners FC - Event starts at 03:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.125.us2" start="20260130025500 -0400" stop="20260130035500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Brisbane Roar FC vs. Central Coast Mariners FC - Starting at 03:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.125.us2" start="20260130035500 -0400" stop="20260130072500 -0400">
-    <title lang="en">LIVE: Brisbane Roar FC vs. Central Coast Mariners FC</title>
-    <desc lang="en">Live sports action on ESPN+: Brisbane Roar FC vs. Central Coast Mariners FC. Event starts at 03:55am EDT.</desc>
+  <programme channel="ESPNPLUS.125.us2" start="20260130000100 -0500" stop="20260130235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.126.us2" start="20260130000100 -0400" stop="20260130030000 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Adelaide United vs. Macarthur FC - Event starts at 04:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.126.us2" start="20260130030000 -0400" stop="20260130040000 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Adelaide United vs. Macarthur FC - Starting at 04:00am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.126.us2" start="20260130040000 -0400" stop="20260130073000 -0400">
-    <title lang="en">LIVE: Adelaide United vs. Macarthur FC</title>
-    <desc lang="en">Live sports action on ESPN+: Adelaide United vs. Macarthur FC. Event starts at 04:00am EDT.</desc>
+  <programme channel="ESPNPLUS.126.us2" start="20260130000100 -0500" stop="20260130235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
