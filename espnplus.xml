@@ -2118,21 +2118,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260131000100 -0400" stop="20260131023500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Sydney FC vs. Western Sydney Wanderers FC - Event starts at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260131023500 -0400" stop="20260131033500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Sydney FC vs. Western Sydney Wanderers FC - Starting at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260131033500 -0400" stop="20260131070500 -0400">
-    <title lang="en">LIVE: Sydney FC vs. Western Sydney Wanderers FC</title>
-    <desc lang="en">Live sports action on ESPN+: Sydney FC vs. Western Sydney Wanderers FC. Event starts at 03:35am EDT.</desc>
+  <programme channel="ESPNPLUS.054.us2" start="20260131000100 -0500" stop="20260131235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -2172,93 +2160,93 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260131000100 -0400" stop="20260131055500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260131000100 -0400" stop="20260131055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Vfl Bochum 1848 vs. FC Schalke 04 - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Vfl Bochum 1848 vs. FC Schalke 04 - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260131055500 -0400" stop="20260131065500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260131055000 -0400" stop="20260131065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Vfl Bochum 1848 vs. FC Schalke 04 - Starting at 06:55am EDT</desc>
+    <desc lang="en">Vfl Bochum 1848 vs. FC Schalke 04 - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260131065500 -0400" stop="20260131102500 -0400">
+  <programme channel="ESPNPLUS.059.us2" start="20260131065000 -0400" stop="20260131102000 -0400">
     <title lang="en">LIVE: Vfl Bochum 1848 vs. FC Schalke 04</title>
-    <desc lang="en">Live sports action on ESPN+: Vfl Bochum 1848 vs. FC Schalke 04. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Vfl Bochum 1848 vs. FC Schalke 04. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260131000100 -0400" stop="20260131055500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260131000100 -0400" stop="20260131055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Holstein Kiel vs. SpVgg Greuther Fürth - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Holstein Kiel vs. SpVgg Greuther Fürth - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260131055500 -0400" stop="20260131065500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260131055000 -0400" stop="20260131065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Holstein Kiel vs. SpVgg Greuther Fürth - Starting at 06:55am EDT</desc>
+    <desc lang="en">Holstein Kiel vs. SpVgg Greuther Fürth - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260131065500 -0400" stop="20260131102500 -0400">
+  <programme channel="ESPNPLUS.060.us2" start="20260131065000 -0400" stop="20260131102000 -0400">
     <title lang="en">LIVE: Holstein Kiel vs. SpVgg Greuther Fürth</title>
-    <desc lang="en">Live sports action on ESPN+: Holstein Kiel vs. SpVgg Greuther Fürth. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Holstein Kiel vs. SpVgg Greuther Fürth. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260131000100 -0400" stop="20260131055500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260131000100 -0400" stop="20260131055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Eintracht Braunschweig vs. Karlsruher SC - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Eintracht Braunschweig vs. Karlsruher SC - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260131055500 -0400" stop="20260131065500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260131055000 -0400" stop="20260131065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Eintracht Braunschweig vs. Karlsruher SC - Starting at 06:55am EDT</desc>
+    <desc lang="en">Eintracht Braunschweig vs. Karlsruher SC - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260131065500 -0400" stop="20260131102500 -0400">
+  <programme channel="ESPNPLUS.061.us2" start="20260131065000 -0400" stop="20260131102000 -0400">
     <title lang="en">LIVE: Eintracht Braunschweig vs. Karlsruher SC</title>
-    <desc lang="en">Live sports action on ESPN+: Eintracht Braunschweig vs. Karlsruher SC. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Eintracht Braunschweig vs. Karlsruher SC. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260131000100 -0400" stop="20260131065000 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260131000100 -0400" stop="20260131064700 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Real Oviedo vs. Girona FC - Event starts at 07:50am EDT</desc>
+    <desc lang="en">Real Oviedo vs. Girona FC - Event starts at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260131065000 -0400" stop="20260131075000 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260131064700 -0400" stop="20260131074700 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Real Oviedo vs. Girona FC - Starting at 07:50am EDT</desc>
+    <desc lang="en">Real Oviedo vs. Girona FC - Starting at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260131075000 -0400" stop="20260131112000 -0400">
+  <programme channel="ESPNPLUS.062.us2" start="20260131074700 -0400" stop="20260131111700 -0400">
     <title lang="en">LIVE: Real Oviedo vs. Girona FC</title>
-    <desc lang="en">Live sports action on ESPN+: Real Oviedo vs. Girona FC. Event starts at 07:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Real Oviedo vs. Girona FC. Event starts at 07:47am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.063.us2" start="20260131000100 -0400" stop="20260131065500 -0400">
+  <programme channel="ESPNPLUS.063.us2" start="20260131000100 -0400" stop="20260131064700 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">En Español-Real Oviedo vs. Girona FC - Event starts at 07:55am EDT</desc>
+    <desc lang="en">En Español-Real Oviedo vs. Girona FC - Event starts at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.063.us2" start="20260131065500 -0400" stop="20260131075500 -0400">
+  <programme channel="ESPNPLUS.063.us2" start="20260131064700 -0400" stop="20260131074700 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">En Español-Real Oviedo vs. Girona FC - Starting at 07:55am EDT</desc>
+    <desc lang="en">En Español-Real Oviedo vs. Girona FC - Starting at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.063.us2" start="20260131075500 -0400" stop="20260131112500 -0400">
+  <programme channel="ESPNPLUS.063.us2" start="20260131074700 -0400" stop="20260131111700 -0400">
     <title lang="en">LIVE: En Español-Real Oviedo vs. Girona FC</title>
-    <desc lang="en">Live sports action on ESPN+: En Español-Real Oviedo vs. Girona FC. Event starts at 07:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: En Español-Real Oviedo vs. Girona FC. Event starts at 07:47am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -3618,21 +3606,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.146.us2" start="20260131000100 -0400" stop="20260131130000 -0400">
+  <programme channel="ESPNPLUS.146.us2" start="20260131000100 -0400" stop="20260131120000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">South Alabama vs. James Madison - Event starts at 02:00pm EDT</desc>
+    <desc lang="en">South Alabama vs. James Madison - Event starts at 01:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.146.us2" start="20260131130000 -0400" stop="20260131140000 -0400">
+  <programme channel="ESPNPLUS.146.us2" start="20260131120000 -0400" stop="20260131130000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">South Alabama vs. James Madison - Starting at 02:00pm EDT</desc>
+    <desc lang="en">South Alabama vs. James Madison - Starting at 01:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.146.us2" start="20260131140000 -0400" stop="20260131173000 -0400">
+  <programme channel="ESPNPLUS.146.us2" start="20260131130000 -0400" stop="20260131163000 -0400">
     <title lang="en">LIVE: South Alabama vs. James Madison</title>
-    <desc lang="en">Live sports action on ESPN+: South Alabama vs. James Madison. Event starts at 02:00pm EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: South Alabama vs. James Madison. Event starts at 01:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
