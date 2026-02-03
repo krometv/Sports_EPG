@@ -1800,1909 +1800,1993 @@
     <url>https://www.espn.com/espnplus</url>
     <display-name lang="en">ESPN+ 300</display-name>
   </channel>
-  <programme channel="ESPNPLUS.001.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.001.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.002.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.002.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.003.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.003.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.004.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.004.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.005.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.005.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260202000100 -0400" stop="20260202135000 -0400">
+  <programme channel="ESPNPLUS.006.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.007.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.008.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.009.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.010.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.011.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.012.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.013.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.014.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.015.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.016.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.017.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.018.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.019.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.020.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.021.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.022.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.023.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.024.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.025.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.026.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.027.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.028.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.029.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.030.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.031.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.032.us2" start="20260203000100 -0400" stop="20260203133000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">RCD Mallorca vs. Sevilla FC - Event starts at 02:50pm EDT</desc>
+    <desc lang="en">En Español-Bayer 04 Leverkusen vs. FC St Pauli (German Cup) - Event starts at 02:30pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260202135000 -0400" stop="20260202145000 -0400">
+  <programme channel="ESPNPLUS.032.us2" start="20260203133000 -0400" stop="20260203143000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">RCD Mallorca vs. Sevilla FC - Starting at 02:50pm EDT</desc>
+    <desc lang="en">En Español-Bayer 04 Leverkusen vs. FC St Pauli (German Cup) - Starting at 02:30pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260202145000 -0400" stop="20260202182000 -0400">
-    <title lang="en">LIVE: RCD Mallorca vs. Sevilla FC</title>
-    <desc lang="en">Live sports action on ESPN+: RCD Mallorca vs. Sevilla FC. Event starts at 02:50pm EDT.</desc>
+  <programme channel="ESPNPLUS.032.us2" start="20260203143000 -0400" stop="20260203180000 -0400">
+    <title lang="en">LIVE: En Español-Bayer 04 Leverkusen vs. FC St Pauli (German Cup)</title>
+    <desc lang="en">Live sports action on ESPN+: En Español-Bayer 04 Leverkusen vs. FC St Pauli (German Cup). Event starts at 02:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260202000100 -0400" stop="20260202135500 -0400">
+  <programme channel="ESPNPLUS.033.us2" start="20260203000100 -0400" stop="20260203133500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">En EspaÃ±ol-RCD Mallorca vs. Sevilla FC - Event starts at 02:55pm EDT</desc>
+    <desc lang="en">Bayer 04 Leverkusen vs. FC St. Pauli (Quarterfinals) (German Cup) - Event starts at 02:35pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260202135500 -0400" stop="20260202145500 -0400">
+  <programme channel="ESPNPLUS.033.us2" start="20260203133500 -0400" stop="20260203143500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">En EspaÃ±ol-RCD Mallorca vs. Sevilla FC - Starting at 02:55pm EDT</desc>
+    <desc lang="en">Bayer 04 Leverkusen vs. FC St. Pauli (Quarterfinals) (German Cup) - Starting at 02:35pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260202145500 -0400" stop="20260202182500 -0400">
-    <title lang="en">LIVE: En EspaÃ±ol-RCD Mallorca vs. Sevilla FC</title>
-    <desc lang="en">Live sports action on ESPN+: En EspaÃ±ol-RCD Mallorca vs. Sevilla FC. Event starts at 02:55pm EDT.</desc>
+  <programme channel="ESPNPLUS.033.us2" start="20260203143500 -0400" stop="20260203180500 -0400">
+    <title lang="en">LIVE: Bayer 04 Leverkusen vs. FC St. Pauli (Quarterfinals) (German Cup)</title>
+    <desc lang="en">Live sports action on ESPN+: Bayer 04 Leverkusen vs. FC St. Pauli (Quarterfinals) (German Cup). Event starts at 02:35pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.008.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.009.us2" start="20260202000100 -0400" stop="20260202160000 -0400">
+  <programme channel="ESPNPLUS.034.us2" start="20260203000100 -0400" stop="20260203135000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Harvard vs. #13 Boston College - Event starts at 05:00pm EDT</desc>
+    <desc lang="en">Albacete vs. FC Barcelona (Quarterfinal) (Copa del Rey) - Event starts at 02:50pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.009.us2" start="20260202160000 -0400" stop="20260202170000 -0400">
+  <programme channel="ESPNPLUS.034.us2" start="20260203135000 -0400" stop="20260203145000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Harvard vs. #13 Boston College - Starting at 05:00pm EDT</desc>
+    <desc lang="en">Albacete vs. FC Barcelona (Quarterfinal) (Copa del Rey) - Starting at 02:50pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.009.us2" start="20260202170000 -0400" stop="20260202203000 -0400">
-    <title lang="en">LIVE: Harvard vs. #13 Boston College</title>
-    <desc lang="en">Live sports action on ESPN+: Harvard vs. #13 Boston College. Event starts at 05:00pm EDT.</desc>
+  <programme channel="ESPNPLUS.034.us2" start="20260203145000 -0400" stop="20260203182000 -0400">
+    <title lang="en">LIVE: Albacete vs. FC Barcelona (Quarterfinal) (Copa del Rey)</title>
+    <desc lang="en">Live sports action on ESPN+: Albacete vs. FC Barcelona (Quarterfinal) (Copa del Rey). Event starts at 02:50pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.010.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.011.us2" start="20260202000100 -0400" stop="20260202130000 -0400">
+  <programme channel="ESPNPLUS.035.us2" start="20260203000100 -0400" stop="20260203135000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Maryland-Eastern Shore vs. North Carolina Central - Event starts at 02:00pm EDT</desc>
+    <desc lang="en">En Español-Albacete vs. FC Barcelona (Copa del Rey) - Event starts at 02:50pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.011.us2" start="20260202130000 -0400" stop="20260202140000 -0400">
+  <programme channel="ESPNPLUS.035.us2" start="20260203135000 -0400" stop="20260203145000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Maryland-Eastern Shore vs. North Carolina Central - Starting at 02:00pm EDT</desc>
+    <desc lang="en">En Español-Albacete vs. FC Barcelona (Copa del Rey) - Starting at 02:50pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.011.us2" start="20260202140000 -0400" stop="20260202173000 -0400">
-    <title lang="en">LIVE: Maryland-Eastern Shore vs. North Carolina Central</title>
-    <desc lang="en">Live sports action on ESPN+: Maryland-Eastern Shore vs. North Carolina Central. Event starts at 02:00pm EDT.</desc>
+  <programme channel="ESPNPLUS.035.us2" start="20260203145000 -0400" stop="20260203182000 -0400">
+    <title lang="en">LIVE: En Español-Albacete vs. FC Barcelona (Copa del Rey)</title>
+    <desc lang="en">Live sports action on ESPN+: En Español-Albacete vs. FC Barcelona (Copa del Rey). Event starts at 02:50pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.012.us2" start="20260202000100 -0400" stop="20260202170000 -0400">
+  <programme channel="ESPNPLUS.036.us2" start="20260203000100 -0400" stop="20260203125500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Tennessee Tech vs. Tennessee State - Event starts at 06:00pm EDT</desc>
+    <desc lang="en">AZ vs. FC Twente (Quarterfinals) - Event starts at 01:55pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.012.us2" start="20260202170000 -0400" stop="20260202180000 -0400">
+  <programme channel="ESPNPLUS.036.us2" start="20260203125500 -0400" stop="20260203135500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Tennessee Tech vs. Tennessee State - Starting at 06:00pm EDT</desc>
+    <desc lang="en">AZ vs. FC Twente (Quarterfinals) - Starting at 01:55pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.012.us2" start="20260202180000 -0400" stop="20260202213000 -0400">
-    <title lang="en">LIVE: Tennessee Tech vs. Tennessee State</title>
-    <desc lang="en">Live sports action on ESPN+: Tennessee Tech vs. Tennessee State. Event starts at 06:00pm EDT.</desc>
+  <programme channel="ESPNPLUS.036.us2" start="20260203135500 -0400" stop="20260203172500 -0400">
+    <title lang="en">LIVE: AZ vs. FC Twente (Quarterfinals)</title>
+    <desc lang="en">Live sports action on ESPN+: AZ vs. FC Twente (Quarterfinals). Event starts at 01:55pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.013.us2" start="20260202000100 -0400" stop="20260202170000 -0400">
+  <programme channel="ESPNPLUS.037.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.038.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.039.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+    <category lang="en">Sports</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.040.us2" start="20260203000100 -0400" stop="20260203170000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Gardner-Webb vs. Charleston Southern - Event starts at 06:00pm EDT</desc>
+    <desc lang="en">Washington Adventist vs. Coppin State - Event starts at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.013.us2" start="20260202170000 -0400" stop="20260202180000 -0400">
+  <programme channel="ESPNPLUS.040.us2" start="20260203170000 -0400" stop="20260203180000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Gardner-Webb vs. Charleston Southern - Starting at 06:00pm EDT</desc>
+    <desc lang="en">Washington Adventist vs. Coppin State - Starting at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.013.us2" start="20260202180000 -0400" stop="20260202213000 -0400">
-    <title lang="en">LIVE: Gardner-Webb vs. Charleston Southern</title>
-    <desc lang="en">Live sports action on ESPN+: Gardner-Webb vs. Charleston Southern. Event starts at 06:00pm EDT.</desc>
+  <programme channel="ESPNPLUS.040.us2" start="20260203180000 -0400" stop="20260203213000 -0400">
+    <title lang="en">LIVE: Washington Adventist vs. Coppin State</title>
+    <desc lang="en">Live sports action on ESPN+: Washington Adventist vs. Coppin State. Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.014.us2" start="20260202000100 -0400" stop="20260202173000 -0400">
+  <programme channel="ESPNPLUS.041.us2" start="20260203000100 -0400" stop="20260203170000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">New York Islanders vs. Washington Capitals - Event starts at 06:30pm EDT</desc>
+    <desc lang="en">Oakland vs. Northern Kentucky - Event starts at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.014.us2" start="20260202173000 -0400" stop="20260202183000 -0400">
+  <programme channel="ESPNPLUS.041.us2" start="20260203170000 -0400" stop="20260203180000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">New York Islanders vs. Washington Capitals - Starting at 06:30pm EDT</desc>
+    <desc lang="en">Oakland vs. Northern Kentucky - Starting at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.014.us2" start="20260202183000 -0400" stop="20260202220000 -0400">
-    <title lang="en">LIVE: New York Islanders vs. Washington Capitals</title>
-    <desc lang="en">Live sports action on ESPN+: New York Islanders vs. Washington Capitals. Event starts at 06:30pm EDT.</desc>
+  <programme channel="ESPNPLUS.041.us2" start="20260203180000 -0400" stop="20260203213000 -0400">
+    <title lang="en">LIVE: Oakland vs. Northern Kentucky</title>
+    <desc lang="en">Live sports action on ESPN+: Oakland vs. Northern Kentucky. Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.015.us2" start="20260202000100 -0400" stop="20260202173000 -0400">
+  <programme channel="ESPNPLUS.042.us2" start="20260203000100 -0400" stop="20260203170000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Buffalo Sabres vs. Florida Panthers - Event starts at 06:30pm EDT</desc>
+    <desc lang="en">SIUE vs. Lindenwood - Event starts at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.015.us2" start="20260202173000 -0400" stop="20260202183000 -0400">
+  <programme channel="ESPNPLUS.042.us2" start="20260203170000 -0400" stop="20260203180000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Buffalo Sabres vs. Florida Panthers - Starting at 06:30pm EDT</desc>
+    <desc lang="en">SIUE vs. Lindenwood - Starting at 06:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.015.us2" start="20260202183000 -0400" stop="20260202220000 -0400">
-    <title lang="en">LIVE: Buffalo Sabres vs. Florida Panthers</title>
-    <desc lang="en">Live sports action on ESPN+: Buffalo Sabres vs. Florida Panthers. Event starts at 06:30pm EDT.</desc>
+  <programme channel="ESPNPLUS.042.us2" start="20260203180000 -0400" stop="20260203213000 -0400">
+    <title lang="en">LIVE: SIUE vs. Lindenwood</title>
+    <desc lang="en">Live sports action on ESPN+: SIUE vs. Lindenwood. Event starts at 06:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.016.us2" start="20260202000100 -0400" stop="20260202173000 -0400">
+  <programme channel="ESPNPLUS.043.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">#24 Miami (OH) vs. Buffalo - Event starts at 06:30pm EDT</desc>
+    <desc lang="en">Little Rock vs. UT Martin - Event starts at 06:30pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.016.us2" start="20260202173000 -0400" stop="20260202183000 -0400">
+  <programme channel="ESPNPLUS.043.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">#24 Miami (OH) vs. Buffalo - Starting at 06:30pm EDT</desc>
+    <desc lang="en">Little Rock vs. UT Martin - Starting at 06:30pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.016.us2" start="20260202183000 -0400" stop="20260202220000 -0400">
-    <title lang="en">LIVE: #24 Miami (OH) vs. Buffalo</title>
-    <desc lang="en">Live sports action on ESPN+: #24 Miami (OH) vs. Buffalo. Event starts at 06:30pm EDT.</desc>
+  <programme channel="ESPNPLUS.043.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Little Rock vs. UT Martin</title>
+    <desc lang="en">Live sports action on ESPN+: Little Rock vs. UT Martin. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.017.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.018.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.019.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.020.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.021.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.022.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.023.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.024.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.025.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.026.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.027.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.028.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.029.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.030.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.044.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Washington Capitals vs. Philadelphia Flyers - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.031.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.044.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Washington Capitals vs. Philadelphia Flyers - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.032.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.044.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Washington Capitals vs. Philadelphia Flyers</title>
+    <desc lang="en">Live sports action on ESPN+: Washington Capitals vs. Philadelphia Flyers. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.033.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.045.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Akron vs. Eastern Michigan - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.034.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.045.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Akron vs. Eastern Michigan - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.035.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.045.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Akron vs. Eastern Michigan</title>
+    <desc lang="en">Live sports action on ESPN+: Akron vs. Eastern Michigan. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.036.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.046.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Columbus Blue Jackets vs. New Jersey Devils - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.037.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.046.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Columbus Blue Jackets vs. New Jersey Devils - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.038.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.046.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Columbus Blue Jackets vs. New Jersey Devils</title>
+    <desc lang="en">Live sports action on ESPN+: Columbus Blue Jackets vs. New Jersey Devils. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.039.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.047.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Ottawa Senators vs. Carolina Hurricanes - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.040.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.047.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Ottawa Senators vs. Carolina Hurricanes - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.041.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.047.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Ottawa Senators vs. Carolina Hurricanes</title>
+    <desc lang="en">Live sports action on ESPN+: Ottawa Senators vs. Carolina Hurricanes. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.042.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.048.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">#23 Miami (OH) vs. Buffalo - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.043.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.048.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">#23 Miami (OH) vs. Buffalo - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.044.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.048.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: #23 Miami (OH) vs. Buffalo</title>
+    <desc lang="en">Live sports action on ESPN+: #23 Miami (OH) vs. Buffalo. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.045.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.049.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Canisius vs. Niagara - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.046.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.049.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Canisius vs. Niagara - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.047.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.049.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Canisius vs. Niagara</title>
+    <desc lang="en">Live sports action on ESPN+: Canisius vs. Niagara. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.048.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.050.us2" start="20260203000100 -0400" stop="20260203173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">Niagara vs. Canisius - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.049.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
-    <category lang="en">Sports</category>
+  <programme channel="ESPNPLUS.050.us2" start="20260203173000 -0400" stop="20260203183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">Niagara vs. Canisius - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.050.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.050.us2" start="20260203183000 -0400" stop="20260203220000 -0400">
+    <title lang="en">LIVE: Niagara vs. Canisius</title>
+    <desc lang="en">Live sports action on ESPN+: Niagara vs. Canisius. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.051.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.051.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.052.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.052.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.053.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.053.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.054.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.054.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.055.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.055.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.056.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.056.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.057.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.057.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.058.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.058.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.059.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.059.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.060.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.060.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.061.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.061.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.062.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.062.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.063.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.063.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.064.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.064.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.065.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.065.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.066.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.066.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.067.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.067.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.068.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.068.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.069.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.069.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.070.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.070.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.071.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.071.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.072.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.072.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.073.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.073.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.074.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.074.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.075.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.075.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.076.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.076.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.077.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.077.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.078.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.078.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.079.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.079.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.080.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.080.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.081.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.081.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.082.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.082.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.083.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.083.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.084.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.084.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.085.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.085.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.086.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.086.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.087.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.087.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.088.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.088.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.089.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.089.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.090.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.090.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.091.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.091.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.092.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.092.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.093.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.093.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.094.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.094.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.095.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.095.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.096.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.096.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.097.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.097.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.098.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.098.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.099.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.099.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.100.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.100.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.101.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.101.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.102.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.102.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.103.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.103.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.104.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.104.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.105.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.105.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.106.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.106.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.107.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.107.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.108.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.108.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.109.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.109.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.110.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.110.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.111.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.111.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.112.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.112.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.113.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.113.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.114.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.114.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.115.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.115.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.116.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.116.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.117.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.117.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.118.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.118.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.119.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.119.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.120.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.120.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.121.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.121.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.122.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.122.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.123.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.123.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.124.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.124.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.125.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.125.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.126.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.126.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.127.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.127.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.128.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.128.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.129.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.129.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.130.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.130.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.131.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.131.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.132.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.132.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.133.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.133.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.134.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.134.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.135.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.135.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.136.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.136.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.137.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.137.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.138.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.138.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.139.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.139.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.140.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.140.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.141.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.141.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.142.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.142.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.143.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.143.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.144.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.144.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.145.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.145.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.146.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.146.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.147.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.147.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.148.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.148.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.149.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.149.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.150.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.150.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.151.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.151.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.152.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.152.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.153.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.153.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.154.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.154.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.155.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.155.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.156.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.156.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.157.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.157.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.158.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.158.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.159.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.159.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.160.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.160.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.161.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.161.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.162.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.162.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.163.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.163.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.164.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.164.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.165.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.165.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.166.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.166.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.167.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.167.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.168.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.168.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.169.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.169.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.170.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.170.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.171.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.171.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.172.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.172.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.173.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.173.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.174.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.174.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.175.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.175.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.176.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.176.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.177.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.177.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.178.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.178.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.179.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.179.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.180.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.180.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.181.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.181.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.182.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.182.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.183.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.183.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.184.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.184.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.185.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.185.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.186.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.186.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.187.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.187.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.188.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.188.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.189.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.189.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.190.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.190.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.191.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.191.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.192.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.192.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.193.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.193.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.194.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.194.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.195.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.195.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.196.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.196.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.197.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.197.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.198.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.198.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.199.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.199.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.200.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.200.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.201.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.201.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.202.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.202.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.203.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.203.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.204.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.204.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.205.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.205.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.206.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.206.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.207.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.207.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.208.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.208.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.209.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.209.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.210.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.210.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.211.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.211.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.212.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.212.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.213.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.213.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.214.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.214.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.215.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.215.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.216.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.216.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.217.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.217.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.218.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.218.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.219.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.219.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.220.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.220.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.221.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.221.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.222.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.222.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.223.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.223.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.224.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.224.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.225.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.225.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.226.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.226.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.227.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.227.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.228.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.228.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.229.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.229.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.230.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.230.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.231.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.231.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.232.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.232.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.233.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.233.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.234.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.234.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.235.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.235.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.236.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.236.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.237.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.237.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.238.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.238.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.239.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.239.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.240.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.240.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.241.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.241.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.242.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.242.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.243.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.243.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.244.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.244.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.245.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.245.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.246.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.246.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.247.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.247.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.248.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.248.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.249.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.249.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.250.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.250.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.251.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.251.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.252.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.252.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.253.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.253.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.254.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.254.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.255.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.255.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.256.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.256.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.257.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.257.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.258.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.258.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.259.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.259.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.260.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.260.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.261.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.261.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.262.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.262.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.263.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.263.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.264.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.264.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.265.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.265.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.266.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.266.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.267.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.267.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.268.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.268.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.269.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.269.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.270.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.270.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.271.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.271.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.272.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.272.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.273.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.273.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.274.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.274.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.275.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.275.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.276.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.276.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.277.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.277.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.278.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.278.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.279.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.279.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.280.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.280.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.281.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.281.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.282.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.282.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.283.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.283.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.284.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.284.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.285.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.285.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.286.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.286.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.287.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.287.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.288.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.288.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.289.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.289.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.290.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.290.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.291.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.291.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.292.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.292.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.293.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.293.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.294.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.294.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.295.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.295.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.296.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.296.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.297.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.297.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.298.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.298.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.299.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.299.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.300.us2" start="20260202000100 -0500" stop="20260202235900 -0500">
+  <programme channel="ESPNPLUS.300.us2" start="20260203000100 -0500" stop="20260203235900 -0500">
     <title lang="en">No Games Scheduled Today</title>
     <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
