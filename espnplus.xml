@@ -1956,21 +1956,9 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.027.us2" start="20260204000100 -0400" stop="20260204022500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Sydney FC vs. Brisbane Roar FC - Event starts at 03:25am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.027.us2" start="20260204022500 -0400" stop="20260204032500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Sydney FC vs. Brisbane Roar FC - Starting at 03:25am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.027.us2" start="20260204032500 -0400" stop="20260204065500 -0400">
-    <title lang="en">LIVE: Sydney FC vs. Brisbane Roar FC</title>
-    <desc lang="en">Live sports action on ESPN+: Sydney FC vs. Brisbane Roar FC. Event starts at 03:25am EDT.</desc>
+  <programme channel="ESPNPLUS.027.us2" start="20260204000100 -0500" stop="20260204235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
