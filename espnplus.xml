@@ -1806,111 +1806,87 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.002.us2" start="20260207000100 -0400" stop="20260207022500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Melbourne Victory vs. Newcastle Jets - Event starts at 03:25am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.002.us2" start="20260207022500 -0400" stop="20260207032500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Melbourne Victory vs. Newcastle Jets - Starting at 03:25am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.002.us2" start="20260207032500 -0400" stop="20260207065500 -0400">
-    <title lang="en">LIVE: Melbourne Victory vs. Newcastle Jets</title>
-    <desc lang="en">Live sports action on ESPN+: Melbourne Victory vs. Newcastle Jets. Event starts at 03:25am EDT.</desc>
+  <programme channel="ESPNPLUS.002.us2" start="20260207000100 -0500" stop="20260207235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.003.us2" start="20260207000100 -0400" stop="20260207023500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Western Sydney Wanderers FC vs. Melbourne City FC - Event starts at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.003.us2" start="20260207023500 -0400" stop="20260207033500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Western Sydney Wanderers FC vs. Melbourne City FC - Starting at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.003.us2" start="20260207033500 -0400" stop="20260207070500 -0400">
-    <title lang="en">LIVE: Western Sydney Wanderers FC vs. Melbourne City FC</title>
-    <desc lang="en">Live sports action on ESPN+: Western Sydney Wanderers FC vs. Melbourne City FC. Event starts at 03:35am EDT.</desc>
+  <programme channel="ESPNPLUS.003.us2" start="20260207000100 -0500" stop="20260207235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.004.us2" start="20260207000100 -0400" stop="20260207055500 -0400">
+  <programme channel="ESPNPLUS.004.us2" start="20260207000100 -0400" stop="20260207055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SC Paderborn 07 vs. 1. FC Nurnberg - Event starts at 06:55am EDT</desc>
+    <desc lang="en">SC Paderborn 07 vs. 1. FC Nurnberg - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.004.us2" start="20260207055500 -0400" stop="20260207065500 -0400">
+  <programme channel="ESPNPLUS.004.us2" start="20260207055000 -0400" stop="20260207065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SC Paderborn 07 vs. 1. FC Nurnberg - Starting at 06:55am EDT</desc>
+    <desc lang="en">SC Paderborn 07 vs. 1. FC Nurnberg - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.004.us2" start="20260207065500 -0400" stop="20260207102500 -0400">
+  <programme channel="ESPNPLUS.004.us2" start="20260207065000 -0400" stop="20260207102000 -0400">
     <title lang="en">LIVE: SC Paderborn 07 vs. 1. FC Nurnberg</title>
-    <desc lang="en">Live sports action on ESPN+: SC Paderborn 07 vs. 1. FC Nurnberg. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SC Paderborn 07 vs. 1. FC Nurnberg. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.005.us2" start="20260207000100 -0400" stop="20260207055500 -0400">
+  <programme channel="ESPNPLUS.005.us2" start="20260207000100 -0400" stop="20260207055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">FC Schalke 04 vs. SG Dynamo Dresden - Event starts at 06:55am EDT</desc>
+    <desc lang="en">FC Schalke 04 vs. SG Dynamo Dresden - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.005.us2" start="20260207055500 -0400" stop="20260207065500 -0400">
+  <programme channel="ESPNPLUS.005.us2" start="20260207055000 -0400" stop="20260207065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">FC Schalke 04 vs. SG Dynamo Dresden - Starting at 06:55am EDT</desc>
+    <desc lang="en">FC Schalke 04 vs. SG Dynamo Dresden - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.005.us2" start="20260207065500 -0400" stop="20260207102500 -0400">
+  <programme channel="ESPNPLUS.005.us2" start="20260207065000 -0400" stop="20260207102000 -0400">
     <title lang="en">LIVE: FC Schalke 04 vs. SG Dynamo Dresden</title>
-    <desc lang="en">Live sports action on ESPN+: FC Schalke 04 vs. SG Dynamo Dresden. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: FC Schalke 04 vs. SG Dynamo Dresden. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260207000100 -0400" stop="20260207055500 -0400">
+  <programme channel="ESPNPLUS.006.us2" start="20260207000100 -0400" stop="20260207055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Leicester City vs. Manchester United - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Leicester City vs. Manchester United - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260207055500 -0400" stop="20260207065500 -0400">
+  <programme channel="ESPNPLUS.006.us2" start="20260207055000 -0400" stop="20260207065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Leicester City vs. Manchester United - Starting at 06:55am EDT</desc>
+    <desc lang="en">Leicester City vs. Manchester United - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.006.us2" start="20260207065500 -0400" stop="20260207102500 -0400">
+  <programme channel="ESPNPLUS.006.us2" start="20260207065000 -0400" stop="20260207102000 -0400">
     <title lang="en">LIVE: Leicester City vs. Manchester United</title>
-    <desc lang="en">Live sports action on ESPN+: Leicester City vs. Manchester United. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Leicester City vs. Manchester United. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260207000100 -0400" stop="20260207055500 -0400">
+  <programme channel="ESPNPLUS.007.us2" start="20260207000100 -0400" stop="20260207055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SV Elversberg vs. Hertha BSC - Event starts at 06:55am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Hertha BSC - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260207055500 -0400" stop="20260207065500 -0400">
+  <programme channel="ESPNPLUS.007.us2" start="20260207055000 -0400" stop="20260207065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SV Elversberg vs. Hertha BSC - Starting at 06:55am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Hertha BSC - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.007.us2" start="20260207065500 -0400" stop="20260207102500 -0400">
+  <programme channel="ESPNPLUS.007.us2" start="20260207065000 -0400" stop="20260207102000 -0400">
     <title lang="en">LIVE: SV Elversberg vs. Hertha BSC</title>
-    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Hertha BSC. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Hertha BSC. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -1950,21 +1926,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.010.us2" start="20260207000100 -0400" stop="20260207070000 -0400">
+  <programme channel="ESPNPLUS.010.us2" start="20260207000100 -0400" stop="20260207065700 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">FC Saarbrucken vs. FC Erzgebirge Aue - Event starts at 08:00am EDT</desc>
+    <desc lang="en">FC Saarbrucken vs. FC Erzgebirge Aue - Event starts at 07:57am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.010.us2" start="20260207070000 -0400" stop="20260207080000 -0400">
+  <programme channel="ESPNPLUS.010.us2" start="20260207065700 -0400" stop="20260207075700 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">FC Saarbrucken vs. FC Erzgebirge Aue - Starting at 08:00am EDT</desc>
+    <desc lang="en">FC Saarbrucken vs. FC Erzgebirge Aue - Starting at 07:57am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.010.us2" start="20260207080000 -0400" stop="20260207113000 -0400">
+  <programme channel="ESPNPLUS.010.us2" start="20260207075700 -0400" stop="20260207112700 -0400">
     <title lang="en">LIVE: FC Saarbrucken vs. FC Erzgebirge Aue</title>
-    <desc lang="en">Live sports action on ESPN+: FC Saarbrucken vs. FC Erzgebirge Aue. Event starts at 08:00am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: FC Saarbrucken vs. FC Erzgebirge Aue. Event starts at 07:57am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -4920,21 +4896,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.185.us2" start="20260207000100 -0400" stop="20260207140000 -0400">
+  <programme channel="ESPNPLUS.185.us2" start="20260207000100 -0400" stop="20260207120000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Massachusetts vs. Coastal Carolina - Event starts at 03:00pm EDT</desc>
+    <desc lang="en">Massachusetts vs. Coastal Carolina - Event starts at 01:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.185.us2" start="20260207140000 -0400" stop="20260207150000 -0400">
+  <programme channel="ESPNPLUS.185.us2" start="20260207120000 -0400" stop="20260207130000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Massachusetts vs. Coastal Carolina - Starting at 03:00pm EDT</desc>
+    <desc lang="en">Massachusetts vs. Coastal Carolina - Starting at 01:00pm EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.185.us2" start="20260207150000 -0400" stop="20260207183000 -0400">
+  <programme channel="ESPNPLUS.185.us2" start="20260207130000 -0400" stop="20260207163000 -0400">
     <title lang="en">LIVE: Massachusetts vs. Coastal Carolina</title>
-    <desc lang="en">Live sports action on ESPN+: Massachusetts vs. Coastal Carolina. Event starts at 03:00pm EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Massachusetts vs. Coastal Carolina. Event starts at 01:00pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
