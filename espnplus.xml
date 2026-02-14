@@ -1800,9 +1800,21 @@
     <url>https://www.espn.com/espnplus</url>
     <display-name lang="en">ESPN+ 300</display-name>
   </channel>
-  <programme channel="ESPNPLUS.001.us2" start="20260214000100 -0500" stop="20260214235900 -0500">
-    <title lang="en">No Games Scheduled Today</title>
-    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
+  <programme channel="ESPNPLUS.001.us2" start="20260214000100 -0400" stop="20260214173000 -0400">
+    <title lang="en">Game Later Today</title>
+    <desc lang="en">UIC vs. McNeese - Event starts at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.001.us2" start="20260214173000 -0400" stop="20260214183000 -0400">
+    <title lang="en">Game Starting Soon</title>
+    <desc lang="en">UIC vs. McNeese - Starting at 06:30pm EDT</desc>
+    <category lang="en">Sports Preview</category>
+    <previously-shown/>
+  </programme>
+  <programme channel="ESPNPLUS.001.us2" start="20260214183000 -0400" stop="20260214220000 -0400">
+    <title lang="en">LIVE: UIC vs. McNeese</title>
+    <desc lang="en">Live sports action on ESPN+: UIC vs. McNeese. Event starts at 06:30pm EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
@@ -2706,147 +2718,135 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.152.us2" start="20260214000100 -0400" stop="20260214025500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Perth Glory vs. Canberra United - Event starts at 03:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.152.us2" start="20260214025500 -0400" stop="20260214035500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Perth Glory vs. Canberra United - Starting at 03:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.152.us2" start="20260214035500 -0400" stop="20260214072500 -0400">
-    <title lang="en">LIVE: Perth Glory vs. Canberra United</title>
-    <desc lang="en">Live sports action on ESPN+: Perth Glory vs. Canberra United. Event starts at 03:55am EDT.</desc>
+  <programme channel="ESPNPLUS.152.us2" start="20260214000100 -0500" stop="20260214235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.153.us2" start="20260214000100 -0400" stop="20260214055500 -0400">
+  <programme channel="ESPNPLUS.153.us2" start="20260214000100 -0400" stop="20260214055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Hertha BSC vs. Hannover 96 - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Hertha BSC vs. Hannover 96 - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.153.us2" start="20260214055500 -0400" stop="20260214065500 -0400">
+  <programme channel="ESPNPLUS.153.us2" start="20260214055000 -0400" stop="20260214065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Hertha BSC vs. Hannover 96 - Starting at 06:55am EDT</desc>
+    <desc lang="en">Hertha BSC vs. Hannover 96 - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.153.us2" start="20260214065500 -0400" stop="20260214102500 -0400">
+  <programme channel="ESPNPLUS.153.us2" start="20260214065000 -0400" stop="20260214102000 -0400">
     <title lang="en">LIVE: Hertha BSC vs. Hannover 96</title>
-    <desc lang="en">Live sports action on ESPN+: Hertha BSC vs. Hannover 96. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Hertha BSC vs. Hannover 96. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.154.us2" start="20260214000100 -0400" stop="20260214055500 -0400">
+  <programme channel="ESPNPLUS.154.us2" start="20260214000100 -0400" stop="20260214055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Eintracht Braunschweig vs. SV Darmstadt 98 - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Eintracht Braunschweig vs. SV Darmstadt 98 - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.154.us2" start="20260214055500 -0400" stop="20260214065500 -0400">
+  <programme channel="ESPNPLUS.154.us2" start="20260214055000 -0400" stop="20260214065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Eintracht Braunschweig vs. SV Darmstadt 98 - Starting at 06:55am EDT</desc>
+    <desc lang="en">Eintracht Braunschweig vs. SV Darmstadt 98 - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.154.us2" start="20260214065500 -0400" stop="20260214102500 -0400">
+  <programme channel="ESPNPLUS.154.us2" start="20260214065000 -0400" stop="20260214102000 -0400">
     <title lang="en">LIVE: Eintracht Braunschweig vs. SV Darmstadt 98</title>
-    <desc lang="en">Live sports action on ESPN+: Eintracht Braunschweig vs. SV Darmstadt 98. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Eintracht Braunschweig vs. SV Darmstadt 98. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.155.us2" start="20260214000100 -0400" stop="20260214055500 -0400">
+  <programme channel="ESPNPLUS.155.us2" start="20260214000100 -0400" stop="20260214055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">1. FC Kaiserslautern vs. SpVgg Greuther Fürth - Event starts at 06:55am EDT</desc>
+    <desc lang="en">1. FC Kaiserslautern vs. SpVgg Greuther Fürth - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.155.us2" start="20260214055500 -0400" stop="20260214065500 -0400">
+  <programme channel="ESPNPLUS.155.us2" start="20260214055000 -0400" stop="20260214065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">1. FC Kaiserslautern vs. SpVgg Greuther Fürth - Starting at 06:55am EDT</desc>
+    <desc lang="en">1. FC Kaiserslautern vs. SpVgg Greuther Fürth - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.155.us2" start="20260214065500 -0400" stop="20260214102500 -0400">
+  <programme channel="ESPNPLUS.155.us2" start="20260214065000 -0400" stop="20260214102000 -0400">
     <title lang="en">LIVE: 1. FC Kaiserslautern vs. SpVgg Greuther Fürth</title>
-    <desc lang="en">Live sports action on ESPN+: 1. FC Kaiserslautern vs. SpVgg Greuther Fürth. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: 1. FC Kaiserslautern vs. SpVgg Greuther Fürth. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.156.us2" start="20260214000100 -0400" stop="20260214061000 -0400">
+  <programme channel="ESPNPLUS.156.us2" start="20260214000100 -0400" stop="20260214060500 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Burton Albion vs. West Ham United (Round 4) - Event starts at 07:10am EDT</desc>
+    <desc lang="en">Burton Albion vs. West Ham United (Round 4) - Event starts at 07:05am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.156.us2" start="20260214061000 -0400" stop="20260214071000 -0400">
+  <programme channel="ESPNPLUS.156.us2" start="20260214060500 -0400" stop="20260214070500 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Burton Albion vs. West Ham United (Round 4) - Starting at 07:10am EDT</desc>
+    <desc lang="en">Burton Albion vs. West Ham United (Round 4) - Starting at 07:05am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.156.us2" start="20260214071000 -0400" stop="20260214104000 -0400">
+  <programme channel="ESPNPLUS.156.us2" start="20260214070500 -0400" stop="20260214103500 -0400">
     <title lang="en">LIVE: Burton Albion vs. West Ham United (Round 4)</title>
-    <desc lang="en">Live sports action on ESPN+: Burton Albion vs. West Ham United (Round 4). Event starts at 07:10am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Burton Albion vs. West Ham United (Round 4). Event starts at 07:05am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.157.us2" start="20260214000100 -0400" stop="20260214065000 -0400">
+  <programme channel="ESPNPLUS.157.us2" start="20260214000100 -0400" stop="20260214064700 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">RCD Espanyol vs. Celta de Vigo - Event starts at 07:50am EDT</desc>
+    <desc lang="en">RCD Espanyol vs. Celta de Vigo - Event starts at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.157.us2" start="20260214065000 -0400" stop="20260214075000 -0400">
+  <programme channel="ESPNPLUS.157.us2" start="20260214064700 -0400" stop="20260214074700 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">RCD Espanyol vs. Celta de Vigo - Starting at 07:50am EDT</desc>
+    <desc lang="en">RCD Espanyol vs. Celta de Vigo - Starting at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.157.us2" start="20260214075000 -0400" stop="20260214112000 -0400">
+  <programme channel="ESPNPLUS.157.us2" start="20260214074700 -0400" stop="20260214111700 -0400">
     <title lang="en">LIVE: RCD Espanyol vs. Celta de Vigo</title>
-    <desc lang="en">Live sports action on ESPN+: RCD Espanyol vs. Celta de Vigo. Event starts at 07:50am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: RCD Espanyol vs. Celta de Vigo. Event starts at 07:47am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.158.us2" start="20260214000100 -0400" stop="20260214065500 -0400">
+  <programme channel="ESPNPLUS.158.us2" start="20260214000100 -0400" stop="20260214064700 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">En Español-RCD Espanyol vs. Celta de Vigo - Event starts at 07:55am EDT</desc>
+    <desc lang="en">En Español-RCD Espanyol vs. Celta de Vigo - Event starts at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.158.us2" start="20260214065500 -0400" stop="20260214075500 -0400">
+  <programme channel="ESPNPLUS.158.us2" start="20260214064700 -0400" stop="20260214074700 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">En Español-RCD Espanyol vs. Celta de Vigo - Starting at 07:55am EDT</desc>
+    <desc lang="en">En Español-RCD Espanyol vs. Celta de Vigo - Starting at 07:47am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.158.us2" start="20260214075500 -0400" stop="20260214112500 -0400">
+  <programme channel="ESPNPLUS.158.us2" start="20260214074700 -0400" stop="20260214111700 -0400">
     <title lang="en">LIVE: En Español-RCD Espanyol vs. Celta de Vigo</title>
-    <desc lang="en">Live sports action on ESPN+: En Español-RCD Espanyol vs. Celta de Vigo. Event starts at 07:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: En Español-RCD Espanyol vs. Celta de Vigo. Event starts at 07:47am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.159.us2" start="20260214000100 -0400" stop="20260214070000 -0400">
+  <programme channel="ESPNPLUS.159.us2" start="20260214000100 -0400" stop="20260214065900 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">VfL Osnabrück vs. F.C. Hansa Rostock - Event starts at 08:00am EDT</desc>
+    <desc lang="en">VfL Osnabrück vs. F.C. Hansa Rostock - Event starts at 07:59am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.159.us2" start="20260214070000 -0400" stop="20260214080000 -0400">
+  <programme channel="ESPNPLUS.159.us2" start="20260214065900 -0400" stop="20260214075900 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">VfL Osnabrück vs. F.C. Hansa Rostock - Starting at 08:00am EDT</desc>
+    <desc lang="en">VfL Osnabrück vs. F.C. Hansa Rostock - Starting at 07:59am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.159.us2" start="20260214080000 -0400" stop="20260214113000 -0400">
+  <programme channel="ESPNPLUS.159.us2" start="20260214075900 -0400" stop="20260214112900 -0400">
     <title lang="en">LIVE: VfL Osnabrück vs. F.C. Hansa Rostock</title>
-    <desc lang="en">Live sports action on ESPN+: VfL Osnabrück vs. F.C. Hansa Rostock. Event starts at 08:00am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: VfL Osnabrück vs. F.C. Hansa Rostock. Event starts at 07:59am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
