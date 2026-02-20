@@ -2268,57 +2268,21 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.079.us2" start="20260220000100 -0400" stop="20260220015500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Melbourne Victory vs. Wellington Phoenix - Event starts at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.079.us2" start="20260220015500 -0400" stop="20260220025500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Melbourne Victory vs. Wellington Phoenix - Starting at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.079.us2" start="20260220025500 -0400" stop="20260220062500 -0400">
-    <title lang="en">LIVE: Melbourne Victory vs. Wellington Phoenix</title>
-    <desc lang="en">Live sports action on ESPN+: Melbourne Victory vs. Wellington Phoenix. Event starts at 02:55am EDT.</desc>
+  <programme channel="ESPNPLUS.079.us2" start="20260220000100 -0500" stop="20260220235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.080.us2" start="20260220000100 -0400" stop="20260220015500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Central Coast Mariners FC vs. Melbourne City FC - Event starts at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.080.us2" start="20260220015500 -0400" stop="20260220025500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Central Coast Mariners FC vs. Melbourne City FC - Starting at 02:55am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.080.us2" start="20260220025500 -0400" stop="20260220062500 -0400">
-    <title lang="en">LIVE: Central Coast Mariners FC vs. Melbourne City FC</title>
-    <desc lang="en">Live sports action on ESPN+: Central Coast Mariners FC vs. Melbourne City FC. Event starts at 02:55am EDT.</desc>
+  <programme channel="ESPNPLUS.080.us2" start="20260220000100 -0500" stop="20260220235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.081.us2" start="20260220000100 -0400" stop="20260220023000 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Adelaide United vs. Perth Glory - Event starts at 03:30am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.081.us2" start="20260220023000 -0400" stop="20260220033000 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Adelaide United vs. Perth Glory - Starting at 03:30am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.081.us2" start="20260220033000 -0400" stop="20260220070000 -0400">
-    <title lang="en">LIVE: Adelaide United vs. Perth Glory</title>
-    <desc lang="en">Live sports action on ESPN+: Adelaide United vs. Perth Glory. Event starts at 03:30am EDT.</desc>
+  <programme channel="ESPNPLUS.081.us2" start="20260220000100 -0500" stop="20260220235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
