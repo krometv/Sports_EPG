@@ -2340,75 +2340,63 @@
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.091.us2" start="20260221000100 -0400" stop="20260221023500 -0400">
-    <title lang="en">Game Later Today</title>
-    <desc lang="en">Melbourne City FC vs. Melbourne Victory - Event starts at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.091.us2" start="20260221023500 -0400" stop="20260221033500 -0400">
-    <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Melbourne City FC vs. Melbourne Victory - Starting at 03:35am EDT</desc>
-    <category lang="en">Sports Preview</category>
-    <previously-shown/>
-  </programme>
-  <programme channel="ESPNPLUS.091.us2" start="20260221033500 -0400" stop="20260221070500 -0400">
-    <title lang="en">LIVE: Melbourne City FC vs. Melbourne Victory</title>
-    <desc lang="en">Live sports action on ESPN+: Melbourne City FC vs. Melbourne Victory. Event starts at 03:35am EDT.</desc>
+  <programme channel="ESPNPLUS.091.us2" start="20260221000100 -0500" stop="20260221235900 -0500">
+    <title lang="en">No Games Scheduled Today</title>
+    <desc lang="en">Channel Offline - No ESPN+ events scheduled for this channel today. Check back for upcoming events.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.092.us2" start="20260221000100 -0400" stop="20260221055500 -0400">
+  <programme channel="ESPNPLUS.092.us2" start="20260221000100 -0400" stop="20260221055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">Karlsruher SC vs. Holstein Kiel - Event starts at 06:55am EDT</desc>
+    <desc lang="en">Karlsruher SC vs. Holstein Kiel - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.092.us2" start="20260221055500 -0400" stop="20260221065500 -0400">
+  <programme channel="ESPNPLUS.092.us2" start="20260221055000 -0400" stop="20260221065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">Karlsruher SC vs. Holstein Kiel - Starting at 06:55am EDT</desc>
+    <desc lang="en">Karlsruher SC vs. Holstein Kiel - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.092.us2" start="20260221065500 -0400" stop="20260221102500 -0400">
+  <programme channel="ESPNPLUS.092.us2" start="20260221065000 -0400" stop="20260221102000 -0400">
     <title lang="en">LIVE: Karlsruher SC vs. Holstein Kiel</title>
-    <desc lang="en">Live sports action on ESPN+: Karlsruher SC vs. Holstein Kiel. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: Karlsruher SC vs. Holstein Kiel. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.093.us2" start="20260221000100 -0400" stop="20260221055500 -0400">
+  <programme channel="ESPNPLUS.093.us2" start="20260221000100 -0400" stop="20260221055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SV Elversberg vs. Eintracht Braunschweig - Event starts at 06:55am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Eintracht Braunschweig - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.093.us2" start="20260221055500 -0400" stop="20260221065500 -0400">
+  <programme channel="ESPNPLUS.093.us2" start="20260221055000 -0400" stop="20260221065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SV Elversberg vs. Eintracht Braunschweig - Starting at 06:55am EDT</desc>
+    <desc lang="en">SV Elversberg vs. Eintracht Braunschweig - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.093.us2" start="20260221065500 -0400" stop="20260221102500 -0400">
+  <programme channel="ESPNPLUS.093.us2" start="20260221065000 -0400" stop="20260221102000 -0400">
     <title lang="en">LIVE: SV Elversberg vs. Eintracht Braunschweig</title>
-    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Eintracht Braunschweig. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SV Elversberg vs. Eintracht Braunschweig. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.094.us2" start="20260221000100 -0400" stop="20260221055500 -0400">
+  <programme channel="ESPNPLUS.094.us2" start="20260221000100 -0400" stop="20260221055000 -0400">
     <title lang="en">Game Later Today</title>
-    <desc lang="en">SV Darmstadt 98 vs. Fortuna Dusseldorf - Event starts at 06:55am EDT</desc>
+    <desc lang="en">SV Darmstadt 98 vs. Fortuna Dusseldorf - Event starts at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.094.us2" start="20260221055500 -0400" stop="20260221065500 -0400">
+  <programme channel="ESPNPLUS.094.us2" start="20260221055000 -0400" stop="20260221065000 -0400">
     <title lang="en">Game Starting Soon</title>
-    <desc lang="en">SV Darmstadt 98 vs. Fortuna Dusseldorf - Starting at 06:55am EDT</desc>
+    <desc lang="en">SV Darmstadt 98 vs. Fortuna Dusseldorf - Starting at 06:50am EDT</desc>
     <category lang="en">Sports Preview</category>
     <previously-shown/>
   </programme>
-  <programme channel="ESPNPLUS.094.us2" start="20260221065500 -0400" stop="20260221102500 -0400">
+  <programme channel="ESPNPLUS.094.us2" start="20260221065000 -0400" stop="20260221102000 -0400">
     <title lang="en">LIVE: SV Darmstadt 98 vs. Fortuna Dusseldorf</title>
-    <desc lang="en">Live sports action on ESPN+: SV Darmstadt 98 vs. Fortuna Dusseldorf. Event starts at 06:55am EDT.</desc>
+    <desc lang="en">Live sports action on ESPN+: SV Darmstadt 98 vs. Fortuna Dusseldorf. Event starts at 06:50am EDT.</desc>
     <category lang="en">Sports</category>
     <previously-shown/>
   </programme>
